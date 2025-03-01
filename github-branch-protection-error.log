@@ -1,9 +1,0 @@
-2025-03-01 18:13:17 [ERROR]: ❌ Failed to remove checks from alpine-curl/master: Cannot read properties of null (reading 'length')
-2025-03-01 18:13:17 [ERROR]: ❌ Failed to update alpine-curl: Cannot read properties of null (reading 'length')
-2025-03-01 18:13:42 [ERROR]: ❌ Failed to remove checks from bashbrew/master: Cannot read properties of null (reading 'length')
-2025-03-01 18:13:42 [ERROR]: ❌ Failed to update bashbrew: Cannot read properties of null (reading 'length')
-2025-03-01 18:13:49 [ERROR]: ❌ Failed to remove checks from blackhole/master: Cannot read properties of null (reading 'length')
-2025-03-01 18:13:49 [ERROR]: ❌ Failed to update blackhole: Cannot read properties of null (reading 'length')
-2025-03-01 18:14:04 [ERROR]: ❌ Failed to remove checks from cdk/main: Cannot read properties of null (reading 'length')
-2025-03-01 18:14:04 [ERROR]: ❌ Failed to update cdk: Cannot read properties of null (reading 'length')
-2025-03-01 18:14:15 [ERROR]: ❌ Failed to remove checks from cligenius-cli/master: Repository was archived so is read-only. - https://docs.github.com/rest/branches/branch-protection#update-branch-protection
