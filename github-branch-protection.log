@@ -1,0 +1,2231 @@
+2025-03-01 18:12:44 [INFO]: ✅ Token validated successfully for user: gitworkflows
+2025-03-01 18:12:44 [INFO]: ✅ GitHub token validated successfully
+2025-03-01 18:12:44 [INFO]: U0001F50D Listing repositories for organization khulnasoft...
+2025-03-01 18:12:54 [INFO]: ✅ Found 931 repositories for organization khulnasoft
+2025-03-01 18:12:54 [INFO]: U0001F4E6 Retrieved 931 repositories.
+2025-03-01 18:12:55 [WARN]: ⚠️ Branch master in .github is not protected.
+2025-03-01 18:12:55 [INFO]: U0001F6AB No branch protection found for .github/master
+2025-03-01 18:12:56 [WARN]: ⚠️ Branch master in aclk-schemas is not protected.
+2025-03-01 18:12:56 [INFO]: U0001F6AB No branch protection found for aclk-schemas/master
+2025-03-01 18:12:56 [WARN]: ⚠️ Branch master in action-composite-template is not protected.
+2025-03-01 18:12:56 [INFO]: U0001F6AB No branch protection found for action-composite-template/master
+2025-03-01 18:12:56 [WARN]: ⚠️ Branch main in action-cache is not protected.
+2025-03-01 18:12:56 [INFO]: U0001F6AB No branch protection found for action-cache/main
+2025-03-01 18:12:56 [WARN]: ⚠️ Branch master in act is not protected.
+2025-03-01 18:12:56 [INFO]: U0001F6AB No branch protection found for act/master
+2025-03-01 18:12:56 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:12:59 [WARN]: ⚠️ Branch master in action-meshplay-plugins is not protected.
+2025-03-01 18:12:59 [INFO]: U0001F6AB No branch protection found for action-meshplay-plugins/master
+2025-03-01 18:12:59 [WARN]: ⚠️ Branch main in action-python is not protected.
+2025-03-01 18:12:59 [INFO]: U0001F6AB No branch protection found for action-python/main
+2025-03-01 18:12:59 [WARN]: ⚠️ Branch master in action-template-sync is not protected.
+2025-03-01 18:12:59 [INFO]: U0001F6AB No branch protection found for action-template-sync/master
+2025-03-01 18:12:59 [WARN]: ⚠️ Branch main in action-setup-kengine is not protected.
+2025-03-01 18:12:59 [INFO]: U0001F6AB No branch protection found for action-setup-kengine/main
+2025-03-01 18:12:59 [WARN]: ⚠️ Branch main in action-semantic-pull-request is not protected.
+2025-03-01 18:12:59 [INFO]: U0001F6AB No branch protection found for action-semantic-pull-request/main
+2025-03-01 18:12:59 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:02 [WARN]: ⚠️ Branch release/v1 in actions is not protected.
+2025-03-01 18:13:02 [INFO]: U0001F6AB No branch protection found for actions/release/v1
+2025-03-01 18:13:02 [WARN]: ⚠️ Branch master in actions-runner-controller is not protected.
+2025-03-01 18:13:02 [INFO]: U0001F6AB No branch protection found for actions-runner-controller/master
+2025-03-01 18:13:02 [WARN]: ⚠️ Branch v1 in actions-old is not protected.
+2025-03-01 18:13:02 [INFO]: U0001F6AB No branch protection found for actions-old/v1
+2025-03-01 18:13:02 [WARN]: ⚠️ Branch master in action-workflow-run-wait is not protected.
+2025-03-01 18:13:02 [INFO]: U0001F6AB No branch protection found for action-workflow-run-wait/master
+2025-03-01 18:13:02 [WARN]: ⚠️ Branch master in action-workflow-queue is not protected.
+2025-03-01 18:13:02 [INFO]: U0001F6AB No branch protection found for action-workflow-queue/master
+2025-03-01 18:13:02 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:06 [WARN]: ⚠️ Branch main in actions-toolkit is not protected.
+2025-03-01 18:13:06 [INFO]: U0001F6AB No branch protection found for actions-toolkit/main
+2025-03-01 18:13:06 [WARN]: ⚠️ Branch main in addonfactory-github-workflows is not protected.
+2025-03-01 18:13:06 [INFO]: U0001F6AB No branch protection found for addonfactory-github-workflows/main
+2025-03-01 18:13:06 [WARN]: ⚠️ Branch main in addonfactory-ort-action is not protected.
+2025-03-01 18:13:06 [INFO]: U0001F6AB No branch protection found for addonfactory-ort-action/main
+2025-03-01 18:13:06 [WARN]: ⚠️ Branch main in addonfactory-packaging-toolkit-action is not protected.
+2025-03-01 18:13:06 [INFO]: U0001F6AB No branch protection found for addonfactory-packaging-toolkit-action/main
+2025-03-01 18:13:06 [WARN]: ⚠️ Branch main in AdCraft is not protected.
+2025-03-01 18:13:06 [INFO]: U0001F6AB No branch protection found for AdCraft/main
+2025-03-01 18:13:06 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:09 [WARN]: ⚠️ Branch main in agent-protocol is not protected.
+2025-03-01 18:13:09 [INFO]: U0001F6AB No branch protection found for agent-protocol/main
+2025-03-01 18:13:09 [WARN]: ⚠️ Branch main in addonfactory-update-semver is not protected.
+2025-03-01 18:13:09 [INFO]: U0001F6AB No branch protection found for addonfactory-update-semver/main
+2025-03-01 18:13:09 [WARN]: ⚠️ Branch main in addonfactory-ucc-generator-action is not protected.
+2025-03-01 18:13:09 [INFO]: U0001F6AB No branch protection found for addonfactory-ucc-generator-action/main
+2025-03-01 18:13:09 [WARN]: ⚠️ Branch main in aec-server is not protected.
+2025-03-01 18:13:09 [INFO]: U0001F6AB No branch protection found for aec-server/main
+2025-03-01 18:13:09 [WARN]: ⚠️ Branch develop in addonfactory-workflow-addon-release is not protected.
+2025-03-01 18:13:09 [INFO]: U0001F6AB No branch protection found for addonfactory-workflow-addon-release/develop
+2025-03-01 18:13:09 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:13 [WARN]: ⚠️ Branch main in ai-toolbox is not protected.
+2025-03-01 18:13:13 [INFO]: U0001F6AB No branch protection found for ai-toolbox/main
+2025-03-01 18:13:13 [WARN]: ⚠️ Branch main in AIExec is not protected.
+2025-03-01 18:13:13 [INFO]: U0001F6AB No branch protection found for AIExec/main
+2025-03-01 18:13:13 [WARN]: ⚠️ Branch main in ai-template is not protected.
+2025-03-01 18:13:13 [INFO]: U0001F6AB No branch protection found for ai-template/main
+2025-03-01 18:13:13 [WARN]: ⚠️ Branch v3 in air-datepicker is not protected.
+2025-03-01 18:13:13 [INFO]: U0001F6AB No branch protection found for air-datepicker/v3
+2025-03-01 18:13:13 [WARN]: ⚠️ Branch main in AI-BOM is not protected.
+2025-03-01 18:13:13 [INFO]: U0001F6AB No branch protection found for AI-BOM/main
+2025-03-01 18:13:13 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:16 [WARN]: ⚠️ Branch main in AlertSync is not protected.
+2025-03-01 18:13:16 [INFO]: U0001F6AB No branch protection found for AlertSync/main
+2025-03-01 18:13:16 [WARN]: ⚠️ Branch main in amp-docs is not protected.
+2025-03-01 18:13:16 [INFO]: U0001F6AB No branch protection found for amp-docs/main
+2025-03-01 18:13:16 [WARN]: ⚠️ Branch master in analyze-cli is not protected.
+2025-03-01 18:13:16 [INFO]: U0001F6AB No branch protection found for analyze-cli/master
+2025-03-01 18:13:16 [WARN]: ⚠️ Branch main in AlphaKhulnasoft is not protected.
+2025-03-01 18:13:16 [INFO]: U0001F6AB No branch protection found for AlphaKhulnasoft/main
+2025-03-01 18:13:17 [ERROR]: ❌ Failed to remove checks from alpine-curl/master: Cannot read properties of null (reading 'length')
+2025-03-01 18:13:17 [ERROR]: ❌ Failed to update alpine-curl: Cannot read properties of null (reading 'length')
+2025-03-01 18:13:17 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:20 [WARN]: ⚠️ Branch master in analyze-scripts is not protected.
+2025-03-01 18:13:20 [INFO]: U0001F6AB No branch protection found for analyze-scripts/master
+2025-03-01 18:13:20 [WARN]: ⚠️ Branch master in ansible-docker-role is not protected.
+2025-03-01 18:13:20 [INFO]: U0001F6AB No branch protection found for ansible-docker-role/master
+2025-03-01 18:13:20 [WARN]: ⚠️ Branch main in ansible-docker is not protected.
+2025-03-01 18:13:20 [INFO]: U0001F6AB No branch protection found for ansible-docker/main
+2025-03-01 18:13:20 [WARN]: ⚠️ Branch master in analyze-python-sdk is not protected.
+2025-03-01 18:13:20 [INFO]: U0001F6AB No branch protection found for analyze-python-sdk/master
+2025-03-01 18:13:20 [WARN]: ⚠️ Branch master in analyze-community-ghidra-plugin is not protected.
+2025-03-01 18:13:20 [INFO]: U0001F6AB No branch protection found for analyze-community-ghidra-plugin/master
+2025-03-01 18:13:20 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:24 [WARN]: ⚠️ Branch main in api-schemas is not protected.
+2025-03-01 18:13:24 [INFO]: U0001F6AB No branch protection found for api-schemas/main
+2025-03-01 18:13:24 [WARN]: ⚠️ Branch master in APTAttack is not protected.
+2025-03-01 18:13:24 [INFO]: U0001F6AB No branch protection found for APTAttack/master
+2025-03-01 18:13:24 [WARN]: ⚠️ Branch main in api-client is not protected.
+2025-03-01 18:13:24 [INFO]: U0001F6AB No branch protection found for api-client/main
+2025-03-01 18:13:24 [WARN]: ⚠️ Branch master in appengine-pipelines is not protected.
+2025-03-01 18:13:24 [INFO]: U0001F6AB No branch protection found for appengine-pipelines/master
+2025-03-01 18:13:24 [WARN]: ⚠️ Branch master in appengine-mapreduce is not protected.
+2025-03-01 18:13:24 [INFO]: U0001F6AB No branch protection found for appengine-mapreduce/master
+2025-03-01 18:13:24 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:27 [WARN]: ⚠️ Branch master in artifacthub is not protected.
+2025-03-01 18:13:27 [INFO]: U0001F6AB No branch protection found for artifacthub/master
+2025-03-01 18:13:27 [WARN]: ⚠️ Branch master in archiver is not protected.
+2025-03-01 18:13:27 [INFO]: U0001F6AB No branch protection found for archiver/master
+2025-03-01 18:13:27 [WARN]: ⚠️ Branch main in Assera is not protected.
+2025-03-01 18:13:27 [INFO]: U0001F6AB No branch protection found for Assera/main
+2025-03-01 18:13:27 [WARN]: ⚠️ Branch main in argocd-autopilot is not protected.
+2025-03-01 18:13:27 [INFO]: U0001F6AB No branch protection found for argocd-autopilot/main
+2025-03-01 18:13:27 [WARN]: ⚠️ Branch release-2.12.1 in argo-cd is not protected.
+2025-03-01 18:13:27 [INFO]: U0001F6AB No branch protection found for argo-cd/release-2.12.1
+2025-03-01 18:13:27 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:31 [WARN]: ⚠️ Branch main in attack_data is not protected.
+2025-03-01 18:13:31 [INFO]: U0001F6AB No branch protection found for attack_data/main
+2025-03-01 18:13:31 [WARN]: ⚠️ Branch master in auth-js is not protected.
+2025-03-01 18:13:31 [INFO]: U0001F6AB No branch protection found for auth-js/master
+2025-03-01 18:13:31 [WARN]: ⚠️ Branch develop in attack_range is not protected.
+2025-03-01 18:13:31 [INFO]: U0001F6AB No branch protection found for attack_range/develop
+2025-03-01 18:13:31 [WARN]: ⚠️ Branch master in auto-docker-labels is not protected.
+2025-03-01 18:13:31 [INFO]: U0001F6AB No branch protection found for auto-docker-labels/master
+2025-03-01 18:13:31 [WARN]: ⚠️ Branch master in AutoAGI is not protected.
+2025-03-01 18:13:31 [INFO]: U0001F6AB No branch protection found for AutoAGI/master
+2025-03-01 18:13:31 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:34 [WARN]: ⚠️ Branch main in autofix-action is not protected.
+2025-03-01 18:13:34 [INFO]: U0001F6AB No branch protection found for autofix-action/main
+2025-03-01 18:13:34 [WARN]: ⚠️ Branch master in automation-working-group is not protected.
+2025-03-01 18:13:34 [INFO]: U0001F6AB No branch protection found for automation-working-group/master
+2025-03-01 18:13:34 [WARN]: ⚠️ Branch main in AutoSemver is not protected.
+2025-03-01 18:13:34 [INFO]: U0001F6AB No branch protection found for AutoSemver/main
+2025-03-01 18:13:34 [WARN]: ⚠️ Branch main in autofix is not protected.
+2025-03-01 18:13:34 [INFO]: U0001F6AB No branch protection found for autofix/main
+2025-03-01 18:13:34 [WARN]: ⚠️ Branch main in AutoGPT-Maintainer is not protected.
+2025-03-01 18:13:34 [INFO]: U0001F6AB No branch protection found for AutoGPT-Maintainer/main
+2025-03-01 18:13:34 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:37 [WARN]: ⚠️ Branch main in awesome-llm-ai-agents is not protected.
+2025-03-01 18:13:37 [INFO]: U0001F6AB No branch protection found for awesome-llm-ai-agents/main
+2025-03-01 18:13:37 [WARN]: ⚠️ Branch main in avd-generator is not protected.
+2025-03-01 18:13:37 [INFO]: U0001F6AB No branch protection found for avd-generator/main
+2025-03-01 18:13:37 [WARN]: ⚠️ Branch main in Axilo is not protected.
+2025-03-01 18:13:37 [INFO]: U0001F6AB No branch protection found for Axilo/main
+2025-03-01 18:13:37 [WARN]: ⚠️ Branch devel in awx-operator is not protected.
+2025-03-01 18:13:37 [INFO]: U0001F6AB No branch protection found for awx-operator/devel
+2025-03-01 18:13:37 [WARN]: ⚠️ Branch main in awesome-linter is not protected.
+2025-03-01 18:13:37 [INFO]: U0001F6AB No branch protection found for awesome-linter/main
+2025-03-01 18:13:37 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:41 [WARN]: ⚠️ Branch master in Azure-Sentinel is not protected.
+2025-03-01 18:13:41 [INFO]: U0001F6AB No branch protection found for Azure-Sentinel/master
+2025-03-01 18:13:41 [WARN]: ⚠️ Branch master in bashbrew-khulnasoft is not protected.
+2025-03-01 18:13:41 [INFO]: U0001F6AB No branch protection found for bashbrew-khulnasoft/master
+2025-03-01 18:13:41 [WARN]: ⚠️ Branch main in badges is not protected.
+2025-03-01 18:13:41 [INFO]: U0001F6AB No branch protection found for badges/main
+2025-03-01 18:13:41 [WARN]: ⚠️ Branch dev in azure-devops-python-api is not protected.
+2025-03-01 18:13:41 [INFO]: U0001F6AB No branch protection found for azure-devops-python-api/dev
+2025-03-01 18:13:42 [ERROR]: ❌ Failed to remove checks from bashbrew/master: Cannot read properties of null (reading 'length')
+2025-03-01 18:13:42 [ERROR]: ❌ Failed to update bashbrew: Cannot read properties of null (reading 'length')
+2025-03-01 18:13:42 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:45 [WARN]: ⚠️ Branch master in bfsc-api is not protected.
+2025-03-01 18:13:45 [INFO]: U0001F6AB No branch protection found for bfsc-api/master
+2025-03-01 18:13:45 [WARN]: ⚠️ Branch main in bashbrew-khulnasoft-meta is not protected.
+2025-03-01 18:13:45 [INFO]: U0001F6AB No branch protection found for bashbrew-khulnasoft-meta/main
+2025-03-01 18:13:45 [WARN]: ⚠️ Branch master in BenchWeb is not protected.
+2025-03-01 18:13:45 [INFO]: U0001F6AB No branch protection found for BenchWeb/master
+2025-03-01 18:13:45 [WARN]: ⚠️ Branch main in BentoML is not protected.
+2025-03-01 18:13:45 [INFO]: U0001F6AB No branch protection found for BentoML/main
+2025-03-01 18:13:45 [WARN]: ⚠️ Branch main in binaries is not protected.
+2025-03-01 18:13:45 [INFO]: U0001F6AB No branch protection found for binaries/main
+2025-03-01 18:13:45 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:49 [WARN]: ⚠️ Branch main in bongonet is not protected.
+2025-03-01 18:13:49 [INFO]: U0001F6AB No branch protection found for bongonet/main
+2025-03-01 18:13:49 [WARN]: ⚠️ Branch main in BinPack is not protected.
+2025-03-01 18:13:49 [INFO]: U0001F6AB No branch protection found for BinPack/main
+2025-03-01 18:13:49 [WARN]: ⚠️ Branch main in btfhub is not protected.
+2025-03-01 18:13:49 [INFO]: U0001F6AB No branch protection found for btfhub/main
+2025-03-01 18:13:49 [WARN]: ⚠️ Branch main in btfhub-archive is not protected.
+2025-03-01 18:13:49 [INFO]: U0001F6AB No branch protection found for btfhub-archive/main
+2025-03-01 18:13:49 [ERROR]: ❌ Failed to remove checks from blackhole/master: Cannot read properties of null (reading 'length')
+2025-03-01 18:13:49 [ERROR]: ❌ Failed to update blackhole: Cannot read properties of null (reading 'length')
+2025-03-01 18:13:49 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:53 [WARN]: ⚠️ Branch main in bug-bounties is not protected.
+2025-03-01 18:13:53 [INFO]: U0001F6AB No branch protection found for bug-bounties/main
+2025-03-01 18:13:53 [WARN]: ⚠️ Branch main in bump-pydantic is not protected.
+2025-03-01 18:13:53 [INFO]: U0001F6AB No branch protection found for bump-pydantic/main
+2025-03-01 18:13:53 [WARN]: ⚠️ Branch master in buildx is not protected.
+2025-03-01 18:13:53 [INFO]: U0001F6AB No branch protection found for buildx/master
+2025-03-01 18:13:53 [WARN]: ⚠️ Branch main in BugVault is not protected.
+2025-03-01 18:13:53 [INFO]: U0001F6AB No branch protection found for BugVault/main
+2025-03-01 18:13:53 [WARN]: ⚠️ Branch main in build2docker is not protected.
+2025-03-01 18:13:53 [INFO]: U0001F6AB No branch protection found for build2docker/main
+2025-03-01 18:13:53 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:13:56 [WARN]: ⚠️ Branch master in bw-status is not protected.
+2025-03-01 18:13:56 [INFO]: U0001F6AB No branch protection found for bw-status/master
+2025-03-01 18:13:56 [WARN]: ⚠️ Branch master in ByteBreach is not protected.
+2025-03-01 18:13:56 [INFO]: U0001F6AB No branch protection found for ByteBreach/master
+2025-03-01 18:13:56 [WARN]: ⚠️ Branch master in BWVerifier is not protected.
+2025-03-01 18:13:56 [INFO]: U0001F6AB No branch protection found for BWVerifier/master
+2025-03-01 18:13:56 [WARN]: ⚠️ Branch master in bytebreach-cloud is not protected.
+2025-03-01 18:13:56 [INFO]: U0001F6AB No branch protection found for bytebreach-cloud/master
+2025-03-01 18:13:56 [WARN]: ⚠️ Branch master in BWPlugins is not protected.
+2025-03-01 18:13:56 [INFO]: U0001F6AB No branch protection found for BWPlugins/master
+2025-03-01 18:13:56 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:14:00 [WARN]: ⚠️ Branch main in cassandra is not protected.
+2025-03-01 18:14:00 [INFO]: U0001F6AB No branch protection found for cassandra/main
+2025-03-01 18:14:00 [WARN]: ⚠️ Branch master in CAPEv2 is not protected.
+2025-03-01 18:14:00 [INFO]: U0001F6AB No branch protection found for CAPEv2/master
+2025-03-01 18:14:00 [WARN]: ⚠️ Branch trunk in cassandra-dtest is not protected.
+2025-03-01 18:14:00 [INFO]: U0001F6AB No branch protection found for cassandra-dtest/trunk
+2025-03-01 18:14:00 [WARN]: ⚠️ Branch master in CAPE-Community is not protected.
+2025-03-01 18:14:00 [INFO]: U0001F6AB No branch protection found for CAPE-Community/master
+2025-03-01 18:14:00 [WARN]: ⚠️ Branch master in carbon-copy is not protected.
+2025-03-01 18:14:00 [INFO]: U0001F6AB No branch protection found for carbon-copy/master
+2025-03-01 18:14:00 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:14:03 [WARN]: ⚠️ Branch master in CassKube is not protected.
+2025-03-01 18:14:03 [INFO]: U0001F6AB No branch protection found for CassKube/master
+2025-03-01 18:14:03 [WARN]: ⚠️ Branch main in certified-operators is not protected.
+2025-03-01 18:14:03 [INFO]: U0001F6AB No branch protection found for certified-operators/main
+2025-03-01 18:14:03 [WARN]: ⚠️ Branch master in cheat.sheets is not protected.
+2025-03-01 18:14:03 [INFO]: U0001F6AB No branch protection found for cheat.sheets/master
+2025-03-01 18:14:03 [WARN]: ⚠️ Branch main in charts is not protected.
+2025-03-01 18:14:03 [INFO]: U0001F6AB No branch protection found for charts/main
+2025-03-01 18:14:04 [ERROR]: ❌ Failed to remove checks from cdk/main: Cannot read properties of null (reading 'length')
+2025-03-01 18:14:04 [ERROR]: ❌ Failed to update cdk: Cannot read properties of null (reading 'length')
+2025-03-01 18:14:04 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:14:07 [WARN]: ⚠️ Branch master in cheatly.khulnasoft.com is not protected.
+2025-03-01 18:14:07 [INFO]: U0001F6AB No branch protection found for cheatly.khulnasoft.com/master
+2025-03-01 18:14:07 [WARN]: ⚠️ Branch main in checkout is not protected.
+2025-03-01 18:14:07 [INFO]: U0001F6AB No branch protection found for checkout/main
+2025-03-01 18:14:07 [WARN]: ⚠️ Branch master in ci-base-image is not protected.
+2025-03-01 18:14:07 [INFO]: U0001F6AB No branch protection found for ci-base-image/master
+2025-03-01 18:14:07 [WARN]: ⚠️ Branch master in checkup is not protected.
+2025-03-01 18:14:07 [INFO]: U0001F6AB No branch protection found for checkup/master
+2025-03-01 18:14:07 [WARN]: ⚠️ Branch master in cheatsheets is not protected.
+2025-03-01 18:14:07 [INFO]: U0001F6AB No branch protection found for cheatsheets/master
+2025-03-01 18:14:07 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:14:11 [WARN]: ⚠️ Branch master in CipherGuard_docker is not protected.
+2025-03-01 18:14:11 [INFO]: U0001F6AB No branch protection found for CipherGuard_docker/master
+2025-03-01 18:14:11 [WARN]: ⚠️ Branch main in ci-kernels is not protected.
+2025-03-01 18:14:11 [INFO]: U0001F6AB No branch protection found for ci-kernels/main
+2025-03-01 18:14:11 [WARN]: ⚠️ Branch master in circleci-orbs is not protected.
+2025-03-01 18:14:11 [INFO]: U0001F6AB No branch protection found for circleci-orbs/master
+2025-03-01 18:14:11 [WARN]: ⚠️ Branch main in circleci-orb-insights is not protected.
+2025-03-01 18:14:11 [INFO]: U0001F6AB No branch protection found for circleci-orb-insights/main
+2025-03-01 18:14:11 [WARN]: ⚠️ Branch main in cla-agreement is not protected.
+2025-03-01 18:14:11 [INFO]: U0001F6AB No branch protection found for cla-agreement/main
+2025-03-01 18:14:11 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:14:14 [WARN]: ⚠️ Branch main in cla-approved is not protected.
+2025-03-01 18:14:14 [INFO]: U0001F6AB No branch protection found for cla-approved/main
+2025-03-01 18:14:14 [WARN]: ⚠️ Branch main in cli.js is not protected.
+2025-03-01 18:14:14 [INFO]: U0001F6AB No branch protection found for cli.js/main
+2025-03-01 18:14:14 [WARN]: ⚠️ Branch master in cli is not protected.
+2025-03-01 18:14:14 [INFO]: U0001F6AB No branch protection found for cli/master
+2025-03-01 18:14:14 [WARN]: ⚠️ Branch master in client-go is not protected.
+2025-03-01 18:14:14 [INFO]: U0001F6AB No branch protection found for client-go/master
+2025-03-01 18:14:15 [ERROR]: ❌ Failed to remove checks from cligenius-cli/master: Repository was archived so is read-only. - https://docs.github.com/rest/branches/branch-protection#update-branch-protection
+2025-03-01 18:14:15 [WARN]: ⚠️ Rate limit hit. Waiting until reset: 6:32:33 PM
+2025-03-01 18:17:38 [INFO]: ✅ Token validated successfully for user: gitworkflows
+2025-03-01 18:17:38 [INFO]: ✅ GitHub token validated successfully
+2025-03-01 18:17:38 [INFO]: U0001F50D Listing repositories for organization khulnasoft...
+2025-03-01 18:17:49 [INFO]: ✅ Found 931 repositories for organization khulnasoft
+2025-03-01 18:17:49 [INFO]: U0001F4E6 Retrieved 931 repositories.
+2025-03-01 18:17:51 [WARN]: ⚠️ Branch master in .github is not protected.
+2025-03-01 18:17:51 [INFO]: U0001F6AB No branch protection found for .github/master
+2025-03-01 18:17:51 [WARN]: ⚠️ Branch master in action-composite-template is not protected.
+2025-03-01 18:17:51 [INFO]: U0001F6AB No branch protection found for action-composite-template/master
+2025-03-01 18:17:51 [WARN]: ⚠️ Branch master in aclk-schemas is not protected.
+2025-03-01 18:17:51 [INFO]: U0001F6AB No branch protection found for aclk-schemas/master
+2025-03-01 18:17:51 [WARN]: ⚠️ Branch main in action-cache is not protected.
+2025-03-01 18:17:51 [INFO]: U0001F6AB No branch protection found for action-cache/main
+2025-03-01 18:17:51 [WARN]: ⚠️ Branch master in act is not protected.
+2025-03-01 18:17:51 [INFO]: U0001F6AB No branch protection found for act/master
+2025-03-01 18:17:51 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:17:54 [WARN]: ⚠️ Branch main in action-python is not protected.
+2025-03-01 18:17:54 [INFO]: U0001F6AB No branch protection found for action-python/main
+2025-03-01 18:17:54 [WARN]: ⚠️ Branch main in action-setup-kengine is not protected.
+2025-03-01 18:17:54 [INFO]: U0001F6AB No branch protection found for action-setup-kengine/main
+2025-03-01 18:17:54 [WARN]: ⚠️ Branch master in action-template-sync is not protected.
+2025-03-01 18:17:54 [INFO]: U0001F6AB No branch protection found for action-template-sync/master
+2025-03-01 18:17:54 [WARN]: ⚠️ Branch main in action-semantic-pull-request is not protected.
+2025-03-01 18:17:54 [INFO]: U0001F6AB No branch protection found for action-semantic-pull-request/main
+2025-03-01 18:17:54 [WARN]: ⚠️ Branch master in action-meshplay-plugins is not protected.
+2025-03-01 18:17:54 [INFO]: U0001F6AB No branch protection found for action-meshplay-plugins/master
+2025-03-01 18:17:54 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:17:57 [WARN]: ⚠️ Branch master in action-workflow-queue is not protected.
+2025-03-01 18:17:57 [INFO]: U0001F6AB No branch protection found for action-workflow-queue/master
+2025-03-01 18:17:57 [WARN]: ⚠️ Branch release/v1 in actions is not protected.
+2025-03-01 18:17:57 [INFO]: U0001F6AB No branch protection found for actions/release/v1
+2025-03-01 18:17:57 [WARN]: ⚠️ Branch master in actions-runner-controller is not protected.
+2025-03-01 18:17:57 [INFO]: U0001F6AB No branch protection found for actions-runner-controller/master
+2025-03-01 18:17:57 [WARN]: ⚠️ Branch master in action-workflow-run-wait is not protected.
+2025-03-01 18:17:57 [INFO]: U0001F6AB No branch protection found for action-workflow-run-wait/master
+2025-03-01 18:17:57 [WARN]: ⚠️ Branch v1 in actions-old is not protected.
+2025-03-01 18:17:57 [INFO]: U0001F6AB No branch protection found for actions-old/v1
+2025-03-01 18:17:57 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:01 [WARN]: ⚠️ Branch main in addonfactory-packaging-toolkit-action is not protected.
+2025-03-01 18:18:01 [INFO]: U0001F6AB No branch protection found for addonfactory-packaging-toolkit-action/main
+2025-03-01 18:18:01 [WARN]: ⚠️ Branch main in AdCraft is not protected.
+2025-03-01 18:18:01 [INFO]: U0001F6AB No branch protection found for AdCraft/main
+2025-03-01 18:18:01 [WARN]: ⚠️ Branch main in addonfactory-ort-action is not protected.
+2025-03-01 18:18:01 [INFO]: U0001F6AB No branch protection found for addonfactory-ort-action/main
+2025-03-01 18:18:01 [WARN]: ⚠️ Branch main in actions-toolkit is not protected.
+2025-03-01 18:18:01 [INFO]: U0001F6AB No branch protection found for actions-toolkit/main
+2025-03-01 18:18:01 [WARN]: ⚠️ Branch main in addonfactory-github-workflows is not protected.
+2025-03-01 18:18:01 [INFO]: U0001F6AB No branch protection found for addonfactory-github-workflows/main
+2025-03-01 18:18:01 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:04 [WARN]: ⚠️ Branch main in addonfactory-update-semver is not protected.
+2025-03-01 18:18:04 [INFO]: U0001F6AB No branch protection found for addonfactory-update-semver/main
+2025-03-01 18:18:04 [WARN]: ⚠️ Branch main in agent-protocol is not protected.
+2025-03-01 18:18:04 [INFO]: U0001F6AB No branch protection found for agent-protocol/main
+2025-03-01 18:18:04 [WARN]: ⚠️ Branch main in addonfactory-ucc-generator-action is not protected.
+2025-03-01 18:18:04 [INFO]: U0001F6AB No branch protection found for addonfactory-ucc-generator-action/main
+2025-03-01 18:18:04 [WARN]: ⚠️ Branch develop in addonfactory-workflow-addon-release is not protected.
+2025-03-01 18:18:04 [INFO]: U0001F6AB No branch protection found for addonfactory-workflow-addon-release/develop
+2025-03-01 18:18:04 [WARN]: ⚠️ Branch main in aec-server is not protected.
+2025-03-01 18:18:04 [INFO]: U0001F6AB No branch protection found for aec-server/main
+2025-03-01 18:18:04 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:08 [WARN]: ⚠️ Branch v3 in air-datepicker is not protected.
+2025-03-01 18:18:08 [INFO]: U0001F6AB No branch protection found for air-datepicker/v3
+2025-03-01 18:18:08 [WARN]: ⚠️ Branch main in AIExec is not protected.
+2025-03-01 18:18:08 [INFO]: U0001F6AB No branch protection found for AIExec/main
+2025-03-01 18:18:08 [WARN]: ⚠️ Branch main in AI-BOM is not protected.
+2025-03-01 18:18:08 [INFO]: U0001F6AB No branch protection found for AI-BOM/main
+2025-03-01 18:18:08 [WARN]: ⚠️ Branch main in ai-template is not protected.
+2025-03-01 18:18:08 [INFO]: U0001F6AB No branch protection found for ai-template/main
+2025-03-01 18:18:08 [WARN]: ⚠️ Branch main in ai-toolbox is not protected.
+2025-03-01 18:18:08 [INFO]: U0001F6AB No branch protection found for ai-toolbox/main
+2025-03-01 18:18:08 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:11 [WARN]: ⚠️ Branch main in AlertSync is not protected.
+2025-03-01 18:18:11 [INFO]: U0001F6AB No branch protection found for AlertSync/main
+2025-03-01 18:18:11 [WARN]: ⚠️ Branch main in AlphaKhulnasoft is not protected.
+2025-03-01 18:18:11 [INFO]: U0001F6AB No branch protection found for AlphaKhulnasoft/main
+2025-03-01 18:18:11 [WARN]: ⚠️ Branch master in analyze-cli is not protected.
+2025-03-01 18:18:11 [INFO]: U0001F6AB No branch protection found for analyze-cli/master
+2025-03-01 18:18:11 [WARN]: ⚠️ Branch main in amp-docs is not protected.
+2025-03-01 18:18:11 [INFO]: U0001F6AB No branch protection found for amp-docs/main
+2025-03-01 18:18:11 [INFO]: U0001F4DD [DRY RUN] [33/931] No checks to remove from: alpine-curl/master
+2025-03-01 18:18:11 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:15 [WARN]: ⚠️ Branch master in analyze-python-sdk is not protected.
+2025-03-01 18:18:15 [INFO]: U0001F6AB No branch protection found for analyze-python-sdk/master
+2025-03-01 18:18:15 [WARN]: ⚠️ Branch master in analyze-scripts is not protected.
+2025-03-01 18:18:15 [INFO]: U0001F6AB No branch protection found for analyze-scripts/master
+2025-03-01 18:18:15 [WARN]: ⚠️ Branch main in ansible-docker is not protected.
+2025-03-01 18:18:15 [INFO]: U0001F6AB No branch protection found for ansible-docker/main
+2025-03-01 18:18:15 [WARN]: ⚠️ Branch master in ansible-docker-role is not protected.
+2025-03-01 18:18:15 [INFO]: U0001F6AB No branch protection found for ansible-docker-role/master
+2025-03-01 18:18:15 [WARN]: ⚠️ Branch master in analyze-community-ghidra-plugin is not protected.
+2025-03-01 18:18:15 [INFO]: U0001F6AB No branch protection found for analyze-community-ghidra-plugin/master
+2025-03-01 18:18:15 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:18 [WARN]: ⚠️ Branch main in api-client is not protected.
+2025-03-01 18:18:18 [INFO]: U0001F6AB No branch protection found for api-client/main
+2025-03-01 18:18:18 [WARN]: ⚠️ Branch master in APTAttack is not protected.
+2025-03-01 18:18:18 [INFO]: U0001F6AB No branch protection found for APTAttack/master
+2025-03-01 18:18:18 [WARN]: ⚠️ Branch master in appengine-pipelines is not protected.
+2025-03-01 18:18:18 [INFO]: U0001F6AB No branch protection found for appengine-pipelines/master
+2025-03-01 18:18:18 [WARN]: ⚠️ Branch main in api-schemas is not protected.
+2025-03-01 18:18:18 [INFO]: U0001F6AB No branch protection found for api-schemas/main
+2025-03-01 18:18:18 [WARN]: ⚠️ Branch master in appengine-mapreduce is not protected.
+2025-03-01 18:18:18 [INFO]: U0001F6AB No branch protection found for appengine-mapreduce/master
+2025-03-01 18:18:18 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:22 [WARN]: ⚠️ Branch master in artifacthub is not protected.
+2025-03-01 18:18:22 [INFO]: U0001F6AB No branch protection found for artifacthub/master
+2025-03-01 18:18:22 [WARN]: ⚠️ Branch main in Assera is not protected.
+2025-03-01 18:18:22 [INFO]: U0001F6AB No branch protection found for Assera/main
+2025-03-01 18:18:22 [WARN]: ⚠️ Branch main in argocd-autopilot is not protected.
+2025-03-01 18:18:22 [INFO]: U0001F6AB No branch protection found for argocd-autopilot/main
+2025-03-01 18:18:22 [WARN]: ⚠️ Branch release-2.12.1 in argo-cd is not protected.
+2025-03-01 18:18:22 [INFO]: U0001F6AB No branch protection found for argo-cd/release-2.12.1
+2025-03-01 18:18:22 [WARN]: ⚠️ Branch master in archiver is not protected.
+2025-03-01 18:18:22 [INFO]: U0001F6AB No branch protection found for archiver/master
+2025-03-01 18:18:22 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:25 [WARN]: ⚠️ Branch master in auth-js is not protected.
+2025-03-01 18:18:25 [INFO]: U0001F6AB No branch protection found for auth-js/master
+2025-03-01 18:18:25 [WARN]: ⚠️ Branch develop in attack_range is not protected.
+2025-03-01 18:18:25 [INFO]: U0001F6AB No branch protection found for attack_range/develop
+2025-03-01 18:18:25 [WARN]: ⚠️ Branch master in AutoAGI is not protected.
+2025-03-01 18:18:25 [INFO]: U0001F6AB No branch protection found for AutoAGI/master
+2025-03-01 18:18:25 [WARN]: ⚠️ Branch master in auto-docker-labels is not protected.
+2025-03-01 18:18:25 [INFO]: U0001F6AB No branch protection found for auto-docker-labels/master
+2025-03-01 18:18:25 [WARN]: ⚠️ Branch main in attack_data is not protected.
+2025-03-01 18:18:25 [INFO]: U0001F6AB No branch protection found for attack_data/main
+2025-03-01 18:18:25 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:28 [WARN]: ⚠️ Branch main in autofix-action is not protected.
+2025-03-01 18:18:28 [INFO]: U0001F6AB No branch protection found for autofix-action/main
+2025-03-01 18:18:28 [WARN]: ⚠️ Branch main in autofix is not protected.
+2025-03-01 18:18:28 [INFO]: U0001F6AB No branch protection found for autofix/main
+2025-03-01 18:18:28 [WARN]: ⚠️ Branch main in AutoGPT-Maintainer is not protected.
+2025-03-01 18:18:28 [INFO]: U0001F6AB No branch protection found for AutoGPT-Maintainer/main
+2025-03-01 18:18:28 [WARN]: ⚠️ Branch main in AutoSemver is not protected.
+2025-03-01 18:18:28 [INFO]: U0001F6AB No branch protection found for AutoSemver/main
+2025-03-01 18:18:29 [WARN]: ⚠️ Branch master in automation-working-group is not protected.
+2025-03-01 18:18:29 [INFO]: U0001F6AB No branch protection found for automation-working-group/master
+2025-03-01 18:18:29 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:32 [WARN]: ⚠️ Branch main in awesome-linter is not protected.
+2025-03-01 18:18:32 [INFO]: U0001F6AB No branch protection found for awesome-linter/main
+2025-03-01 18:18:32 [WARN]: ⚠️ Branch main in Axilo is not protected.
+2025-03-01 18:18:32 [INFO]: U0001F6AB No branch protection found for Axilo/main
+2025-03-01 18:18:32 [WARN]: ⚠️ Branch main in awesome-llm-ai-agents is not protected.
+2025-03-01 18:18:32 [INFO]: U0001F6AB No branch protection found for awesome-llm-ai-agents/main
+2025-03-01 18:18:32 [WARN]: ⚠️ Branch main in avd-generator is not protected.
+2025-03-01 18:18:32 [INFO]: U0001F6AB No branch protection found for avd-generator/main
+2025-03-01 18:18:32 [WARN]: ⚠️ Branch devel in awx-operator is not protected.
+2025-03-01 18:18:32 [INFO]: U0001F6AB No branch protection found for awx-operator/devel
+2025-03-01 18:18:32 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:35 [WARN]: ⚠️ Branch master in bashbrew-khulnasoft is not protected.
+2025-03-01 18:18:35 [INFO]: U0001F6AB No branch protection found for bashbrew-khulnasoft/master
+2025-03-01 18:18:35 [WARN]: ⚠️ Branch main in badges is not protected.
+2025-03-01 18:18:35 [INFO]: U0001F6AB No branch protection found for badges/main
+2025-03-01 18:18:35 [WARN]: ⚠️ Branch dev in azure-devops-python-api is not protected.
+2025-03-01 18:18:35 [INFO]: U0001F6AB No branch protection found for azure-devops-python-api/dev
+2025-03-01 18:18:35 [WARN]: ⚠️ Branch master in Azure-Sentinel is not protected.
+2025-03-01 18:18:35 [INFO]: U0001F6AB No branch protection found for Azure-Sentinel/master
+2025-03-01 18:18:36 [INFO]: U0001F4DD [DRY RUN] [69/931] No checks to remove from: bashbrew/master
+2025-03-01 18:18:36 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:39 [WARN]: ⚠️ Branch master in bfsc-api is not protected.
+2025-03-01 18:18:39 [INFO]: U0001F6AB No branch protection found for bfsc-api/master
+2025-03-01 18:18:39 [WARN]: ⚠️ Branch main in binaries is not protected.
+2025-03-01 18:18:39 [INFO]: U0001F6AB No branch protection found for binaries/main
+2025-03-01 18:18:39 [WARN]: ⚠️ Branch master in BenchWeb is not protected.
+2025-03-01 18:18:39 [INFO]: U0001F6AB No branch protection found for BenchWeb/master
+2025-03-01 18:18:39 [WARN]: ⚠️ Branch main in bashbrew-khulnasoft-meta is not protected.
+2025-03-01 18:18:39 [INFO]: U0001F6AB No branch protection found for bashbrew-khulnasoft-meta/main
+2025-03-01 18:18:39 [WARN]: ⚠️ Branch main in BentoML is not protected.
+2025-03-01 18:18:39 [INFO]: U0001F6AB No branch protection found for BentoML/main
+2025-03-01 18:18:39 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:42 [WARN]: ⚠️ Branch main in btfhub is not protected.
+2025-03-01 18:18:42 [INFO]: U0001F6AB No branch protection found for btfhub/main
+2025-03-01 18:18:42 [WARN]: ⚠️ Branch main in btfhub-archive is not protected.
+2025-03-01 18:18:42 [INFO]: U0001F6AB No branch protection found for btfhub-archive/main
+2025-03-01 18:18:42 [WARN]: ⚠️ Branch main in bongonet is not protected.
+2025-03-01 18:18:42 [INFO]: U0001F6AB No branch protection found for bongonet/main
+2025-03-01 18:18:42 [WARN]: ⚠️ Branch main in BinPack is not protected.
+2025-03-01 18:18:42 [INFO]: U0001F6AB No branch protection found for BinPack/main
+2025-03-01 18:18:43 [INFO]: U0001F4DD [DRY RUN] [77/931] No checks to remove from: blackhole/master
+2025-03-01 18:18:43 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:46 [WARN]: ⚠️ Branch main in BugVault is not protected.
+2025-03-01 18:18:46 [INFO]: U0001F6AB No branch protection found for BugVault/main
+2025-03-01 18:18:46 [WARN]: ⚠️ Branch main in bug-bounties is not protected.
+2025-03-01 18:18:46 [INFO]: U0001F6AB No branch protection found for bug-bounties/main
+2025-03-01 18:18:46 [WARN]: ⚠️ Branch main in bump-pydantic is not protected.
+2025-03-01 18:18:46 [INFO]: U0001F6AB No branch protection found for bump-pydantic/main
+2025-03-01 18:18:46 [WARN]: ⚠️ Branch master in buildx is not protected.
+2025-03-01 18:18:46 [INFO]: U0001F6AB No branch protection found for buildx/master
+2025-03-01 18:18:46 [WARN]: ⚠️ Branch main in build2docker is not protected.
+2025-03-01 18:18:46 [INFO]: U0001F6AB No branch protection found for build2docker/main
+2025-03-01 18:18:46 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:50 [WARN]: ⚠️ Branch master in BWPlugins is not protected.
+2025-03-01 18:18:50 [INFO]: U0001F6AB No branch protection found for BWPlugins/master
+2025-03-01 18:18:50 [WARN]: ⚠️ Branch master in bytebreach-cloud is not protected.
+2025-03-01 18:18:50 [INFO]: U0001F6AB No branch protection found for bytebreach-cloud/master
+2025-03-01 18:18:50 [WARN]: ⚠️ Branch master in ByteBreach is not protected.
+2025-03-01 18:18:50 [INFO]: U0001F6AB No branch protection found for ByteBreach/master
+2025-03-01 18:18:50 [WARN]: ⚠️ Branch master in BWVerifier is not protected.
+2025-03-01 18:18:50 [INFO]: U0001F6AB No branch protection found for BWVerifier/master
+2025-03-01 18:18:50 [WARN]: ⚠️ Branch master in bw-status is not protected.
+2025-03-01 18:18:50 [INFO]: U0001F6AB No branch protection found for bw-status/master
+2025-03-01 18:18:50 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:53 [WARN]: ⚠️ Branch trunk in cassandra-dtest is not protected.
+2025-03-01 18:18:53 [INFO]: U0001F6AB No branch protection found for cassandra-dtest/trunk
+2025-03-01 18:18:53 [WARN]: ⚠️ Branch master in CAPEv2 is not protected.
+2025-03-01 18:18:53 [INFO]: U0001F6AB No branch protection found for CAPEv2/master
+2025-03-01 18:18:53 [WARN]: ⚠️ Branch master in carbon-copy is not protected.
+2025-03-01 18:18:53 [INFO]: U0001F6AB No branch protection found for carbon-copy/master
+2025-03-01 18:18:53 [WARN]: ⚠️ Branch main in cassandra is not protected.
+2025-03-01 18:18:53 [INFO]: U0001F6AB No branch protection found for cassandra/main
+2025-03-01 18:18:53 [WARN]: ⚠️ Branch master in CAPE-Community is not protected.
+2025-03-01 18:18:53 [INFO]: U0001F6AB No branch protection found for CAPE-Community/master
+2025-03-01 18:18:53 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:18:56 [WARN]: ⚠️ Branch master in cheat.sheets is not protected.
+2025-03-01 18:18:56 [INFO]: U0001F6AB No branch protection found for cheat.sheets/master
+2025-03-01 18:18:56 [WARN]: ⚠️ Branch master in CassKube is not protected.
+2025-03-01 18:18:56 [INFO]: U0001F6AB No branch protection found for CassKube/master
+2025-03-01 18:18:56 [WARN]: ⚠️ Branch main in certified-operators is not protected.
+2025-03-01 18:18:56 [INFO]: U0001F6AB No branch protection found for certified-operators/main
+2025-03-01 18:18:56 [WARN]: ⚠️ Branch main in charts is not protected.
+2025-03-01 18:18:56 [INFO]: U0001F6AB No branch protection found for charts/main
+2025-03-01 18:18:57 [INFO]: U0001F4DD [DRY RUN] [97/931] No checks to remove from: cdk/main
+2025-03-01 18:18:57 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:00 [WARN]: ⚠️ Branch main in checkout is not protected.
+2025-03-01 18:19:00 [INFO]: U0001F6AB No branch protection found for checkout/main
+2025-03-01 18:19:00 [WARN]: ⚠️ Branch master in ci-base-image is not protected.
+2025-03-01 18:19:00 [INFO]: U0001F6AB No branch protection found for ci-base-image/master
+2025-03-01 18:19:00 [WARN]: ⚠️ Branch master in cheatsheets is not protected.
+2025-03-01 18:19:00 [INFO]: U0001F6AB No branch protection found for cheatsheets/master
+2025-03-01 18:19:00 [WARN]: ⚠️ Branch master in checkup is not protected.
+2025-03-01 18:19:00 [INFO]: U0001F6AB No branch protection found for checkup/master
+2025-03-01 18:19:00 [WARN]: ⚠️ Branch master in cheatly.khulnasoft.com is not protected.
+2025-03-01 18:19:00 [INFO]: U0001F6AB No branch protection found for cheatly.khulnasoft.com/master
+2025-03-01 18:19:00 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:03 [WARN]: ⚠️ Branch main in cla-agreement is not protected.
+2025-03-01 18:19:03 [INFO]: U0001F6AB No branch protection found for cla-agreement/main
+2025-03-01 18:19:03 [WARN]: ⚠️ Branch master in CipherGuard_docker is not protected.
+2025-03-01 18:19:03 [INFO]: U0001F6AB No branch protection found for CipherGuard_docker/master
+2025-03-01 18:19:03 [WARN]: ⚠️ Branch main in ci-kernels is not protected.
+2025-03-01 18:19:03 [INFO]: U0001F6AB No branch protection found for ci-kernels/main
+2025-03-01 18:19:03 [WARN]: ⚠️ Branch main in circleci-orb-insights is not protected.
+2025-03-01 18:19:03 [INFO]: U0001F6AB No branch protection found for circleci-orb-insights/main
+2025-03-01 18:19:03 [WARN]: ⚠️ Branch master in circleci-orbs is not protected.
+2025-03-01 18:19:03 [INFO]: U0001F6AB No branch protection found for circleci-orbs/master
+2025-03-01 18:19:03 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:07 [WARN]: ⚠️ Branch master in cli is not protected.
+2025-03-01 18:19:07 [INFO]: U0001F6AB No branch protection found for cli/master
+2025-03-01 18:19:07 [WARN]: ⚠️ Branch main in cla-approved is not protected.
+2025-03-01 18:19:07 [INFO]: U0001F6AB No branch protection found for cla-approved/main
+2025-03-01 18:19:07 [WARN]: ⚠️ Branch main in cli.js is not protected.
+2025-03-01 18:19:07 [INFO]: U0001F6AB No branch protection found for cli.js/main
+2025-03-01 18:19:07 [WARN]: ⚠️ Branch master in client-go is not protected.
+2025-03-01 18:19:07 [INFO]: U0001F6AB No branch protection found for client-go/master
+2025-03-01 18:19:07 [INFO]: U0001F4DD [DRY RUN] [115/931] No checks to remove from: cligenius-cli/master
+2025-03-01 18:19:07 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:11 [WARN]: ⚠️ Branch main in clog is not protected.
+2025-03-01 18:19:11 [INFO]: U0001F6AB No branch protection found for clog/main
+2025-03-01 18:19:11 [WARN]: ⚠️ Branch main in code-context is not protected.
+2025-03-01 18:19:11 [INFO]: U0001F6AB No branch protection found for code-context/main
+2025-03-01 18:19:11 [WARN]: ⚠️ Branch master in cloudexploit is not protected.
+2025-03-01 18:19:11 [INFO]: U0001F6AB No branch protection found for cloudexploit/master
+2025-03-01 18:19:11 [INFO]: U0001F4DD [DRY RUN] [118/931] No checks to remove from: code-client/master
+2025-03-01 18:19:11 [INFO]: U0001F4DD [DRY RUN] [120/931] No checks to remove from: codebase/master
+2025-03-01 18:19:11 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:14 [WARN]: ⚠️ Branch main in codeql-action is not protected.
+2025-03-01 18:19:14 [INFO]: U0001F6AB No branch protection found for codeql-action/main
+2025-03-01 18:19:14 [WARN]: ⚠️ Branch main in codeinfra is not protected.
+2025-03-01 18:19:14 [INFO]: U0001F6AB No branch protection found for codeinfra/main
+2025-03-01 18:19:14 [WARN]: ⚠️ Branch main in codegrep is not protected.
+2025-03-01 18:19:14 [INFO]: U0001F6AB No branch protection found for codegrep/main
+2025-03-01 18:19:14 [WARN]: ⚠️ Branch main in codeql is not protected.
+2025-03-01 18:19:14 [INFO]: U0001F6AB No branch protection found for codeql/main
+2025-03-01 18:19:14 [WARN]: ⚠️ Branch master in CodeIQ is not protected.
+2025-03-01 18:19:14 [INFO]: U0001F6AB No branch protection found for CodeIQ/master
+2025-03-01 18:19:14 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:18 [WARN]: ⚠️ Branch master in codetypo-actions is not protected.
+2025-03-01 18:19:18 [INFO]: U0001F6AB No branch protection found for codetypo-actions/master
+2025-03-01 18:19:18 [WARN]: ⚠️ Branch main in codetypo-corpus is not protected.
+2025-03-01 18:19:18 [INFO]: U0001F6AB No branch protection found for codetypo-corpus/main
+2025-03-01 18:19:18 [WARN]: ⚠️ Branch main in codetypo-action is not protected.
+2025-03-01 18:19:18 [INFO]: U0001F6AB No branch protection found for codetypo-action/main
+2025-03-01 18:19:18 [WARN]: ⚠️ Branch master in codetypo is not protected.
+2025-03-01 18:19:18 [INFO]: U0001F6AB No branch protection found for codetypo/master
+2025-03-01 18:19:18 [WARN]: ⚠️ Branch main in codetypo-cli is not protected.
+2025-03-01 18:19:18 [INFO]: U0001F6AB No branch protection found for codetypo-cli/main
+2025-03-01 18:19:18 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:21 [WARN]: ⚠️ Branch main in collection-of-generator is not protected.
+2025-03-01 18:19:21 [INFO]: U0001F6AB No branch protection found for collection-of-generator/main
+2025-03-01 18:19:21 [WARN]: ⚠️ Branch main in CodeX is not protected.
+2025-03-01 18:19:21 [INFO]: U0001F6AB No branch protection found for CodeX/main
+2025-03-01 18:19:21 [WARN]: ⚠️ Branch main in codex-install-action is not protected.
+2025-03-01 18:19:21 [INFO]: U0001F6AB No branch protection found for codex-install-action/main
+2025-03-01 18:19:21 [WARN]: ⚠️ Branch master in codetypo-validator is not protected.
+2025-03-01 18:19:21 [INFO]: U0001F6AB No branch protection found for codetypo-validator/master
+2025-03-01 18:19:21 [WARN]: ⚠️ Branch master in collection-of is not protected.
+2025-03-01 18:19:21 [INFO]: U0001F6AB No branch protection found for collection-of/master
+2025-03-01 18:19:21 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:25 [WARN]: ⚠️ Branch main in collection-of-update-action is not protected.
+2025-03-01 18:19:25 [INFO]: U0001F6AB No branch protection found for collection-of-update-action/main
+2025-03-01 18:19:25 [WARN]: ⚠️ Branch main in collection-of-ml-python is not protected.
+2025-03-01 18:19:25 [INFO]: U0001F6AB No branch protection found for collection-of-ml-python/main
+2025-03-01 18:19:25 [WARN]: ⚠️ Branch main in commit-agent is not protected.
+2025-03-01 18:19:25 [INFO]: U0001F6AB No branch protection found for commit-agent/main
+2025-03-01 18:19:25 [WARN]: ⚠️ Branch main in community is not protected.
+2025-03-01 18:19:25 [INFO]: U0001F6AB No branch protection found for community/main
+2025-03-01 18:19:25 [WARN]: ⚠️ Branch master in commit-info is not protected.
+2025-03-01 18:19:25 [INFO]: U0001F6AB No branch protection found for commit-info/master
+2025-03-01 18:19:25 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:28 [WARN]: ⚠️ Branch main in congo is not protected.
+2025-03-01 18:19:28 [INFO]: U0001F6AB No branch protection found for congo/main
+2025-03-01 18:19:28 [WARN]: ⚠️ Branch main in connect-go is not protected.
+2025-03-01 18:19:28 [INFO]: U0001F6AB No branch protection found for connect-go/main
+2025-03-01 18:19:28 [WARN]: ⚠️ Branch khulnasoft in content is not protected.
+2025-03-01 18:19:28 [INFO]: U0001F6AB No branch protection found for content/khulnasoft
+2025-03-01 18:19:28 [WARN]: ⚠️ Branch main in config is not protected.
+2025-03-01 18:19:28 [INFO]: U0001F6AB No branch protection found for config/main
+2025-03-01 18:19:28 [WARN]: ⚠️ Branch main in compiler-explorer is not protected.
+2025-03-01 18:19:28 [INFO]: U0001F6AB No branch protection found for compiler-explorer/main
+2025-03-01 18:19:28 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:31 [WARN]: ⚠️ Branch master in contribution-graph-action is not protected.
+2025-03-01 18:19:31 [INFO]: U0001F6AB No branch protection found for contribution-graph-action/master
+2025-03-01 18:19:31 [WARN]: ⚠️ Branch main in controller-cdktf is not protected.
+2025-03-01 18:19:31 [INFO]: U0001F6AB No branch protection found for controller-cdktf/main
+2025-03-01 18:19:31 [WARN]: ⚠️ Branch main in cookie-monitoring is not protected.
+2025-03-01 18:19:31 [INFO]: U0001F6AB No branch protection found for cookie-monitoring/main
+2025-03-01 18:19:32 [WARN]: ⚠️ Branch main in contributors is not protected.
+2025-03-01 18:19:32 [INFO]: U0001F6AB No branch protection found for contributors/main
+2025-03-01 18:19:32 [INFO]: U0001F4DD [DRY RUN] [149/931] No checks to remove from: controller-tools/master
+2025-03-01 18:19:32 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:35 [WARN]: ⚠️ Branch main in copilot-template is not protected.
+2025-03-01 18:19:35 [INFO]: U0001F6AB No branch protection found for copilot-template/main
+2025-03-01 18:19:35 [WARN]: ⚠️ Branch main in copilot is not protected.
+2025-03-01 18:19:35 [INFO]: U0001F6AB No branch protection found for copilot/main
+2025-03-01 18:19:35 [WARN]: ⚠️ Branch main in coraza is not protected.
+2025-03-01 18:19:35 [INFO]: U0001F6AB No branch protection found for coraza/main
+2025-03-01 18:19:35 [WARN]: ⚠️ Branch khulnasoft in copilot-cli-local is not protected.
+2025-03-01 18:19:35 [INFO]: U0001F6AB No branch protection found for copilot-cli-local/khulnasoft
+2025-03-01 18:19:36 [INFO]: U0001F4DD [DRY RUN] [155/931] No checks to remove from: coverage-ai/main
+2025-03-01 18:19:36 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:39 [WARN]: ⚠️ Branch main in crAPI-Action is not protected.
+2025-03-01 18:19:39 [INFO]: U0001F6AB No branch protection found for crAPI-Action/main
+2025-03-01 18:19:39 [WARN]: ⚠️ Branch master in coverbee is not protected.
+2025-03-01 18:19:39 [INFO]: U0001F6AB No branch protection found for coverbee/master
+2025-03-01 18:19:39 [WARN]: ⚠️ Branch main in crapi-scan is not protected.
+2025-03-01 18:19:39 [INFO]: U0001F6AB No branch protection found for crapi-scan/main
+2025-03-01 18:19:39 [WARN]: ⚠️ Branch develop in crAPI2 is not protected.
+2025-03-01 18:19:39 [INFO]: U0001F6AB No branch protection found for crAPI2/develop
+2025-03-01 18:19:39 [WARN]: ⚠️ Branch main in crAPI is not protected.
+2025-03-01 18:19:39 [INFO]: U0001F6AB No branch protection found for crAPI/main
+2025-03-01 18:19:39 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:42 [WARN]: ⚠️ Branch develop in crAPI3 is not protected.
+2025-03-01 18:19:42 [INFO]: U0001F6AB No branch protection found for crAPI3/develop
+2025-03-01 18:19:42 [WARN]: ⚠️ Branch main in cuelabs-oci is not protected.
+2025-03-01 18:19:42 [INFO]: U0001F6AB No branch protection found for cuelabs-oci/main
+2025-03-01 18:19:42 [WARN]: ⚠️ Branch main in CrawlGPT is not protected.
+2025-03-01 18:19:42 [INFO]: U0001F6AB No branch protection found for CrawlGPT/main
+2025-03-01 18:19:42 [WARN]: ⚠️ Branch main in create-branch-action is not protected.
+2025-03-01 18:19:42 [INFO]: U0001F6AB No branch protection found for create-branch-action/main
+2025-03-01 18:19:43 [INFO]: U0001F4DD [DRY RUN] [165/931] No checks to remove from: CVE-ICU/main
+2025-03-01 18:19:43 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:46 [WARN]: ⚠️ Branch master in CyberChef is not protected.
+2025-03-01 18:19:46 [INFO]: U0001F6AB No branch protection found for CyberChef/master
+2025-03-01 18:19:46 [WARN]: ⚠️ Branch main in cyberpotmobile is not protected.
+2025-03-01 18:19:46 [INFO]: U0001F6AB No branch protection found for cyberpotmobile/main
+2025-03-01 18:19:46 [WARN]: ⚠️ Branch master in CyberSF is not protected.
+2025-03-01 18:19:46 [INFO]: U0001F6AB No branch protection found for CyberSF/master
+2025-03-01 18:19:46 [WARN]: ⚠️ Branch master in cypress-action is not protected.
+2025-03-01 18:19:46 [INFO]: U0001F6AB No branch protection found for cypress-action/master
+2025-03-01 18:19:47 [INFO]: U0001F4DD [DRY RUN] [167/931] No checks to remove from: cyberpot/master
+2025-03-01 18:19:47 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:50 [WARN]: ⚠️ Branch master in dashworks is not protected.
+2025-03-01 18:19:50 [INFO]: U0001F6AB No branch protection found for dashworks/master
+2025-03-01 18:19:50 [WARN]: ⚠️ Branch master in cypress-test-summary is not protected.
+2025-03-01 18:19:50 [INFO]: U0001F6AB No branch protection found for cypress-test-summary/master
+2025-03-01 18:19:50 [WARN]: ⚠️ Branch main in daiquiry is not protected.
+2025-03-01 18:19:50 [INFO]: U0001F6AB No branch protection found for daiquiry/main
+2025-03-01 18:19:50 [WARN]: ⚠️ Branch master in dashy is not protected.
+2025-03-01 18:19:50 [INFO]: U0001F6AB No branch protection found for dashy/master
+2025-03-01 18:19:50 [WARN]: ⚠️ Branch main in CyWare is not protected.
+2025-03-01 18:19:50 [INFO]: U0001F6AB No branch protection found for CyWare/main
+2025-03-01 18:19:50 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:53 [WARN]: ⚠️ Branch main in database is not protected.
+2025-03-01 18:19:53 [INFO]: U0001F6AB No branch protection found for database/main
+2025-03-01 18:19:53 [WARN]: ⚠️ Branch main in DataLineup is not protected.
+2025-03-01 18:19:53 [INFO]: U0001F6AB No branch protection found for DataLineup/main
+2025-03-01 18:19:53 [WARN]: ⚠️ Branch main in dazzle is not protected.
+2025-03-01 18:19:53 [INFO]: U0001F6AB No branch protection found for dazzle/main
+2025-03-01 18:19:53 [WARN]: ⚠️ Branch master in dbus is not protected.
+2025-03-01 18:19:53 [INFO]: U0001F6AB No branch protection found for dbus/master
+2025-03-01 18:19:54 [INFO]: U0001F4DD [DRY RUN] [176/931] No checks to remove from: Data-Science-Materials/main
+2025-03-01 18:19:54 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:19:57 [WARN]: ⚠️ Branch main in DeepFuzz is not protected.
+2025-03-01 18:19:57 [INFO]: U0001F6AB No branch protection found for DeepFuzz/main
+2025-03-01 18:19:57 [WARN]: ⚠️ Branch master in deepscale is not protected.
+2025-03-01 18:19:57 [INFO]: U0001F6AB No branch protection found for deepscale/master
+2025-03-01 18:19:57 [WARN]: ⚠️ Branch main in deepstack is not protected.
+2025-03-01 18:19:57 [INFO]: U0001F6AB No branch protection found for deepstack/main
+2025-03-01 18:19:57 [WARN]: ⚠️ Branch main in deepcode-ai is not protected.
+2025-03-01 18:19:57 [INFO]: U0001F6AB No branch protection found for deepcode-ai/main
+2025-03-01 18:19:57 [WARN]: ⚠️ Branch main in deb is not protected.
+2025-03-01 18:19:57 [INFO]: U0001F6AB No branch protection found for deb/main
+2025-03-01 18:19:57 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:00 [WARN]: ⚠️ Branch main in deepstack-core-integrations is not protected.
+2025-03-01 18:20:00 [INFO]: U0001F6AB No branch protection found for deepstack-core-integrations/main
+2025-03-01 18:20:00 [WARN]: ⚠️ Branch main in deepstack-tutorials is not protected.
+2025-03-01 18:20:00 [INFO]: U0001F6AB No branch protection found for deepstack-tutorials/main
+2025-03-01 18:20:00 [WARN]: ⚠️ Branch main in deepstack-integrations is not protected.
+2025-03-01 18:20:00 [INFO]: U0001F6AB No branch protection found for deepstack-integrations/main
+2025-03-01 18:20:00 [WARN]: ⚠️ Branch master in default-configs is not protected.
+2025-03-01 18:20:00 [INFO]: U0001F6AB No branch protection found for default-configs/master
+2025-03-01 18:20:01 [INFO]: U0001F4DD [DRY RUN] [187/931] No checks to remove from: deepstack-home/main
+2025-03-01 18:20:01 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:04 [WARN]: ⚠️ Branch main in demos is not protected.
+2025-03-01 18:20:04 [INFO]: U0001F6AB No branch protection found for demos/main
+2025-03-01 18:20:04 [WARN]: ⚠️ Branch main in demo is not protected.
+2025-03-01 18:20:04 [INFO]: U0001F6AB No branch protection found for demo/main
+2025-03-01 18:20:04 [WARN]: ⚠️ Branch master in demochat is not protected.
+2025-03-01 18:20:04 [INFO]: U0001F6AB No branch protection found for demochat/master
+2025-03-01 18:20:05 [INFO]: U0001F4DD [DRY RUN] [193/931] No checks to remove from: demo-tunnel/main
+2025-03-01 18:20:05 [INFO]: U0001F4DD [DRY RUN] [191/931] No checks to remove from: defeat/main
+2025-03-01 18:20:05 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:08 [WARN]: ⚠️ Branch main in dep-parser is not protected.
+2025-03-01 18:20:08 [INFO]: U0001F6AB No branch protection found for dep-parser/main
+2025-03-01 18:20:08 [WARN]: ⚠️ Branch main in dependabot is not protected.
+2025-03-01 18:20:08 [INFO]: U0001F6AB No branch protection found for dependabot/main
+2025-03-01 18:20:08 [WARN]: ⚠️ Branch master in dependency-rquickjs is not protected.
+2025-03-01 18:20:08 [INFO]: U0001F6AB No branch protection found for dependency-rquickjs/master
+2025-03-01 18:20:08 [WARN]: ⚠️ Branch main in deploy-khulnasoft is not protected.
+2025-03-01 18:20:08 [INFO]: U0001F6AB No branch protection found for deploy-khulnasoft/main
+2025-03-01 18:20:08 [WARN]: ⚠️ Branch main in dependency-toolkit is not protected.
+2025-03-01 18:20:08 [INFO]: U0001F6AB No branch protection found for dependency-toolkit/main
+2025-03-01 18:20:08 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:12 [WARN]: ⚠️ Branch main in deploy-khulnasoft-docker is not protected.
+2025-03-01 18:20:12 [INFO]: U0001F6AB No branch protection found for deploy-khulnasoft-docker/main
+2025-03-01 18:20:12 [WARN]: ⚠️ Branch main in DepParse is not protected.
+2025-03-01 18:20:12 [INFO]: U0001F6AB No branch protection found for DepParse/main
+2025-03-01 18:20:12 [WARN]: ⚠️ Branch master in DeployFlow is not protected.
+2025-03-01 18:20:12 [INFO]: U0001F6AB No branch protection found for DeployFlow/master
+2025-03-01 18:20:12 [WARN]: ⚠️ Branch main in deploy-kubernetes is not protected.
+2025-03-01 18:20:12 [INFO]: U0001F6AB No branch protection found for deploy-kubernetes/main
+2025-03-01 18:20:12 [INFO]: U0001F4DD [DRY RUN] [204/931] No checks to remove from: deployments/2022.4
+2025-03-01 18:20:12 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:15 [WARN]: ⚠️ Branch master in dev is not protected.
+2025-03-01 18:20:15 [INFO]: U0001F6AB No branch protection found for dev/master
+2025-03-01 18:20:15 [WARN]: ⚠️ Branch main in design is not protected.
+2025-03-01 18:20:15 [INFO]: U0001F6AB No branch protection found for design/main
+2025-03-01 18:20:15 [WARN]: ⚠️ Branch main in design-system is not protected.
+2025-03-01 18:20:15 [INFO]: U0001F6AB No branch protection found for design-system/main
+2025-03-01 18:20:15 [WARN]: ⚠️ Branch main in dev-tools is not protected.
+2025-03-01 18:20:15 [INFO]: U0001F6AB No branch protection found for dev-tools/main
+2025-03-01 18:20:15 [WARN]: ⚠️ Branch main in design.khulnasoft.com is not protected.
+2025-03-01 18:20:15 [INFO]: U0001F6AB No branch protection found for design.khulnasoft.com/main
+2025-03-01 18:20:15 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:19 [WARN]: ⚠️ Branch main in devbox is not protected.
+2025-03-01 18:20:19 [INFO]: U0001F6AB No branch protection found for devbox/main
+2025-03-01 18:20:19 [WARN]: ⚠️ Branch main in devcontainer-template is not protected.
+2025-03-01 18:20:19 [INFO]: U0001F6AB No branch protection found for devcontainer-template/main
+2025-03-01 18:20:19 [WARN]: ⚠️ Branch gh-pages in devcontainers.github.io is not protected.
+2025-03-01 18:20:19 [INFO]: U0001F6AB No branch protection found for devcontainers.github.io/gh-pages
+2025-03-01 18:20:19 [WARN]: ⚠️ Branch main in developer-recipes is not protected.
+2025-03-01 18:20:19 [INFO]: U0001F6AB No branch protection found for developer-recipes/main
+2025-03-01 18:20:19 [WARN]: ⚠️ Branch main in devcontainer-feature is not protected.
+2025-03-01 18:20:19 [INFO]: U0001F6AB No branch protection found for devcontainer-feature/main
+2025-03-01 18:20:19 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:22 [WARN]: ⚠️ Branch main in devinai is not protected.
+2025-03-01 18:20:22 [INFO]: U0001F6AB No branch protection found for devinai/main
+2025-03-01 18:20:22 [WARN]: ⚠️ Branch main in devlabs is not protected.
+2025-03-01 18:20:22 [INFO]: U0001F6AB No branch protection found for devlabs/main
+2025-03-01 18:20:22 [WARN]: ⚠️ Branch main in devscode is not protected.
+2025-03-01 18:20:22 [INFO]: U0001F6AB No branch protection found for devscode/main
+2025-03-01 18:20:22 [WARN]: ⚠️ Branch main in devsec-docs is not protected.
+2025-03-01 18:20:22 [INFO]: U0001F6AB No branch protection found for devsec-docs/main
+2025-03-01 18:20:22 [INFO]: U0001F4DD [DRY RUN] [220/931] No checks to remove from: devsec-soc/master
+2025-03-01 18:20:22 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:26 [WARN]: ⚠️ Branch master in diffinity is not protected.
+2025-03-01 18:20:26 [INFO]: U0001F6AB No branch protection found for diffinity/master
+2025-03-01 18:20:26 [WARN]: ⚠️ Branch archive in devtools is not protected.
+2025-03-01 18:20:26 [INFO]: U0001F6AB No branch protection found for devtools/archive
+2025-03-01 18:20:26 [WARN]: ⚠️ Branch main in devsecdb is not protected.
+2025-03-01 18:20:26 [INFO]: U0001F6AB No branch protection found for devsecdb/main
+2025-03-01 18:20:26 [WARN]: ⚠️ Branch master in DevX-Actions is not protected.
+2025-03-01 18:20:26 [INFO]: U0001F6AB No branch protection found for DevX-Actions/master
+2025-03-01 18:20:26 [INFO]: U0001F4DD [DRY RUN] [223/931] No checks to remove from: DevX/master
+2025-03-01 18:20:26 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:30 [WARN]: ⚠️ Branch master in discourse-google-font-component is not protected.
+2025-03-01 18:20:30 [INFO]: U0001F6AB No branch protection found for discourse-google-font-component/master
+2025-03-01 18:20:30 [WARN]: ⚠️ Branch master in discourse-brand-header is not protected.
+2025-03-01 18:20:30 [INFO]: U0001F6AB No branch protection found for discourse-brand-header/master
+2025-03-01 18:20:30 [WARN]: ⚠️ Branch main in diginfra is not protected.
+2025-03-01 18:20:30 [INFO]: U0001F6AB No branch protection found for diginfra/main
+2025-03-01 18:20:30 [WARN]: ⚠️ Branch master in discuss-board is not protected.
+2025-03-01 18:20:30 [INFO]: U0001F6AB No branch protection found for discuss-board/master
+2025-03-01 18:20:30 [INFO]: U0001F4DD [DRY RUN] [228/931] No checks to remove from: Discourse-easy-footer/master
+2025-03-01 18:20:30 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:33 [WARN]: ⚠️ Branch main in distribution is not protected.
+2025-03-01 18:20:33 [INFO]: U0001F6AB No branch protection found for distribution/main
+2025-03-01 18:20:33 [WARN]: ⚠️ Branch master in discuss-twitter is not protected.
+2025-03-01 18:20:33 [INFO]: U0001F6AB No branch protection found for discuss-twitter/master
+2025-03-01 18:20:33 [WARN]: ⚠️ Branch main in doc-builder is not protected.
+2025-03-01 18:20:33 [INFO]: U0001F6AB No branch protection found for doc-builder/main
+2025-03-01 18:20:33 [WARN]: ⚠️ Branch master in discuss-theme is not protected.
+2025-03-01 18:20:33 [INFO]: U0001F6AB No branch protection found for discuss-theme/master
+2025-03-01 18:20:33 [WARN]: ⚠️ Branch main in divest is not protected.
+2025-03-01 18:20:33 [INFO]: U0001F6AB No branch protection found for divest/main
+2025-03-01 18:20:33 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:37 [WARN]: ⚠️ Branch master in docker is not protected.
+2025-03-01 18:20:37 [INFO]: U0001F6AB No branch protection found for docker/master
+2025-03-01 18:20:37 [WARN]: ⚠️ Branch main in docker-golang-buf is not protected.
+2025-03-01 18:20:37 [INFO]: U0001F6AB No branch protection found for docker-golang-buf/main
+2025-03-01 18:20:37 [WARN]: ⚠️ Branch main in docker-getapp is not protected.
+2025-03-01 18:20:37 [INFO]: U0001F6AB No branch protection found for docker-getapp/main
+2025-03-01 18:20:37 [WARN]: ⚠️ Branch main in docker-docker is not protected.
+2025-03-01 18:20:37 [INFO]: U0001F6AB No branch protection found for docker-docker/main
+2025-03-01 18:20:37 [INFO]: U0001F4DD [DRY RUN] [238/931] No checks to remove from: docker-docs/master
+2025-03-01 18:20:37 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:40 [WARN]: ⚠️ Branch master in docker-ida is not protected.
+2025-03-01 18:20:40 [INFO]: U0001F6AB No branch protection found for docker-ida/master
+2025-03-01 18:20:41 [WARN]: ⚠️ Branch master in docker-kali-ansible is not protected.
+2025-03-01 18:20:41 [INFO]: U0001F6AB No branch protection found for docker-kali-ansible/master
+2025-03-01 18:20:41 [WARN]: ⚠️ Branch master in Docker-OSX is not protected.
+2025-03-01 18:20:41 [INFO]: U0001F6AB No branch protection found for Docker-OSX/master
+2025-03-01 18:20:41 [INFO]: U0001F4DD [DRY RUN] [242/931] No checks to remove from: docker-images/master
+2025-03-01 18:20:41 [INFO]: U0001F4DD [DRY RUN] [243/931] No checks to remove from: docker-images-flutter/master
+2025-03-01 18:20:41 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:44 [WARN]: ⚠️ Branch ci_prod in Docker-Provider is not protected.
+2025-03-01 18:20:44 [INFO]: U0001F6AB No branch protection found for Docker-Provider/ci_prod
+2025-03-01 18:20:44 [WARN]: ⚠️ Branch master in docker-with-compose is not protected.
+2025-03-01 18:20:44 [INFO]: U0001F6AB No branch protection found for docker-with-compose/master
+2025-03-01 18:20:44 [WARN]: ⚠️ Branch master in docker-postgres-upgrade is not protected.
+2025-03-01 18:20:44 [INFO]: U0001F6AB No branch protection found for docker-postgres-upgrade/master
+2025-03-01 18:20:44 [WARN]: ⚠️ Branch main in docker-volume-backup is not protected.
+2025-03-01 18:20:44 [INFO]: U0001F6AB No branch protection found for docker-volume-backup/main
+2025-03-01 18:20:44 [WARN]: ⚠️ Branch master in docker-vscode-server is not protected.
+2025-03-01 18:20:44 [INFO]: U0001F6AB No branch protection found for docker-vscode-server/master
+2025-03-01 18:20:44 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:48 [WARN]: ⚠️ Branch master in dockerfile is not protected.
+2025-03-01 18:20:48 [INFO]: U0001F6AB No branch protection found for dockerfile/master
+2025-03-01 18:20:48 [WARN]: ⚠️ Branch master in dockerfiles is not protected.
+2025-03-01 18:20:48 [INFO]: U0001F6AB No branch protection found for dockerfiles/master
+2025-03-01 18:20:48 [WARN]: ⚠️ Branch main in dockerspawner is not protected.
+2025-03-01 18:20:48 [INFO]: U0001F6AB No branch protection found for dockerspawner/main
+2025-03-01 18:20:48 [WARN]: ⚠️ Branch master in dockerapi is not protected.
+2025-03-01 18:20:48 [INFO]: U0001F6AB No branch protection found for dockerapi/master
+2025-03-01 18:20:48 [INFO]: U0001F4DD [DRY RUN] [255/931] No checks to remove from: dockerswarm/master
+2025-03-01 18:20:48 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:51 [WARN]: ⚠️ Branch main in docs-common is not protected.
+2025-03-01 18:20:51 [INFO]: U0001F6AB No branch protection found for docs-common/main
+2025-03-01 18:20:51 [WARN]: ⚠️ Branch main in DockNet is not protected.
+2025-03-01 18:20:51 [INFO]: U0001F6AB No branch protection found for DockNet/main
+2025-03-01 18:20:51 [WARN]: ⚠️ Branch master in docs is not protected.
+2025-03-01 18:20:51 [INFO]: U0001F6AB No branch protection found for docs/master
+2025-03-01 18:20:51 [WARN]: ⚠️ Branch master in dockyard is not protected.
+2025-03-01 18:20:51 [INFO]: U0001F6AB No branch protection found for dockyard/master
+2025-03-01 18:20:51 [WARN]: ⚠️ Branch main in dockyard-dev is not protected.
+2025-03-01 18:20:51 [INFO]: U0001F6AB No branch protection found for dockyard-dev/main
+2025-03-01 18:20:51 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:55 [WARN]: ⚠️ Branch main in docs-template is not protected.
+2025-03-01 18:20:55 [INFO]: U0001F6AB No branch protection found for docs-template/main
+2025-03-01 18:20:55 [WARN]: ⚠️ Branch main in docs-platform is not protected.
+2025-03-01 18:20:55 [INFO]: U0001F6AB No branch protection found for docs-platform/main
+2025-03-01 18:20:55 [WARN]: ⚠️ Branch main in docsai is not protected.
+2025-03-01 18:20:55 [INFO]: U0001F6AB No branch protection found for docsai/main
+2025-03-01 18:20:55 [WARN]: ⚠️ Branch main in doi-meta-scripts is not protected.
+2025-03-01 18:20:55 [INFO]: U0001F6AB No branch protection found for doi-meta-scripts/main
+2025-03-01 18:20:55 [WARN]: ⚠️ Branch master in docs-engine is not protected.
+2025-03-01 18:20:55 [INFO]: U0001F6AB No branch protection found for docs-engine/master
+2025-03-01 18:20:55 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:20:58 [WARN]: ⚠️ Branch develop in e2e is not protected.
+2025-03-01 18:20:58 [INFO]: U0001F6AB No branch protection found for e2e/develop
+2025-03-01 18:20:58 [WARN]: ⚠️ Branch main in ecosystem is not protected.
+2025-03-01 18:20:58 [INFO]: U0001F6AB No branch protection found for ecosystem/main
+2025-03-01 18:20:58 [WARN]: ⚠️ Branch master in ebpf-co-re is not protected.
+2025-03-01 18:20:58 [INFO]: U0001F6AB No branch protection found for ebpf-co-re/master
+2025-03-01 18:20:58 [WARN]: ⚠️ Branch main in drive is not protected.
+2025-03-01 18:20:58 [INFO]: U0001F6AB No branch protection found for drive/main
+2025-03-01 18:20:59 [INFO]: U0001F4DD [DRY RUN] [270/931] No checks to remove from: edge-logger/main
+2025-03-01 18:20:59 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:02 [WARN]: ⚠️ Branch main in EditSync is not protected.
+2025-03-01 18:21:02 [INFO]: U0001F6AB No branch protection found for EditSync/main
+2025-03-01 18:21:02 [WARN]: ⚠️ Branch main in edgedata is not protected.
+2025-03-01 18:21:02 [INFO]: U0001F6AB No branch protection found for edgedata/main
+2025-03-01 18:21:02 [WARN]: ⚠️ Branch main in eKube is not protected.
+2025-03-01 18:21:02 [INFO]: U0001F6AB No branch protection found for eKube/main
+2025-03-01 18:21:02 [WARN]: ⚠️ Branch master in errors is not protected.
+2025-03-01 18:21:02 [INFO]: U0001F6AB No branch protection found for errors/master
+2025-03-01 18:21:02 [INFO]: U0001F4DD [DRY RUN] [271/931] No checks to remove from: edge-runtime/main
+2025-03-01 18:21:02 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:06 [WARN]: ⚠️ Branch main in examples is not protected.
+2025-03-01 18:21:06 [INFO]: U0001F6AB No branch protection found for examples/main
+2025-03-01 18:21:06 [WARN]: ⚠️ Branch main in evolution is not protected.
+2025-03-01 18:21:06 [INFO]: U0001F6AB No branch protection found for evolution/main
+2025-03-01 18:21:06 [WARN]: ⚠️ Branch main in eval is not protected.
+2025-03-01 18:21:06 [INFO]: U0001F6AB No branch protection found for eval/main
+2025-03-01 18:21:06 [WARN]: ⚠️ Branch master in explore-agent__apache__commons-csv is not protected.
+2025-03-01 18:21:06 [INFO]: U0001F6AB No branch protection found for explore-agent__apache__commons-csv/master
+2025-03-01 18:21:06 [WARN]: ⚠️ Branch master in exploitdb is not protected.
+2025-03-01 18:21:06 [INFO]: U0001F6AB No branch protection found for exploitdb/master
+2025-03-01 18:21:06 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:09 [WARN]: ⚠️ Branch main in fairscale is not protected.
+2025-03-01 18:21:09 [INFO]: U0001F6AB No branch protection found for fairscale/main
+2025-03-01 18:21:09 [WARN]: ⚠️ Branch main in ezburn is not protected.
+2025-03-01 18:21:09 [INFO]: U0001F6AB No branch protection found for ezburn/main
+2025-03-01 18:21:09 [WARN]: ⚠️ Branch main in explore-agent__pandas-dev__pandas is not protected.
+2025-03-01 18:21:09 [INFO]: U0001F6AB No branch protection found for explore-agent__pandas-dev__pandas/main
+2025-03-01 18:21:09 [WARN]: ⚠️ Branch master in explore-agent__apache__flink is not protected.
+2025-03-01 18:21:09 [INFO]: U0001F6AB No branch protection found for explore-agent__apache__flink/master
+2025-03-01 18:21:09 [WARN]: ⚠️ Branch main in explore-agent__facebook__react-native is not protected.
+2025-03-01 18:21:09 [INFO]: U0001F6AB No branch protection found for explore-agent__facebook__react-native/main
+2025-03-01 18:21:09 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:12 [WARN]: ⚠️ Branch main in FastAGI-Node-Client is not protected.
+2025-03-01 18:21:12 [INFO]: U0001F6AB No branch protection found for FastAGI-Node-Client/main
+2025-03-01 18:21:12 [WARN]: ⚠️ Branch master in fanal is not protected.
+2025-03-01 18:21:12 [INFO]: U0001F6AB No branch protection found for fanal/master
+2025-03-01 18:21:13 [WARN]: ⚠️ Branch main in FastAGI-Tools is not protected.
+2025-03-01 18:21:13 [INFO]: U0001F6AB No branch protection found for FastAGI-Tools/main
+2025-03-01 18:21:13 [WARN]: ⚠️ Branch main in FastAGI-Python-Client is not protected.
+2025-03-01 18:21:13 [INFO]: U0001F6AB No branch protection found for FastAGI-Python-Client/main
+2025-03-01 18:21:13 [INFO]: U0001F4DD [DRY RUN] [286/931] No checks to remove from: fake/main
+2025-03-01 18:21:13 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:16 [WARN]: ⚠️ Branch main in fastAGI-tools-common is not protected.
+2025-03-01 18:21:16 [INFO]: U0001F6AB No branch protection found for fastAGI-tools-common/main
+2025-03-01 18:21:16 [WARN]: ⚠️ Branch main in FastNode is not protected.
+2025-03-01 18:21:16 [INFO]: U0001F6AB No branch protection found for FastNode/main
+2025-03-01 18:21:16 [WARN]: ⚠️ Branch main in fastagi.py is not protected.
+2025-03-01 18:21:16 [INFO]: U0001F6AB No branch protection found for fastagi.py/main
+2025-03-01 18:21:16 [WARN]: ⚠️ Branch main in fastlogs-docs is not protected.
+2025-03-01 18:21:16 [INFO]: U0001F6AB No branch protection found for fastlogs-docs/main
+2025-03-01 18:21:17 [INFO]: U0001F4DD [DRY RUN] [293/931] No checks to remove from: fastapi/master
+2025-03-01 18:21:17 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:20 [WARN]: ⚠️ Branch master in firebase is not protected.
+2025-03-01 18:21:20 [INFO]: U0001F6AB No branch protection found for firebase/master
+2025-03-01 18:21:20 [WARN]: ⚠️ Branch main in FLAML is not protected.
+2025-03-01 18:21:20 [INFO]: U0001F6AB No branch protection found for FLAML/main
+2025-03-01 18:21:20 [WARN]: ⚠️ Branch main in fastoci is not protected.
+2025-03-01 18:21:20 [INFO]: U0001F6AB No branch protection found for fastoci/main
+2025-03-01 18:21:20 [WARN]: ⚠️ Branch master in Flask-Boilerplate is not protected.
+2025-03-01 18:21:20 [INFO]: U0001F6AB No branch protection found for Flask-Boilerplate/master
+2025-03-01 18:21:20 [WARN]: ⚠️ Branch main in flowease-hosting is not protected.
+2025-03-01 18:21:20 [INFO]: U0001F6AB No branch protection found for flowease-hosting/main
+2025-03-01 18:21:20 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:24 [WARN]: ⚠️ Branch main in flowease-storybook is not protected.
+2025-03-01 18:21:24 [INFO]: U0001F6AB No branch protection found for flowease-storybook/main
+2025-03-01 18:21:24 [WARN]: ⚠️ Branch master in full-stack-readyapi-couchbase is not protected.
+2025-03-01 18:21:24 [INFO]: U0001F6AB No branch protection found for full-stack-readyapi-couchbase/master
+2025-03-01 18:21:24 [WARN]: ⚠️ Branch master in floweasex is not protected.
+2025-03-01 18:21:24 [INFO]: U0001F6AB No branch protection found for floweasex/master
+2025-03-01 18:21:24 [WARN]: ⚠️ Branch master in full-stack is not protected.
+2025-03-01 18:21:24 [INFO]: U0001F6AB No branch protection found for full-stack/master
+2025-03-01 18:21:24 [WARN]: ⚠️ Branch main in functions-js is not protected.
+2025-03-01 18:21:24 [INFO]: U0001F6AB No branch protection found for functions-js/main
+2025-03-01 18:21:24 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:27 [WARN]: ⚠️ Branch master in gatsby-plugin-meta-redirect is not protected.
+2025-03-01 18:21:27 [INFO]: U0001F6AB No branch protection found for gatsby-plugin-meta-redirect/master
+2025-03-01 18:21:27 [WARN]: ⚠️ Branch master in gateway is not protected.
+2025-03-01 18:21:27 [INFO]: U0001F6AB No branch protection found for gateway/master
+2025-03-01 18:21:27 [WARN]: ⚠️ Branch main in gce-github-runner is not protected.
+2025-03-01 18:21:27 [INFO]: U0001F6AB No branch protection found for gce-github-runner/main
+2025-03-01 18:21:27 [WARN]: ⚠️ Branch main in gBPF is not protected.
+2025-03-01 18:21:27 [INFO]: U0001F6AB No branch protection found for gBPF/main
+2025-03-01 18:21:27 [WARN]: ⚠️ Branch main in FWR is not protected.
+2025-03-01 18:21:27 [INFO]: U0001F6AB No branch protection found for FWR/main
+2025-03-01 18:21:27 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:30 [WARN]: ⚠️ Branch master in gemini is not protected.
+2025-03-01 18:21:30 [INFO]: U0001F6AB No branch protection found for gemini/master
+2025-03-01 18:21:30 [WARN]: ⚠️ Branch main in getapp-sdk is not protected.
+2025-03-01 18:21:30 [INFO]: U0001F6AB No branch protection found for getapp-sdk/main
+2025-03-01 18:21:30 [WARN]: ⚠️ Branch main in getapp-console is not protected.
+2025-03-01 18:21:30 [INFO]: U0001F6AB No branch protection found for getapp-console/main
+2025-03-01 18:21:30 [WARN]: ⚠️ Branch main in getapp is not protected.
+2025-03-01 18:21:30 [INFO]: U0001F6AB No branch protection found for getapp/main
+2025-03-01 18:21:30 [WARN]: ⚠️ Branch main in getapp-playground is not protected.
+2025-03-01 18:21:30 [INFO]: U0001F6AB No branch protection found for getapp-playground/main
+2025-03-01 18:21:30 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:34 [WARN]: ⚠️ Branch main in git is not protected.
+2025-03-01 18:21:34 [INFO]: U0001F6AB No branch protection found for git/main
+2025-03-01 18:21:34 [WARN]: ⚠️ Branch main in getcms is not protected.
+2025-03-01 18:21:34 [INFO]: U0001F6AB No branch protection found for getcms/main
+2025-03-01 18:21:34 [WARN]: ⚠️ Branch main in gfi is not protected.
+2025-03-01 18:21:34 [INFO]: U0001F6AB No branch protection found for gfi/main
+2025-03-01 18:21:34 [WARN]: ⚠️ Branch main in getapp-ui is not protected.
+2025-03-01 18:21:34 [INFO]: U0001F6AB No branch protection found for getapp-ui/main
+2025-03-01 18:21:34 [INFO]: U0001F4DD [DRY RUN] [318/931] No checks to remove from: getnighthawk/master
+2025-03-01 18:21:34 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:38 [WARN]: ⚠️ Branch main in git-explore is not protected.
+2025-03-01 18:21:38 [INFO]: U0001F6AB No branch protection found for git-explore/main
+2025-03-01 18:21:38 [WARN]: ⚠️ Branch master in git-pull-request is not protected.
+2025-03-01 18:21:38 [INFO]: U0001F6AB No branch protection found for git-pull-request/master
+2025-03-01 18:21:38 [WARN]: ⚠️ Branch master in github-actions-sandbox is not protected.
+2025-03-01 18:21:38 [INFO]: U0001F6AB No branch protection found for github-actions-sandbox/master
+2025-03-01 18:21:38 [WARN]: ⚠️ Branch main in github-automations is not protected.
+2025-03-01 18:21:38 [INFO]: U0001F6AB No branch protection found for github-automations/main
+2025-03-01 18:21:38 [WARN]: ⚠️ Branch main in github is not protected.
+2025-03-01 18:21:38 [INFO]: U0001F6AB No branch protection found for github/main
+2025-03-01 18:21:38 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:41 [WARN]: ⚠️ Branch main in GitThink is not protected.
+2025-03-01 18:21:41 [INFO]: U0001F6AB No branch protection found for GitThink/main
+2025-03-01 18:21:41 [WARN]: ⚠️ Branch main in github-branch-protection is not protected.
+2025-03-01 18:21:41 [INFO]: U0001F6AB No branch protection found for github-branch-protection/main
+2025-03-01 18:21:41 [WARN]: ⚠️ Branch main in github-insights is not protected.
+2025-03-01 18:21:41 [INFO]: U0001F6AB No branch protection found for github-insights/main
+2025-03-01 18:21:41 [WARN]: ⚠️ Branch master in go is not protected.
+2025-03-01 18:21:41 [INFO]: U0001F6AB No branch protection found for go/master
+2025-03-01 18:21:41 [INFO]: U0001F4DD [DRY RUN] [328/931] No checks to remove from: github-project-automation/master
+2025-03-01 18:21:41 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:45 [WARN]: ⚠️ Branch master in go-api is not protected.
+2025-03-01 18:21:45 [INFO]: U0001F6AB No branch protection found for go-api/master
+2025-03-01 18:21:45 [WARN]: ⚠️ Branch main in go-cassandra-native-protocol is not protected.
+2025-03-01 18:21:45 [INFO]: U0001F6AB No branch protection found for go-cassandra-native-protocol/main
+2025-03-01 18:21:45 [WARN]: ⚠️ Branch main in go-git is not protected.
+2025-03-01 18:21:45 [INFO]: U0001F6AB No branch protection found for go-git/main
+2025-03-01 18:21:45 [WARN]: ⚠️ Branch main in go-dep-parser is not protected.
+2025-03-01 18:21:45 [INFO]: U0001F6AB No branch protection found for go-dep-parser/main
+2025-03-01 18:21:45 [WARN]: ⚠️ Branch main in go-dockerclient is not protected.
+2025-03-01 18:21:45 [INFO]: U0001F6AB No branch protection found for go-dockerclient/main
+2025-03-01 18:21:45 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:48 [WARN]: ⚠️ Branch master in Go-Kafka is not protected.
+2025-03-01 18:21:48 [INFO]: U0001F6AB No branch protection found for Go-Kafka/master
+2025-03-01 18:21:48 [WARN]: ⚠️ Branch master in go-keychain is not protected.
+2025-03-01 18:21:48 [INFO]: U0001F6AB No branch protection found for go-keychain/master
+2025-03-01 18:21:48 [WARN]: ⚠️ Branch master in go-licenses is not protected.
+2025-03-01 18:21:48 [INFO]: U0001F6AB No branch protection found for go-licenses/master
+2025-03-01 18:21:48 [WARN]: ⚠️ Branch dev in go-localstack is not protected.
+2025-03-01 18:21:48 [INFO]: U0001F6AB No branch protection found for go-localstack/dev
+2025-03-01 18:21:48 [WARN]: ⚠️ Branch main in go-grpc-kit is not protected.
+2025-03-01 18:21:48 [INFO]: U0001F6AB No branch protection found for go-grpc-kit/main
+2025-03-01 18:21:48 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:52 [WARN]: ⚠️ Branch main in go-mock-aws is not protected.
+2025-03-01 18:21:52 [INFO]: U0001F6AB No branch protection found for go-mock-aws/main
+2025-03-01 18:21:52 [WARN]: ⚠️ Branch master in go-openai is not protected.
+2025-03-01 18:21:52 [INFO]: U0001F6AB No branch protection found for go-openai/master
+2025-03-01 18:21:52 [WARN]: ⚠️ Branch main in go-parser is not protected.
+2025-03-01 18:21:52 [INFO]: U0001F6AB No branch protection found for go-parser/main
+2025-03-01 18:21:52 [WARN]: ⚠️ Branch main in go-pkg is not protected.
+2025-03-01 18:21:52 [INFO]: U0001F6AB No branch protection found for go-pkg/main
+2025-03-01 18:21:52 [WARN]: ⚠️ Branch main in go-opentelemetry is not protected.
+2025-03-01 18:21:52 [INFO]: U0001F6AB No branch protection found for go-opentelemetry/main
+2025-03-01 18:21:52 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:55 [WARN]: ⚠️ Branch main in go-recipes is not protected.
+2025-03-01 18:21:55 [INFO]: U0001F6AB No branch protection found for go-recipes/main
+2025-03-01 18:21:55 [WARN]: ⚠️ Branch master in go-TeleFlow is not protected.
+2025-03-01 18:21:55 [INFO]: U0001F6AB No branch protection found for go-TeleFlow/master
+2025-03-01 18:21:55 [WARN]: ⚠️ Branch main in go-sdk is not protected.
+2025-03-01 18:21:55 [INFO]: U0001F6AB No branch protection found for go-sdk/main
+2025-03-01 18:21:55 [WARN]: ⚠️ Branch master in go-progress is not protected.
+2025-03-01 18:21:55 [INFO]: U0001F6AB No branch protection found for go-progress/master
+2025-03-01 18:21:55 [WARN]: ⚠️ Branch master in go-pulsebus is not protected.
+2025-03-01 18:21:55 [INFO]: U0001F6AB No branch protection found for go-pulsebus/master
+2025-03-01 18:21:55 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:21:59 [WARN]: ⚠️ Branch master in go-utility is not protected.
+2025-03-01 18:21:59 [INFO]: U0001F6AB No branch protection found for go-utility/master
+2025-03-01 18:21:59 [WARN]: ⚠️ Branch main in go-threatmatrix is not protected.
+2025-03-01 18:21:59 [INFO]: U0001F6AB No branch protection found for go-threatmatrix/main
+2025-03-01 18:21:59 [WARN]: ⚠️ Branch master in go-yara is not protected.
+2025-03-01 18:21:59 [INFO]: U0001F6AB No branch protection found for go-yara/master
+2025-03-01 18:21:59 [WARN]: ⚠️ Branch master in go.plugin is not protected.
+2025-03-01 18:21:59 [INFO]: U0001F6AB No branch protection found for go.plugin/master
+2025-03-01 18:21:59 [WARN]: ⚠️ Branch main in go.khulnasoft.com is not protected.
+2025-03-01 18:21:59 [INFO]: U0001F6AB No branch protection found for go.khulnasoft.com/main
+2025-03-01 18:21:59 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:02 [WARN]: ⚠️ Branch main in gob is not protected.
+2025-03-01 18:22:02 [INFO]: U0001F6AB No branch protection found for gob/main
+2025-03-01 18:22:02 [WARN]: ⚠️ Branch master in goactors is not protected.
+2025-03-01 18:22:02 [INFO]: U0001F6AB No branch protection found for goactors/master
+2025-03-01 18:22:02 [WARN]: ⚠️ Branch main in GoDurable is not protected.
+2025-03-01 18:22:02 [INFO]: U0001F6AB No branch protection found for GoDurable/main
+2025-03-01 18:22:02 [WARN]: ⚠️ Branch master in gocui is not protected.
+2025-03-01 18:22:02 [INFO]: U0001F6AB No branch protection found for gocui/master
+2025-03-01 18:22:02 [WARN]: ⚠️ Branch main in goctl is not protected.
+2025-03-01 18:22:02 [INFO]: U0001F6AB No branch protection found for goctl/main
+2025-03-01 18:22:02 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:05 [WARN]: ⚠️ Branch master in gowrk2 is not protected.
+2025-03-01 18:22:05 [INFO]: U0001F6AB No branch protection found for gowrk2/master
+2025-03-01 18:22:05 [WARN]: ⚠️ Branch main in GoVersify is not protected.
+2025-03-01 18:22:05 [INFO]: U0001F6AB No branch protection found for GoVersify/main
+2025-03-01 18:22:05 [WARN]: ⚠️ Branch master in gpt-computer-agent is not protected.
+2025-03-01 18:22:05 [INFO]: U0001F6AB No branch protection found for gpt-computer-agent/master
+2025-03-01 18:22:05 [WARN]: ⚠️ Branch main in gokit is not protected.
+2025-03-01 18:22:05 [INFO]: U0001F6AB No branch protection found for gokit/main
+2025-03-01 18:22:05 [WARN]: ⚠️ Branch master in gotrue is not protected.
+2025-03-01 18:22:05 [INFO]: U0001F6AB No branch protection found for gotrue/master
+2025-03-01 18:22:05 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:09 [WARN]: ⚠️ Branch main in gpt-crawler is not protected.
+2025-03-01 18:22:09 [INFO]: U0001F6AB No branch protection found for gpt-crawler/main
+2025-03-01 18:22:09 [WARN]: ⚠️ Branch main in grafana is not protected.
+2025-03-01 18:22:09 [INFO]: U0001F6AB No branch protection found for grafana/main
+2025-03-01 18:22:09 [WARN]: ⚠️ Branch main in GPT-DB is not protected.
+2025-03-01 18:22:09 [INFO]: U0001F6AB No branch protection found for GPT-DB/main
+2025-03-01 18:22:09 [WARN]: ⚠️ Branch main in gpt4cli is not protected.
+2025-03-01 18:22:09 [INFO]: U0001F6AB No branch protection found for gpt4cli/main
+2025-03-01 18:22:09 [WARN]: ⚠️ Branch main in gradle-coverage-ai is not protected.
+2025-03-01 18:22:09 [INFO]: U0001F6AB No branch protection found for gradle-coverage-ai/main
+2025-03-01 18:22:09 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:12 [WARN]: ⚠️ Branch main in gsoc is not protected.
+2025-03-01 18:22:12 [INFO]: U0001F6AB No branch protection found for gsoc/main
+2025-03-01 18:22:12 [WARN]: ⚠️ Branch master in gunicorn is not protected.
+2025-03-01 18:22:12 [INFO]: U0001F6AB No branch protection found for gunicorn/master
+2025-03-01 18:22:12 [WARN]: ⚠️ Branch master in gyp is not protected.
+2025-03-01 18:22:12 [INFO]: U0001F6AB No branch protection found for gyp/master
+2025-03-01 18:22:12 [WARN]: ⚠️ Branch main in hack is not protected.
+2025-03-01 18:22:12 [INFO]: U0001F6AB No branch protection found for hack/main
+2025-03-01 18:22:12 [WARN]: ⚠️ Branch main in grafana-dashboards is not protected.
+2025-03-01 18:22:12 [INFO]: U0001F6AB No branch protection found for grafana-dashboards/main
+2025-03-01 18:22:12 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:16 [WARN]: ⚠️ Branch main in helm-charts is not protected.
+2025-03-01 18:22:16 [INFO]: U0001F6AB No branch protection found for helm-charts/main
+2025-03-01 18:22:16 [WARN]: ⚠️ Branch main in harbor-scanner-khulnasoft is not protected.
+2025-03-01 18:22:16 [INFO]: U0001F6AB No branch protection found for harbor-scanner-khulnasoft/main
+2025-03-01 18:22:16 [WARN]: ⚠️ Branch main in hello-world is not protected.
+2025-03-01 18:22:16 [INFO]: U0001F6AB No branch protection found for hello-world/main
+2025-03-01 18:22:16 [INFO]: U0001F4DD [DRY RUN] [376/931] No checks to remove from: HandPickr/main
+2025-03-01 18:22:16 [INFO]: U0001F4DD [DRY RUN] [378/931] No checks to remove from: harbor-scanner-tunnel/main
+2025-03-01 18:22:16 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:19 [WARN]: ⚠️ Branch master in helmchart is not protected.
+2025-03-01 18:22:19 [INFO]: U0001F6AB No branch protection found for helmchart/master
+2025-03-01 18:22:19 [WARN]: ⚠️ Branch master in homebrew-core is not protected.
+2025-03-01 18:22:19 [INFO]: U0001F6AB No branch protection found for homebrew-core/master
+2025-03-01 18:22:19 [WARN]: ⚠️ Branch master in helper-images is not protected.
+2025-03-01 18:22:19 [INFO]: U0001F6AB No branch protection found for helper-images/master
+2025-03-01 18:22:19 [WARN]: ⚠️ Branch master in homebrew-tap is not protected.
+2025-03-01 18:22:19 [INFO]: U0001F6AB No branch protection found for homebrew-tap/master
+2025-03-01 18:22:19 [WARN]: ⚠️ Branch main in heroku is not protected.
+2025-03-01 18:22:19 [INFO]: U0001F6AB No branch protection found for heroku/main
+2025-03-01 18:22:19 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:23 [WARN]: ⚠️ Branch master in hpack-rs is not protected.
+2025-03-01 18:22:23 [INFO]: U0001F6AB No branch protection found for hpack-rs/master
+2025-03-01 18:22:23 [WARN]: ⚠️ Branch main in Hostly is not protected.
+2025-03-01 18:22:23 [INFO]: U0001F6AB No branch protection found for Hostly/main
+2025-03-01 18:22:23 [WARN]: ⚠️ Branch master in ibm-charts is not protected.
+2025-03-01 18:22:23 [INFO]: U0001F6AB No branch protection found for ibm-charts/master
+2025-03-01 18:22:23 [WARN]: ⚠️ Branch main in HomeView is not protected.
+2025-03-01 18:22:23 [INFO]: U0001F6AB No branch protection found for HomeView/main
+2025-03-01 18:22:23 [WARN]: ⚠️ Branch master in hugo-khulnasoft-docs is not protected.
+2025-03-01 18:22:23 [INFO]: U0001F6AB No branch protection found for hugo-khulnasoft-docs/master
+2025-03-01 18:22:23 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:26 [WARN]: ⚠️ Branch main in infra is not protected.
+2025-03-01 18:22:26 [INFO]: U0001F6AB No branch protection found for infra/main
+2025-03-01 18:22:26 [WARN]: ⚠️ Branch master in IdeaMesh is not protected.
+2025-03-01 18:22:26 [INFO]: U0001F6AB No branch protection found for IdeaMesh/master
+2025-03-01 18:22:26 [WARN]: ⚠️ Branch master in infra-trigger-workflow-and-wait is not protected.
+2025-03-01 18:22:26 [INFO]: U0001F6AB No branch protection found for infra-trigger-workflow-and-wait/master
+2025-03-01 18:22:26 [WARN]: ⚠️ Branch main in image-tools is not protected.
+2025-03-01 18:22:26 [INFO]: U0001F6AB No branch protection found for image-tools/main
+2025-03-01 18:22:27 [INFO]: U0001F4DD [DRY RUN] [392/931] No checks to remove from: image-hub/master
+2025-03-01 18:22:27 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:30 [WARN]: ⚠️ Branch master in integrations-core is not protected.
+2025-03-01 18:22:30 [INFO]: U0001F6AB No branch protection found for integrations-core/master
+2025-03-01 18:22:30 [WARN]: ⚠️ Branch master in init.lua is not protected.
+2025-03-01 18:22:30 [INFO]: U0001F6AB No branch protection found for init.lua/master
+2025-03-01 18:22:30 [WARN]: ⚠️ Branch main in inngest is not protected.
+2025-03-01 18:22:30 [INFO]: U0001F6AB No branch protection found for inngest/main
+2025-03-01 18:22:30 [WARN]: ⚠️ Branch main in ingestify is not protected.
+2025-03-01 18:22:30 [INFO]: U0001F6AB No branch protection found for ingestify/main
+2025-03-01 18:22:30 [WARN]: ⚠️ Branch main in ingress is not protected.
+2025-03-01 18:22:30 [INFO]: U0001F6AB No branch protection found for ingress/main
+2025-03-01 18:22:30 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:33 [WARN]: ⚠️ Branch main in intellij-tunnel is not protected.
+2025-03-01 18:22:33 [INFO]: U0001F6AB No branch protection found for intellij-tunnel/main
+2025-03-01 18:22:33 [WARN]: ⚠️ Branch master in IntroLabs is not protected.
+2025-03-01 18:22:33 [INFO]: U0001F6AB No branch protection found for IntroLabs/master
+2025-03-01 18:22:33 [WARN]: ⚠️ Branch main in intellij-plugin is not protected.
+2025-03-01 18:22:33 [INFO]: U0001F6AB No branch protection found for intellij-plugin/main
+2025-03-01 18:22:33 [WARN]: ⚠️ Branch khulnasoft in isign is not protected.
+2025-03-01 18:22:33 [INFO]: U0001F6AB No branch protection found for isign/khulnasoft
+2025-03-01 18:22:33 [WARN]: ⚠️ Branch main in interpreter is not protected.
+2025-03-01 18:22:33 [INFO]: U0001F6AB No branch protection found for interpreter/main
+2025-03-01 18:22:33 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:37 [WARN]: ⚠️ Branch master in issue-manager is not protected.
+2025-03-01 18:22:37 [INFO]: U0001F6AB No branch protection found for issue-manager/master
+2025-03-01 18:22:37 [WARN]: ⚠️ Branch main in jenkins-alerts is not protected.
+2025-03-01 18:22:37 [INFO]: U0001F6AB No branch protection found for jenkins-alerts/main
+2025-03-01 18:22:37 [WARN]: ⚠️ Branch master in istio-service-mesh-workshop is not protected.
+2025-03-01 18:22:37 [INFO]: U0001F6AB No branch protection found for istio-service-mesh-workshop/master
+2025-03-01 18:22:37 [WARN]: ⚠️ Branch main in jenkins-status-action is not protected.
+2025-03-01 18:22:37 [INFO]: U0001F6AB No branch protection found for jenkins-status-action/main
+2025-03-01 18:22:37 [WARN]: ⚠️ Branch master in janky-groovy is not protected.
+2025-03-01 18:22:37 [INFO]: U0001F6AB No branch protection found for janky-groovy/master
+2025-03-01 18:22:37 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:40 [WARN]: ⚠️ Branch master in js-python-ast is not protected.
+2025-03-01 18:22:40 [INFO]: U0001F6AB No branch protection found for js-python-ast/master
+2025-03-01 18:22:40 [WARN]: ⚠️ Branch main in jupyter-docker is not protected.
+2025-03-01 18:22:40 [INFO]: U0001F6AB No branch protection found for jupyter-docker/main
+2025-03-01 18:22:40 [WARN]: ⚠️ Branch master in jsonc-adapter is not protected.
+2025-03-01 18:22:40 [INFO]: U0001F6AB No branch protection found for jsonc-adapter/master
+2025-03-01 18:22:40 [WARN]: ⚠️ Branch master in jsonnet-libs is not protected.
+2025-03-01 18:22:40 [INFO]: U0001F6AB No branch protection found for jsonnet-libs/master
+2025-03-01 18:22:41 [INFO]: U0001F4DD [DRY RUN] [412/931] No checks to remove from: json-mock/master
+2025-03-01 18:22:41 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:44 [WARN]: ⚠️ Branch main in jupyterlab-khulnasoft is not protected.
+2025-03-01 18:22:44 [INFO]: U0001F6AB No branch protection found for jupyterlab-khulnasoft/main
+2025-03-01 18:22:44 [WARN]: ⚠️ Branch main in jupyter-khulnasoft is not protected.
+2025-03-01 18:22:44 [INFO]: U0001F6AB No branch protection found for jupyter-khulnasoft/main
+2025-03-01 18:22:44 [WARN]: ⚠️ Branch main in Kafka is not protected.
+2025-03-01 18:22:44 [INFO]: U0001F6AB No branch protection found for Kafka/main
+2025-03-01 18:22:44 [INFO]: U0001F4DD [DRY RUN] [419/931] No checks to remove from: k8s-node-collector/main
+2025-03-01 18:22:44 [INFO]: U0001F4DD [DRY RUN] [418/931] No checks to remove from: k8s-metacollector/main
+2025-03-01 18:22:44 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:48 [WARN]: ⚠️ Branch main in kengine-datasource-backend is not protected.
+2025-03-01 18:22:48 [INFO]: U0001F6AB No branch protection found for kengine-datasource-backend/main
+2025-03-01 18:22:48 [WARN]: ⚠️ Branch master in kengine-dist is not protected.
+2025-03-01 18:22:48 [INFO]: U0001F6AB No branch protection found for kengine-dist/master
+2025-03-01 18:22:48 [WARN]: ⚠️ Branch master in kagent is not protected.
+2025-03-01 18:22:48 [INFO]: U0001F6AB No branch protection found for kagent/master
+2025-03-01 18:22:48 [WARN]: ⚠️ Branch master in kengine is not protected.
+2025-03-01 18:22:48 [INFO]: U0001F6AB No branch protection found for kengine/master
+2025-03-01 18:22:48 [INFO]: U0001F4DD [DRY RUN] [422/931] No checks to remove from: kenbench/main
+2025-03-01 18:22:48 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:51 [WARN]: ⚠️ Branch main in kengine-sec is not protected.
+2025-03-01 18:22:51 [INFO]: U0001F6AB No branch protection found for kengine-sec/main
+2025-03-01 18:22:51 [WARN]: ⚠️ Branch main in kengine-plugin-sdk-go is not protected.
+2025-03-01 18:22:51 [INFO]: U0001F6AB No branch protection found for kengine-plugin-sdk-go/main
+2025-03-01 18:22:51 [WARN]: ⚠️ Branch master in kengine-docker is not protected.
+2025-03-01 18:22:51 [INFO]: U0001F6AB No branch protection found for kengine-docker/master
+2025-03-01 18:22:51 [WARN]: ⚠️ Branch main in kengine-examples is not protected.
+2025-03-01 18:22:51 [INFO]: U0001F6AB No branch protection found for kengine-examples/main
+2025-03-01 18:22:52 [INFO]: U0001F4DD [DRY RUN] [428/931] No checks to remove from: kengine-logger/main
+2025-03-01 18:22:52 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:55 [WARN]: ⚠️ Branch main in kengine-website is not protected.
+2025-03-01 18:22:55 [INFO]: U0001F6AB No branch protection found for kengine-website/main
+2025-03-01 18:22:55 [WARN]: ⚠️ Branch bpf-next_base in kernel-bpf-ci is not protected.
+2025-03-01 18:22:55 [INFO]: U0001F6AB No branch protection found for kernel-bpf-ci/bpf-next_base
+2025-03-01 18:22:55 [WARN]: ⚠️ Branch master in kernel-collector is not protected.
+2025-03-01 18:22:55 [INFO]: U0001F6AB No branch protection found for kernel-collector/master
+2025-03-01 18:22:55 [WARN]: ⚠️ Branch main in kenginex is not protected.
+2025-03-01 18:22:55 [INFO]: U0001F6AB No branch protection found for kenginex/main
+2025-03-01 18:22:56 [INFO]: U0001F4DD [DRY RUN] [432/931] No checks to remove from: kengine.js/main
+2025-03-01 18:22:56 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:22:59 [WARN]: ⚠️ Branch ai in khulnasoft is not protected.
+2025-03-01 18:22:59 [INFO]: U0001F6AB No branch protection found for khulnasoft/ai
+2025-03-01 18:22:59 [WARN]: ⚠️ Branch main in kexample is not protected.
+2025-03-01 18:22:59 [INFO]: U0001F6AB No branch protection found for kexample/main
+2025-03-01 18:22:59 [WARN]: ⚠️ Branch main in kernel-crawler is not protected.
+2025-03-01 18:22:59 [INFO]: U0001F6AB No branch protection found for kernel-crawler/main
+2025-03-01 18:22:59 [WARN]: ⚠️ Branch master in kernels-builder is not protected.
+2025-03-01 18:22:59 [INFO]: U0001F6AB No branch protection found for kernels-builder/master
+2025-03-01 18:22:59 [WARN]: ⚠️ Branch main in khulnasoft-action is not protected.
+2025-03-01 18:22:59 [INFO]: U0001F6AB No branch protection found for khulnasoft-action/main
+2025-03-01 18:22:59 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:02 [WARN]: ⚠️ Branch main in khulnasoft-build-images is not protected.
+2025-03-01 18:23:02 [INFO]: U0001F6AB No branch protection found for khulnasoft-build-images/main
+2025-03-01 18:23:02 [WARN]: ⚠️ Branch develop in khulnasoft-ansible is not protected.
+2025-03-01 18:23:02 [INFO]: U0001F6AB No branch protection found for khulnasoft-ansible/develop
+2025-03-01 18:23:02 [WARN]: ⚠️ Branch master in khulnasoft-api-swagger is not protected.
+2025-03-01 18:23:02 [INFO]: U0001F6AB No branch protection found for khulnasoft-api-swagger/master
+2025-03-01 18:23:02 [WARN]: ⚠️ Branch master in khulnasoft-api-client-python is not protected.
+2025-03-01 18:23:02 [INFO]: U0001F6AB No branch protection found for khulnasoft-api-client-python/master
+2025-03-01 18:23:03 [INFO]: U0001F4DD [DRY RUN] [442/931] No checks to remove from: khulnasoft-api/master
+2025-03-01 18:23:03 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:06 [WARN]: ⚠️ Branch master in khulnasoft-cloudformation is not protected.
+2025-03-01 18:23:06 [INFO]: U0001F6AB No branch protection found for khulnasoft-cloudformation/master
+2025-03-01 18:23:06 [WARN]: ⚠️ Branch main in khulnasoft-cloud-sdk-go is not protected.
+2025-03-01 18:23:06 [INFO]: U0001F6AB No branch protection found for khulnasoft-cloud-sdk-go/main
+2025-03-01 18:23:06 [WARN]: ⚠️ Branch master in khulnasoft-chef is not protected.
+2025-03-01 18:23:06 [INFO]: U0001F6AB No branch protection found for khulnasoft-chef/master
+2025-03-01 18:23:06 [WARN]: ⚠️ Branch develop in khulnasoft-ci is not protected.
+2025-03-01 18:23:06 [INFO]: U0001F6AB No branch protection found for khulnasoft-ci/develop
+2025-03-01 18:23:06 [WARN]: ⚠️ Branch main in khulnasoft-chrome is not protected.
+2025-03-01 18:23:06 [INFO]: U0001F6AB No branch protection found for khulnasoft-chrome/main
+2025-03-01 18:23:06 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:10 [WARN]: ⚠️ Branch main in khulnasoft-connect-for-snmp-mib-server is not protected.
+2025-03-01 18:23:10 [INFO]: U0001F6AB No branch protection found for khulnasoft-connect-for-snmp-mib-server/main
+2025-03-01 18:23:10 [WARN]: ⚠️ Branch main in khulnasoft-dashboards is not protected.
+2025-03-01 18:23:10 [INFO]: U0001F6AB No branch protection found for khulnasoft-dashboards/main
+2025-03-01 18:23:10 [WARN]: ⚠️ Branch main in khulnasoft-development-kit is not protected.
+2025-03-01 18:23:10 [INFO]: U0001F6AB No branch protection found for khulnasoft-development-kit/main
+2025-03-01 18:23:10 [WARN]: ⚠️ Branch main in khulnasoft-docker-images is not protected.
+2025-03-01 18:23:10 [INFO]: U0001F6AB No branch protection found for khulnasoft-docker-images/main
+2025-03-01 18:23:10 [WARN]: ⚠️ Branch master in khulnasoft-devops-plugin is not protected.
+2025-03-01 18:23:10 [INFO]: U0001F6AB No branch protection found for khulnasoft-devops-plugin/master
+2025-03-01 18:23:10 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:13 [WARN]: ⚠️ Branch master in khulnasoft-grafana-datasource-plugin is not protected.
+2025-03-01 18:23:13 [INFO]: U0001F6AB No branch protection found for khulnasoft-grafana-datasource-plugin/master
+2025-03-01 18:23:13 [WARN]: ⚠️ Branch master in khulnasoft-go is not protected.
+2025-03-01 18:23:13 [INFO]: U0001F6AB No branch protection found for khulnasoft-go/master
+2025-03-01 18:23:13 [WARN]: ⚠️ Branch main in khulnasoft-docs is not protected.
+2025-03-01 18:23:13 [INFO]: U0001F6AB No branch protection found for khulnasoft-docs/main
+2025-03-01 18:23:13 [WARN]: ⚠️ Branch master in khulnasoft-graph-api is not protected.
+2025-03-01 18:23:13 [INFO]: U0001F6AB No branch protection found for khulnasoft-graph-api/master
+2025-03-01 18:23:13 [WARN]: ⚠️ Branch main in khulnasoft-flake is not protected.
+2025-03-01 18:23:13 [INFO]: U0001F6AB No branch protection found for khulnasoft-flake/main
+2025-03-01 18:23:13 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:16 [WARN]: ⚠️ Branch main in khulnasoft-ios is not protected.
+2025-03-01 18:23:16 [INFO]: U0001F6AB No branch protection found for khulnasoft-ios/main
+2025-03-01 18:23:16 [WARN]: ⚠️ Branch master in khulnasoft-json-schema is not protected.
+2025-03-01 18:23:16 [INFO]: U0001F6AB No branch protection found for khulnasoft-json-schema/master
+2025-03-01 18:23:16 [WARN]: ⚠️ Branch main in khulnasoft-gui-grafana is not protected.
+2025-03-01 18:23:16 [INFO]: U0001F6AB No branch protection found for khulnasoft-gui-grafana/main
+2025-03-01 18:23:16 [WARN]: ⚠️ Branch main in khulnasoft-helm is not protected.
+2025-03-01 18:23:16 [INFO]: U0001F6AB No branch protection found for khulnasoft-helm/main
+2025-03-01 18:23:17 [WARN]: ⚠️ Branch main in KhulnaSoft-IaC is not protected.
+2025-03-01 18:23:17 [INFO]: U0001F6AB No branch protection found for KhulnaSoft-IaC/main
+2025-03-01 18:23:17 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:20 [WARN]: ⚠️ Branch main in khulnasoft-lsp is not protected.
+2025-03-01 18:23:20 [INFO]: U0001F6AB No branch protection found for khulnasoft-lsp/main
+2025-03-01 18:23:20 [WARN]: ⚠️ Branch main in khulnasoft-llm-python is not protected.
+2025-03-01 18:23:20 [INFO]: U0001F6AB No branch protection found for khulnasoft-llm-python/main
+2025-03-01 18:23:20 [WARN]: ⚠️ Branch master in khulnasoft-meshplay is not protected.
+2025-03-01 18:23:20 [INFO]: U0001F6AB No branch protection found for khulnasoft-meshplay/master
+2025-03-01 18:23:20 [WARN]: ⚠️ Branch master in khulnasoft-operator is not protected.
+2025-03-01 18:23:20 [INFO]: U0001F6AB No branch protection found for khulnasoft-operator/master
+2025-03-01 18:23:20 [WARN]: ⚠️ Branch master in khulnasoft-packaging-toolkit is not protected.
+2025-03-01 18:23:20 [INFO]: U0001F6AB No branch protection found for khulnasoft-packaging-toolkit/master
+2025-03-01 18:23:20 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:23 [WARN]: ⚠️ Branch main in khulnasoft-parse is not protected.
+2025-03-01 18:23:23 [INFO]: U0001F6AB No branch protection found for khulnasoft-parse/main
+2025-03-01 18:23:23 [WARN]: ⚠️ Branch main in khulnasoft-python is not protected.
+2025-03-01 18:23:23 [INFO]: U0001F6AB No branch protection found for khulnasoft-python/main
+2025-03-01 18:23:24 [WARN]: ⚠️ Branch master in khulnasoft-pipeline-runner is not protected.
+2025-03-01 18:23:24 [INFO]: U0001F6AB No branch protection found for khulnasoft-pipeline-runner/master
+2025-03-01 18:23:24 [WARN]: ⚠️ Branch main in khulnasoft-react-code-editor is not protected.
+2025-03-01 18:23:24 [INFO]: U0001F6AB No branch protection found for khulnasoft-react-code-editor/main
+2025-03-01 18:23:24 [WARN]: ⚠️ Branch main in khulnasoft-release is not protected.
+2025-03-01 18:23:24 [INFO]: U0001F6AB No branch protection found for khulnasoft-release/main
+2025-03-01 18:23:24 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:28 [WARN]: ⚠️ Branch master in khulnasoft-sdk-python is not protected.
+2025-03-01 18:23:28 [INFO]: U0001F6AB No branch protection found for khulnasoft-sdk-python/master
+2025-03-01 18:23:28 [WARN]: ⚠️ Branch main in khulnasoft-repo is not protected.
+2025-03-01 18:23:28 [INFO]: U0001F6AB No branch protection found for khulnasoft-repo/main
+2025-03-01 18:23:28 [WARN]: ⚠️ Branch master in khulnasoft-ruleset is not protected.
+2025-03-01 18:23:28 [INFO]: U0001F6AB No branch protection found for khulnasoft-ruleset/master
+2025-03-01 18:23:28 [WARN]: ⚠️ Branch main in khulnasoft-scripts is not protected.
+2025-03-01 18:23:28 [INFO]: U0001F6AB No branch protection found for khulnasoft-scripts/main
+2025-03-01 18:23:28 [WARN]: ⚠️ Branch master in khulnasoft-repo-template is not protected.
+2025-03-01 18:23:28 [INFO]: U0001F6AB No branch protection found for khulnasoft-repo-template/master
+2025-03-01 18:23:28 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:31 [WARN]: ⚠️ Branch main in khulnasoft-vercel-http is not protected.
+2025-03-01 18:23:31 [INFO]: U0001F6AB No branch protection found for khulnasoft-vercel-http/main
+2025-03-01 18:23:31 [WARN]: ⚠️ Branch main in khulnasoft-token-minimization is not protected.
+2025-03-01 18:23:31 [INFO]: U0001F6AB No branch protection found for khulnasoft-token-minimization/main
+2025-03-01 18:23:31 [WARN]: ⚠️ Branch master in khulnasoft-ui is not protected.
+2025-03-01 18:23:31 [INFO]: U0001F6AB No branch protection found for khulnasoft-ui/master
+2025-03-01 18:23:31 [WARN]: ⚠️ Branch main in khulnasoft-storage-calculator is not protected.
+2025-03-01 18:23:31 [INFO]: U0001F6AB No branch protection found for khulnasoft-storage-calculator/main
+2025-03-01 18:23:32 [INFO]: U0001F4DD [DRY RUN] [481/931] No checks to remove from: khulnasoft-soc/master
+2025-03-01 18:23:32 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:35 [WARN]: ⚠️ Branch main in KhulnaSoft-VScode is not protected.
+2025-03-01 18:23:35 [INFO]: U0001F6AB No branch protection found for KhulnaSoft-VScode/main
+2025-03-01 18:23:35 [WARN]: ⚠️ Branch main in khulnasoft-wasm-go-sdk is not protected.
+2025-03-01 18:23:35 [INFO]: U0001F6AB No branch protection found for khulnasoft-wasm-go-sdk/main
+2025-03-01 18:23:35 [WARN]: ⚠️ Branch main in khulnasoft.com is not protected.
+2025-03-01 18:23:35 [INFO]: U0001F6AB No branch protection found for khulnasoft.com/main
+2025-03-01 18:23:35 [WARN]: ⚠️ Branch main in khulnasoft-vercel-rawsql is not protected.
+2025-03-01 18:23:35 [INFO]: U0001F6AB No branch protection found for khulnasoft-vercel-rawsql/main
+2025-03-01 18:23:35 [WARN]: ⚠️ Branch main in khulnasoft-vscode-extension is not protected.
+2025-03-01 18:23:35 [INFO]: U0001F6AB No branch protection found for khulnasoft-vscode-extension/main
+2025-03-01 18:23:35 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:38 [WARN]: ⚠️ Branch master in khulnasoft.github.io is not protected.
+2025-03-01 18:23:38 [INFO]: U0001F6AB No branch protection found for khulnasoft.github.io/master
+2025-03-01 18:23:38 [WARN]: ⚠️ Branch main in khulnasoft.gthub.io is not protected.
+2025-03-01 18:23:38 [INFO]: U0001F6AB No branch protection found for khulnasoft.gthub.io/main
+2025-03-01 18:23:38 [WARN]: ⚠️ Branch main in khulnasoft.jupyter is not protected.
+2025-03-01 18:23:38 [INFO]: U0001F6AB No branch protection found for khulnasoft.jupyter/main
+2025-03-01 18:23:38 [WARN]: ⚠️ Branch main in khulnasoft.el is not protected.
+2025-03-01 18:23:38 [INFO]: U0001F6AB No branch protection found for khulnasoft.el/main
+2025-03-01 18:23:39 [WARN]: ⚠️ Branch main in khulnasoft.nvim is not protected.
+2025-03-01 18:23:39 [INFO]: U0001F6AB No branch protection found for khulnasoft.nvim/main
+2025-03-01 18:23:39 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:42 [WARN]: ⚠️ Branch main in khulnasoft.vim is not protected.
+2025-03-01 18:23:42 [INFO]: U0001F6AB No branch protection found for khulnasoft.vim/main
+2025-03-01 18:23:42 [WARN]: ⚠️ Branch master in khulnasoft_ynh is not protected.
+2025-03-01 18:23:42 [INFO]: U0001F6AB No branch protection found for khulnasoft_ynh/master
+2025-03-01 18:23:42 [WARN]: ⚠️ Branch main in KhulnaSoftML-fastai is not protected.
+2025-03-01 18:23:42 [INFO]: U0001F6AB No branch protection found for KhulnaSoftML-fastai/main
+2025-03-01 18:23:42 [WARN]: ⚠️ Branch main in KhulnasoftVisualStudio is not protected.
+2025-03-01 18:23:42 [INFO]: U0001F6AB No branch protection found for KhulnasoftVisualStudio/main
+2025-03-01 18:23:42 [WARN]: ⚠️ Branch main in khulnasoftforjenkins is not protected.
+2025-03-01 18:23:42 [INFO]: U0001F6AB No branch protection found for khulnasoftforjenkins/main
+2025-03-01 18:23:42 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:45 [WARN]: ⚠️ Branch main in ksoft-cli is not protected.
+2025-03-01 18:23:45 [INFO]: U0001F6AB No branch protection found for ksoft-cli/main
+2025-03-01 18:23:45 [WARN]: ⚠️ Branch main in kube is not protected.
+2025-03-01 18:23:45 [INFO]: U0001F6AB No branch protection found for kube/main
+2025-03-01 18:23:45 [WARN]: ⚠️ Branch 1.x in ksbulk is not protected.
+2025-03-01 18:23:45 [INFO]: U0001F6AB No branch protection found for ksbulk/1.x
+2025-03-01 18:23:45 [WARN]: ⚠️ Branch main in ksoft is not protected.
+2025-03-01 18:23:45 [INFO]: U0001F6AB No branch protection found for ksoft/main
+2025-03-01 18:23:45 [WARN]: ⚠️ Branch main in kube-bench is not protected.
+2025-03-01 18:23:45 [INFO]: U0001F6AB No branch protection found for kube-bench/main
+2025-03-01 18:23:45 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:49 [WARN]: ⚠️ Branch main in kubernetes-monitor is not protected.
+2025-03-01 18:23:49 [INFO]: U0001F6AB No branch protection found for kubernetes-monitor/main
+2025-03-01 18:23:49 [WARN]: ⚠️ Branch main in kube-hunter is not protected.
+2025-03-01 18:23:49 [INFO]: U0001F6AB No branch protection found for kube-hunter/main
+2025-03-01 18:23:49 [WARN]: ⚠️ Branch main in KubeSpace is not protected.
+2025-03-01 18:23:49 [INFO]: U0001F6AB No branch protection found for KubeSpace/main
+2025-03-01 18:23:49 [WARN]: ⚠️ Branch master in kuttl is not protected.
+2025-03-01 18:23:49 [INFO]: U0001F6AB No branch protection found for kuttl/master
+2025-03-01 18:23:49 [WARN]: ⚠️ Branch master in kubeopenapi-jsonschema is not protected.
+2025-03-01 18:23:49 [INFO]: U0001F6AB No branch protection found for kubeopenapi-jsonschema/master
+2025-03-01 18:23:49 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:52 [WARN]: ⚠️ Branch DevSecOps in labs is not protected.
+2025-03-01 18:23:52 [INFO]: U0001F6AB No branch protection found for labs/DevSecOps
+2025-03-01 18:23:52 [WARN]: ⚠️ Branch main in langinfra is not protected.
+2025-03-01 18:23:52 [INFO]: U0001F6AB No branch protection found for langinfra/main
+2025-03-01 18:23:52 [WARN]: ⚠️ Branch master in langchain is not protected.
+2025-03-01 18:23:52 [INFO]: U0001F6AB No branch protection found for langchain/master
+2025-03-01 18:23:52 [WARN]: ⚠️ Branch main in label-approved is not protected.
+2025-03-01 18:23:52 [INFO]: U0001F6AB No branch protection found for label-approved/main
+2025-03-01 18:23:52 [INFO]: U0001F4DD [DRY RUN] [513/931] No checks to remove from: lambda-node-opentelemetry/main
+2025-03-01 18:23:52 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:56 [WARN]: ⚠️ Branch main in langinfra-railway is not protected.
+2025-03-01 18:23:56 [INFO]: U0001F6AB No branch protection found for langinfra-railway/main
+2025-03-01 18:23:56 [WARN]: ⚠️ Branch main in latest-changes is not protected.
+2025-03-01 18:23:56 [INFO]: U0001F6AB No branch protection found for latest-changes/main
+2025-03-01 18:23:56 [WARN]: ⚠️ Branch main in learn is not protected.
+2025-03-01 18:23:56 [INFO]: U0001F6AB No branch protection found for learn/main
+2025-03-01 18:23:56 [WARN]: ⚠️ Branch main in language-server is not protected.
+2025-03-01 18:23:56 [INFO]: U0001F6AB No branch protection found for language-server/main
+2025-03-01 18:23:56 [WARN]: ⚠️ Branch main in LangSitter is not protected.
+2025-03-01 18:23:56 [INFO]: U0001F6AB No branch protection found for LangSitter/main
+2025-03-01 18:23:56 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:23:59 [WARN]: ⚠️ Branch main in lint-hook is not protected.
+2025-03-01 18:23:59 [INFO]: U0001F6AB No branch protection found for lint-hook/main
+2025-03-01 18:23:59 [WARN]: ⚠️ Branch master in learn-khulnasoft is not protected.
+2025-03-01 18:23:59 [INFO]: U0001F6AB No branch protection found for learn-khulnasoft/master
+2025-03-01 18:23:59 [WARN]: ⚠️ Branch main in libs is not protected.
+2025-03-01 18:23:59 [INFO]: U0001F6AB No branch protection found for libs/main
+2025-03-01 18:23:59 [WARN]: ⚠️ Branch main in LibCST is not protected.
+2025-03-01 18:23:59 [INFO]: U0001F6AB No branch protection found for LibCST/main
+2025-03-01 18:23:59 [WARN]: ⚠️ Branch master in libbpf is not protected.
+2025-03-01 18:23:59 [INFO]: U0001F6AB No branch protection found for libbpf/master
+2025-03-01 18:23:59 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:03 [WARN]: ⚠️ Branch main in llama2 is not protected.
+2025-03-01 18:24:03 [INFO]: U0001F6AB No branch protection found for llama2/main
+2025-03-01 18:24:03 [WARN]: ⚠️ Branch master in linux-explorer is not protected.
+2025-03-01 18:24:03 [INFO]: U0001F6AB No branch protection found for linux-explorer/master
+2025-03-01 18:24:03 [WARN]: ⚠️ Branch main in llama_index is not protected.
+2025-03-01 18:24:03 [INFO]: U0001F6AB No branch protection found for llama_index/main
+2025-03-01 18:24:03 [WARN]: ⚠️ Branch main in LLMCode is not protected.
+2025-03-01 18:24:03 [INFO]: U0001F6AB No branch protection found for LLMCode/main
+2025-03-01 18:24:03 [WARN]: ⚠️ Branch main in litellm is not protected.
+2025-03-01 18:24:03 [INFO]: U0001F6AB No branch protection found for litellm/main
+2025-03-01 18:24:03 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:06 [WARN]: ⚠️ Branch master in macOS-tweaks is not protected.
+2025-03-01 18:24:06 [INFO]: U0001F6AB No branch protection found for macOS-tweaks/master
+2025-03-01 18:24:06 [WARN]: ⚠️ Branch next in llvm-project is not protected.
+2025-03-01 18:24:06 [INFO]: U0001F6AB No branch protection found for llvm-project/next
+2025-03-01 18:24:06 [WARN]: ⚠️ Branch master in macos-image-templates is not protected.
+2025-03-01 18:24:06 [INFO]: U0001F6AB No branch protection found for macos-image-templates/master
+2025-03-01 18:24:06 [WARN]: ⚠️ Branch main in MacSF is not protected.
+2025-03-01 18:24:06 [INFO]: U0001F6AB No branch protection found for MacSF/main
+2025-03-01 18:24:06 [INFO]: U0001F4DD [DRY RUN] [531/931] No checks to remove from: LLMK/main
+2025-03-01 18:24:06 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:10 [WARN]: ⚠️ Branch main in Mapping is not protected.
+2025-03-01 18:24:10 [INFO]: U0001F6AB No branch protection found for Mapping/main
+2025-03-01 18:24:10 [WARN]: ⚠️ Branch main in mech is not protected.
+2025-03-01 18:24:10 [INFO]: U0001F6AB No branch protection found for mech/main
+2025-03-01 18:24:10 [WARN]: ⚠️ Branch main in Mappin is not protected.
+2025-03-01 18:24:10 [INFO]: U0001F6AB No branch protection found for Mappin/main
+2025-03-01 18:24:10 [WARN]: ⚠️ Branch master in markdown is not protected.
+2025-03-01 18:24:10 [INFO]: U0001F6AB No branch protection found for markdown/master
+2025-03-01 18:24:10 [INFO]: U0001F4DD [DRY RUN] [540/931] No checks to remove from: meinheld-gunicorn-docker/master
+2025-03-01 18:24:10 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:14 [WARN]: ⚠️ Branch main in merge-queue is not protected.
+2025-03-01 18:24:14 [INFO]: U0001F6AB No branch protection found for merge-queue/main
+2025-03-01 18:24:14 [WARN]: ⚠️ Branch master in meshplay-cilium is not protected.
+2025-03-01 18:24:14 [INFO]: U0001F6AB No branch protection found for meshplay-cilium/master
+2025-03-01 18:24:14 [WARN]: ⚠️ Branch master in meshmap-snapshot is not protected.
+2025-03-01 18:24:14 [INFO]: U0001F6AB No branch protection found for meshmap-snapshot/master
+2025-03-01 18:24:14 [INFO]: U0001F4DD [DRY RUN] [543/931] No checks to remove from: meshery/master
+2025-03-01 18:24:14 [INFO]: U0001F4DD [DRY RUN] [541/931] No checks to remove from: meinheld-gunicorn-flask-docker/master
+2025-03-01 18:24:14 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:17 [WARN]: ⚠️ Branch master in meshplay-extensions-packages is not protected.
+2025-03-01 18:24:17 [INFO]: U0001F6AB No branch protection found for meshplay-extensions-packages/master
+2025-03-01 18:24:17 [WARN]: ⚠️ Branch master in meshplay-consul is not protected.
+2025-03-01 18:24:17 [INFO]: U0001F6AB No branch protection found for meshplay-consul/master
+2025-03-01 18:24:17 [WARN]: ⚠️ Branch master in meshplay-cloud-native-patterns-action is not protected.
+2025-03-01 18:24:17 [INFO]: U0001F6AB No branch protection found for meshplay-cloud-native-patterns-action/master
+2025-03-01 18:24:17 [WARN]: ⚠️ Branch master in meshplay-smp-action is not protected.
+2025-03-01 18:24:17 [INFO]: U0001F6AB No branch protection found for meshplay-smp-action/master
+2025-03-01 18:24:17 [WARN]: ⚠️ Branch master in meshplay-smi-conformance-action is not protected.
+2025-03-01 18:24:17 [INFO]: U0001F6AB No branch protection found for meshplay-smi-conformance-action/master
+2025-03-01 18:24:17 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:21 [WARN]: ⚠️ Branch main in metallb is not protected.
+2025-03-01 18:24:21 [INFO]: U0001F6AB No branch protection found for metallb/main
+2025-03-01 18:24:21 [WARN]: ⚠️ Branch main in micro-ai is not protected.
+2025-03-01 18:24:21 [INFO]: U0001F6AB No branch protection found for micro-ai/main
+2025-03-01 18:24:21 [WARN]: ⚠️ Branch main in metadata-service is not protected.
+2025-03-01 18:24:21 [INFO]: U0001F6AB No branch protection found for metadata-service/main
+2025-03-01 18:24:21 [WARN]: ⚠️ Branch master in meshplayctl-aliases is not protected.
+2025-03-01 18:24:21 [INFO]: U0001F6AB No branch protection found for meshplayctl-aliases/master
+2025-03-01 18:24:21 [INFO]: U0001F4DD [DRY RUN] [552/931] No checks to remove from: meta-scripts/main
+2025-03-01 18:24:21 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:25 [WARN]: ⚠️ Branch main in microscanner is not protected.
+2025-03-01 18:24:25 [INFO]: U0001F6AB No branch protection found for microscanner/main
+2025-03-01 18:24:25 [WARN]: ⚠️ Branch main in misp-modules is not protected.
+2025-03-01 18:24:25 [INFO]: U0001F6AB No branch protection found for misp-modules/main
+2025-03-01 18:24:25 [WARN]: ⚠️ Branch main in microsoft-sentinel-integration is not protected.
+2025-03-01 18:24:25 [INFO]: U0001F6AB No branch protection found for microsoft-sentinel-integration/main
+2025-03-01 18:24:25 [WARN]: ⚠️ Branch master in mirror-bash is not protected.
+2025-03-01 18:24:25 [INFO]: U0001F6AB No branch protection found for mirror-bash/master
+2025-03-01 18:24:25 [WARN]: ⚠️ Branch main in misp-objects is not protected.
+2025-03-01 18:24:25 [INFO]: U0001F6AB No branch protection found for misp-objects/main
+2025-03-01 18:24:25 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:28 [WARN]: ⚠️ Branch main in ML-Lab is not protected.
+2025-03-01 18:24:28 [INFO]: U0001F6AB No branch protection found for ML-Lab/main
+2025-03-01 18:24:28 [WARN]: ⚠️ Branch develop in ml-project is not protected.
+2025-03-01 18:24:28 [INFO]: U0001F6AB No branch protection found for ml-project/develop
+2025-03-01 18:24:28 [WARN]: ⚠️ Branch khulnasoft in mitmproxy is not protected.
+2025-03-01 18:24:28 [INFO]: U0001F6AB No branch protection found for mitmproxy/khulnasoft
+2025-03-01 18:24:28 [WARN]: ⚠️ Branch main in ml is not protected.
+2025-03-01 18:24:28 [INFO]: U0001F6AB No branch protection found for ml/main
+2025-03-01 18:24:28 [WARN]: ⚠️ Branch main in ml-buildkit is not protected.
+2025-03-01 18:24:28 [INFO]: U0001F6AB No branch protection found for ml-buildkit/main
+2025-03-01 18:24:28 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:31 [WARN]: ⚠️ Branch main in ml-station is not protected.
+2025-03-01 18:24:31 [INFO]: U0001F6AB No branch protection found for ml-station/main
+2025-03-01 18:24:31 [WARN]: ⚠️ Branch main in ml-workspace is not protected.
+2025-03-01 18:24:31 [INFO]: U0001F6AB No branch protection found for ml-workspace/main
+2025-03-01 18:24:31 [WARN]: ⚠️ Branch main in mobsec-platform-cli is not protected.
+2025-03-01 18:24:31 [INFO]: U0001F6AB No branch protection found for mobsec-platform-cli/main
+2025-03-01 18:24:31 [WARN]: ⚠️ Branch master in ml-recipes is not protected.
+2025-03-01 18:24:31 [INFO]: U0001F6AB No branch protection found for ml-recipes/master
+2025-03-01 18:24:31 [WARN]: ⚠️ Branch develop in mlcluster is not protected.
+2025-03-01 18:24:31 [INFO]: U0001F6AB No branch protection found for mlcluster/develop
+2025-03-01 18:24:31 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:35 [WARN]: ⚠️ Branch main in msticpy is not protected.
+2025-03-01 18:24:35 [INFO]: U0001F6AB No branch protection found for msticpy/main
+2025-03-01 18:24:35 [WARN]: ⚠️ Branch khulnasoft in moto is not protected.
+2025-03-01 18:24:35 [INFO]: U0001F6AB No branch protection found for moto/khulnasoft
+2025-03-01 18:24:35 [WARN]: ⚠️ Branch main in motion-canvas is not protected.
+2025-03-01 18:24:35 [INFO]: U0001F6AB No branch protection found for motion-canvas/main
+2025-03-01 18:24:35 [WARN]: ⚠️ Branch main in models is not protected.
+2025-03-01 18:24:35 [INFO]: U0001F6AB No branch protection found for models/main
+2025-03-01 18:24:35 [WARN]: ⚠️ Branch main in nativeauthenticator is not protected.
+2025-03-01 18:24:35 [INFO]: U0001F6AB No branch protection found for nativeauthenticator/main
+2025-03-01 18:24:35 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:38 [WARN]: ⚠️ Branch main in netdata-dashboard is not protected.
+2025-03-01 18:24:38 [INFO]: U0001F6AB No branch protection found for netdata-dashboard/main
+2025-03-01 18:24:38 [WARN]: ⚠️ Branch main in nestjs-template is not protected.
+2025-03-01 18:24:38 [INFO]: U0001F6AB No branch protection found for nestjs-template/main
+2025-03-01 18:24:38 [WARN]: ⚠️ Branch main in netbpf is not protected.
+2025-03-01 18:24:38 [INFO]: U0001F6AB No branch protection found for netbpf/main
+2025-03-01 18:24:38 [WARN]: ⚠️ Branch master in NeoPhrase is not protected.
+2025-03-01 18:24:38 [INFO]: U0001F6AB No branch protection found for NeoPhrase/master
+2025-03-01 18:24:38 [WARN]: ⚠️ Branch master in netdata is not protected.
+2025-03-01 18:24:38 [INFO]: U0001F6AB No branch protection found for netdata/master
+2025-03-01 18:24:38 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:41 [WARN]: ⚠️ Branch main in nex is not protected.
+2025-03-01 18:24:41 [INFO]: U0001F6AB No branch protection found for nex/main
+2025-03-01 18:24:41 [WARN]: ⚠️ Branch develop in netpoint-docker is not protected.
+2025-03-01 18:24:41 [INFO]: U0001F6AB No branch protection found for netpoint-docker/develop
+2025-03-01 18:24:41 [WARN]: ⚠️ Branch master in netdataz is not protected.
+2025-03-01 18:24:41 [INFO]: U0001F6AB No branch protection found for netdataz/master
+2025-03-01 18:24:42 [INFO]: U0001F4DD [DRY RUN] [583/931] No checks to remove from: netscale/master
+2025-03-01 18:24:42 [WARN]: ⚠️ Branch main in next-on-pages is not protected.
+2025-03-01 18:24:42 [INFO]: U0001F6AB No branch protection found for next-on-pages/main
+2025-03-01 18:24:42 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:45 [WARN]: ⚠️ Branch main in NextGPT-Plugins is not protected.
+2025-03-01 18:24:45 [INFO]: U0001F6AB No branch protection found for NextGPT-Plugins/main
+2025-03-01 18:24:45 [WARN]: ⚠️ Branch master in Nexus is not protected.
+2025-03-01 18:24:45 [INFO]: U0001F6AB No branch protection found for Nexus/master
+2025-03-01 18:24:45 [WARN]: ⚠️ Branch main in NextVim is not protected.
+2025-03-01 18:24:45 [INFO]: U0001F6AB No branch protection found for NextVim/main
+2025-03-01 18:24:45 [WARN]: ⚠️ Branch main in nextui is not protected.
+2025-03-01 18:24:45 [INFO]: U0001F6AB No branch protection found for nextui/main
+2025-03-01 18:24:45 [WARN]: ⚠️ Branch main in NextGPT is not protected.
+2025-03-01 18:24:45 [INFO]: U0001F6AB No branch protection found for NextGPT/main
+2025-03-01 18:24:45 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:49 [WARN]: ⚠️ Branch master in NexusStream is not protected.
+2025-03-01 18:24:49 [INFO]: U0001F6AB No branch protection found for NexusStream/master
+2025-03-01 18:24:49 [WARN]: ⚠️ Branch main in nexusstream-py is not protected.
+2025-03-01 18:24:49 [INFO]: U0001F6AB No branch protection found for nexusstream-py/main
+2025-03-01 18:24:49 [WARN]: ⚠️ Branch main in nexusstream-go is not protected.
+2025-03-01 18:24:49 [INFO]: U0001F6AB No branch protection found for nexusstream-go/main
+2025-03-01 18:24:49 [WARN]: ⚠️ Branch main in nexusstream-sdk is not protected.
+2025-03-01 18:24:49 [INFO]: U0001F6AB No branch protection found for nexusstream-sdk/main
+2025-03-01 18:24:49 [INFO]: U0001F4DD [DRY RUN] [595/931] No checks to remove from: nginx-rtmp-docker/master
+2025-03-01 18:24:49 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:53 [WARN]: ⚠️ Branch master in node-api-problem is not protected.
+2025-03-01 18:24:53 [INFO]: U0001F6AB No branch protection found for node-api-problem/master
+2025-03-01 18:24:53 [WARN]: ⚠️ Branch main in nix-channel is not protected.
+2025-03-01 18:24:53 [INFO]: U0001F6AB No branch protection found for nix-channel/main
+2025-03-01 18:24:53 [WARN]: ⚠️ Branch master in NightHawk is not protected.
+2025-03-01 18:24:53 [INFO]: U0001F6AB No branch protection found for NightHawk/master
+2025-03-01 18:24:53 [WARN]: ⚠️ Branch main in node-cli-start is not protected.
+2025-03-01 18:24:53 [INFO]: U0001F6AB No branch protection found for node-cli-start/main
+2025-03-01 18:24:53 [WARN]: ⚠️ Branch master in node-frontend is not protected.
+2025-03-01 18:24:53 [INFO]: U0001F6AB No branch protection found for node-frontend/master
+2025-03-01 18:24:53 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:56 [WARN]: ⚠️ Branch master in node-terraform-unidiff is not protected.
+2025-03-01 18:24:56 [INFO]: U0001F6AB No branch protection found for node-terraform-unidiff/master
+2025-03-01 18:24:56 [WARN]: ⚠️ Branch main in nrz is not protected.
+2025-03-01 18:24:56 [INFO]: U0001F6AB No branch protection found for nrz/main
+2025-03-01 18:24:56 [WARN]: ⚠️ Branch master in node-updated is not protected.
+2025-03-01 18:24:56 [INFO]: U0001F6AB No branch protection found for node-updated/master
+2025-03-01 18:24:56 [WARN]: ⚠️ Branch main in node-opentelemetry is not protected.
+2025-03-01 18:24:56 [INFO]: U0001F6AB No branch protection found for node-opentelemetry/main
+2025-03-01 18:24:56 [WARN]: ⚠️ Branch main in notifire is not protected.
+2025-03-01 18:24:56 [INFO]: U0001F6AB No branch protection found for notifire/main
+2025-03-01 18:24:56 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:24:59 [WARN]: ⚠️ Branch main in nxauth is not protected.
+2025-03-01 18:24:59 [INFO]: U0001F6AB No branch protection found for nxauth/main
+2025-03-01 18:24:59 [WARN]: ⚠️ Branch master in ntlm-transport is not protected.
+2025-03-01 18:24:59 [INFO]: U0001F6AB No branch protection found for ntlm-transport/master
+2025-03-01 18:24:59 [WARN]: ⚠️ Branch khulnasoft in nx is not protected.
+2025-03-01 18:24:59 [INFO]: U0001F6AB No branch protection found for nx/khulnasoft
+2025-03-01 18:24:59 [WARN]: ⚠️ Branch main in nrzrepo is not protected.
+2025-03-01 18:24:59 [INFO]: U0001F6AB No branch protection found for nrzrepo/main
+2025-03-01 18:24:59 [WARN]: ⚠️ Branch main in nrz-rs is not protected.
+2025-03-01 18:24:59 [INFO]: U0001F6AB No branch protection found for nrz-rs/main
+2025-03-01 18:24:59 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:03 [WARN]: ⚠️ Branch main in octotask is not protected.
+2025-03-01 18:25:03 [INFO]: U0001F6AB No branch protection found for octotask/main
+2025-03-01 18:25:03 [WARN]: ⚠️ Branch master in nxenv is not protected.
+2025-03-01 18:25:03 [INFO]: U0001F6AB No branch protection found for nxenv/master
+2025-03-01 18:25:03 [WARN]: ⚠️ Branch master in nxpod is not protected.
+2025-03-01 18:25:03 [INFO]: U0001F6AB No branch protection found for nxpod/master
+2025-03-01 18:25:03 [WARN]: ⚠️ Branch main in nxgit is not protected.
+2025-03-01 18:25:03 [INFO]: U0001F6AB No branch protection found for nxgit/main
+2025-03-01 18:25:03 [INFO]: U0001F4DD [DRY RUN] [615/931] No checks to remove from: ogplay/main
+2025-03-01 18:25:03 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:06 [WARN]: ⚠️ Branch main in open-interpreter is not protected.
+2025-03-01 18:25:06 [INFO]: U0001F6AB No branch protection found for open-interpreter/main
+2025-03-01 18:25:06 [WARN]: ⚠️ Branch main in ollama-swarm is not protected.
+2025-03-01 18:25:06 [INFO]: U0001F6AB No branch protection found for ollama-swarm/main
+2025-03-01 18:25:06 [WARN]: ⚠️ Branch main in openai-cookbook is not protected.
+2025-03-01 18:25:06 [INFO]: U0001F6AB No branch protection found for openai-cookbook/main
+2025-03-01 18:25:06 [WARN]: ⚠️ Branch main in openapi-examples is not protected.
+2025-03-01 18:25:06 [INFO]: U0001F6AB No branch protection found for openapi-examples/main
+2025-03-01 18:25:07 [INFO]: U0001F4DD [DRY RUN] [616/931] No checks to remove from: ollama/master
+2025-03-01 18:25:07 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:10 [WARN]: ⚠️ Branch main in openvscode-server is not protected.
+2025-03-01 18:25:10 [INFO]: U0001F6AB No branch protection found for openvscode-server/main
+2025-03-01 18:25:10 [WARN]: ⚠️ Branch main in OpenRef is not protected.
+2025-03-01 18:25:10 [INFO]: U0001F6AB No branch protection found for OpenRef/main
+2025-03-01 18:25:10 [WARN]: ⚠️ Branch main in openapi-parser is not protected.
+2025-03-01 18:25:10 [INFO]: U0001F6AB No branch protection found for openapi-parser/main
+2025-03-01 18:25:10 [WARN]: ⚠️ Branch master in orb-sync-engine is not protected.
+2025-03-01 18:25:10 [INFO]: U0001F6AB No branch protection found for orb-sync-engine/master
+2025-03-01 18:25:10 [WARN]: ⚠️ Branch master in openshift-openapi is not protected.
+2025-03-01 18:25:10 [INFO]: U0001F6AB No branch protection found for openshift-openapi/master
+2025-03-01 18:25:10 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:14 [WARN]: ⚠️ Branch main in osinsight is not protected.
+2025-03-01 18:25:14 [INFO]: U0001F6AB No branch protection found for osinsight/main
+2025-03-01 18:25:14 [WARN]: ⚠️ Branch main in oss-scanning-public is not protected.
+2025-03-01 18:25:14 [INFO]: U0001F6AB No branch protection found for oss-scanning-public/main
+2025-03-01 18:25:14 [WARN]: ⚠️ Branch main in OWASP is not protected.
+2025-03-01 18:25:14 [INFO]: U0001F6AB No branch protection found for OWASP/main
+2025-03-01 18:25:14 [WARN]: ⚠️ Branch main in ort is not protected.
+2025-03-01 18:25:14 [INFO]: U0001F6AB No branch protection found for ort/main
+2025-03-01 18:25:14 [WARN]: ⚠️ Branch main in orchard is not protected.
+2025-03-01 18:25:14 [INFO]: U0001F6AB No branch protection found for orchard/main
+2025-03-01 18:25:14 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:17 [WARN]: ⚠️ Branch master in owasp-mastg is not protected.
+2025-03-01 18:25:17 [INFO]: U0001F6AB No branch protection found for owasp-mastg/master
+2025-03-01 18:25:17 [WARN]: ⚠️ Branch main in packages-registry is not protected.
+2025-03-01 18:25:17 [INFO]: U0001F6AB No branch protection found for packages-registry/main
+2025-03-01 18:25:17 [WARN]: ⚠️ Branch main in packagers is not protected.
+2025-03-01 18:25:17 [INFO]: U0001F6AB No branch protection found for packagers/main
+2025-03-01 18:25:17 [WARN]: ⚠️ Branch main in package is not protected.
+2025-03-01 18:25:17 [INFO]: U0001F6AB No branch protection found for package/main
+2025-03-01 18:25:17 [WARN]: ⚠️ Branch main in packages is not protected.
+2025-03-01 18:25:17 [INFO]: U0001F6AB No branch protection found for packages/main
+2025-03-01 18:25:17 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:20 [WARN]: ⚠️ Branch main in packaging is not protected.
+2025-03-01 18:25:20 [INFO]: U0001F6AB No branch protection found for packaging/main
+2025-03-01 18:25:20 [WARN]: ⚠️ Branch main in partytown is not protected.
+2025-03-01 18:25:20 [INFO]: U0001F6AB No branch protection found for partytown/main
+2025-03-01 18:25:20 [WARN]: ⚠️ Branch main in packer-ci-build is not protected.
+2025-03-01 18:25:20 [INFO]: U0001F6AB No branch protection found for packer-ci-build/main
+2025-03-01 18:25:20 [WARN]: ⚠️ Branch main in paginate-aws is not protected.
+2025-03-01 18:25:20 [INFO]: U0001F6AB No branch protection found for paginate-aws/main
+2025-03-01 18:25:20 [WARN]: ⚠️ Branch master in PASS-ng is not protected.
+2025-03-01 18:25:20 [INFO]: U0001F6AB No branch protection found for PASS-ng/master
+2025-03-01 18:25:20 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:24 [WARN]: ⚠️ Branch master in pg_jsonschema is not protected.
+2025-03-01 18:25:24 [INFO]: U0001F6AB No branch protection found for pg_jsonschema/master
+2025-03-01 18:25:24 [WARN]: ⚠️ Branch main in pgp.rs is not protected.
+2025-03-01 18:25:24 [INFO]: U0001F6AB No branch protection found for pgp.rs/main
+2025-03-01 18:25:24 [WARN]: ⚠️ Branch main in pathfinder is not protected.
+2025-03-01 18:25:24 [INFO]: U0001F6AB No branch protection found for pathfinder/main
+2025-03-01 18:25:24 [WARN]: ⚠️ Branch master in pcm is not protected.
+2025-03-01 18:25:24 [INFO]: U0001F6AB No branch protection found for pcm/master
+2025-03-01 18:25:24 [WARN]: ⚠️ Branch master in pg_graphql is not protected.
+2025-03-01 18:25:24 [INFO]: U0001F6AB No branch protection found for pg_graphql/master
+2025-03-01 18:25:24 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:27 [WARN]: ⚠️ Branch master in pljava is not protected.
+2025-03-01 18:25:27 [INFO]: U0001F6AB No branch protection found for pljava/master
+2025-03-01 18:25:27 [WARN]: ⚠️ Branch main in pipelines is not protected.
+2025-03-01 18:25:27 [INFO]: U0001F6AB No branch protection found for pipelines/main
+2025-03-01 18:25:27 [WARN]: ⚠️ Branch main in pkg.go is not protected.
+2025-03-01 18:25:27 [INFO]: U0001F6AB No branch protection found for pkg.go/main
+2025-03-01 18:25:27 [WARN]: ⚠️ Branch main in plugins is not protected.
+2025-03-01 18:25:27 [INFO]: U0001F6AB No branch protection found for plugins/main
+2025-03-01 18:25:27 [WARN]: ⚠️ Branch main in pkg is not protected.
+2025-03-01 18:25:27 [INFO]: U0001F6AB No branch protection found for pkg/main
+2025-03-01 18:25:27 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:31 [WARN]: ⚠️ Branch main in plugins-quickstart is not protected.
+2025-03-01 18:25:31 [INFO]: U0001F6AB No branch protection found for plugins-quickstart/main
+2025-03-01 18:25:31 [WARN]: ⚠️ Branch r3.1 in plv8 is not protected.
+2025-03-01 18:25:31 [INFO]: U0001F6AB No branch protection found for plv8/r3.1
+2025-03-01 18:25:31 [WARN]: ⚠️ Branch main in postee is not protected.
+2025-03-01 18:25:31 [INFO]: U0001F6AB No branch protection found for postee/main
+2025-03-01 18:25:31 [WARN]: ⚠️ Branch main in polyglot-benchmark is not protected.
+2025-03-01 18:25:31 [INFO]: U0001F6AB No branch protection found for polyglot-benchmark/main
+2025-03-01 18:25:31 [INFO]: U0001F4DD [DRY RUN] [653/931] No checks to remove from: policy-engine/main
+2025-03-01 18:25:31 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:34 [WARN]: ⚠️ Branch master in postgres-meta is not protected.
+2025-03-01 18:25:34 [INFO]: U0001F6AB No branch protection found for postgres-meta/master
+2025-03-01 18:25:34 [WARN]: ⚠️ Branch main in postgres is not protected.
+2025-03-01 18:25:34 [INFO]: U0001F6AB No branch protection found for postgres/main
+2025-03-01 18:25:34 [WARN]: ⚠️ Branch master in postman is not protected.
+2025-03-01 18:25:34 [INFO]: U0001F6AB No branch protection found for postman/master
+2025-03-01 18:25:34 [WARN]: ⚠️ Branch master in postgrest-js is not protected.
+2025-03-01 18:25:34 [INFO]: U0001F6AB No branch protection found for postgrest-js/master
+2025-03-01 18:25:34 [WARN]: ⚠️ Branch dev in PowerPlatformConnectors is not protected.
+2025-03-01 18:25:34 [INFO]: U0001F6AB No branch protection found for PowerPlatformConnectors/dev
+2025-03-01 18:25:34 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:38 [WARN]: ⚠️ Branch main in pr-ci is not protected.
+2025-03-01 18:25:38 [INFO]: U0001F6AB No branch protection found for pr-ci/main
+2025-03-01 18:25:38 [WARN]: ⚠️ Branch main in pr-insight is not protected.
+2025-03-01 18:25:38 [INFO]: U0001F6AB No branch protection found for pr-insight/main
+2025-03-01 18:25:38 [WARN]: ⚠️ Branch main in pr-insight-tests is not protected.
+2025-03-01 18:25:38 [INFO]: U0001F6AB No branch protection found for pr-insight-tests/main
+2025-03-01 18:25:38 [WARN]: ⚠️ Branch main in pr-insight-settings is not protected.
+2025-03-01 18:25:38 [INFO]: U0001F6AB No branch protection found for pr-insight-settings/main
+2025-03-01 18:25:38 [WARN]: ⚠️ Branch main in pr-insight-wiki-conf is not protected.
+2025-03-01 18:25:38 [INFO]: U0001F6AB No branch protection found for pr-insight-wiki-conf/main
+2025-03-01 18:25:38 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:41 [WARN]: ⚠️ Branch main in prettier-config is not protected.
+2025-03-01 18:25:41 [INFO]: U0001F6AB No branch protection found for prettier-config/main
+2025-03-01 18:25:41 [WARN]: ⚠️ Branch main in protections-artifacts is not protected.
+2025-03-01 18:25:41 [INFO]: U0001F6AB No branch protection found for protections-artifacts/main
+2025-03-01 18:25:41 [WARN]: ⚠️ Branch main in project-template is not protected.
+2025-03-01 18:25:41 [INFO]: U0001F6AB No branch protection found for project-template/main
+2025-03-01 18:25:41 [WARN]: ⚠️ Branch master in precise-commits is not protected.
+2025-03-01 18:25:41 [INFO]: U0001F6AB No branch protection found for precise-commits/master
+2025-03-01 18:25:41 [WARN]: ⚠️ Branch master in procfs is not protected.
+2025-03-01 18:25:41 [INFO]: U0001F6AB No branch protection found for procfs/master
+2025-03-01 18:25:41 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:45 [WARN]: ⚠️ Branch main in pulsar-console is not protected.
+2025-03-01 18:25:45 [INFO]: U0001F6AB No branch protection found for pulsar-console/main
+2025-03-01 18:25:45 [WARN]: ⚠️ Branch master in protobuf-c is not protected.
+2025-03-01 18:25:45 [INFO]: U0001F6AB No branch protection found for protobuf-c/master
+2025-03-01 18:25:45 [WARN]: ⚠️ Branch 2.10_ds in pulsar is not protected.
+2025-03-01 18:25:45 [INFO]: U0001F6AB No branch protection found for pulsar/2.10_ds
+2025-03-01 18:25:45 [WARN]: ⚠️ Branch main in pydantic is not protected.
+2025-03-01 18:25:45 [INFO]: U0001F6AB No branch protection found for pydantic/main
+2025-03-01 18:25:45 [WARN]: ⚠️ Branch master in protocol.sh is not protected.
+2025-03-01 18:25:45 [INFO]: U0001F6AB No branch protection found for protocol.sh/master
+2025-03-01 18:25:45 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:48 [WARN]: ⚠️ Branch master in PynamoDB is not protected.
+2025-03-01 18:25:48 [INFO]: U0001F6AB No branch protection found for PynamoDB/master
+2025-03-01 18:25:48 [WARN]: ⚠️ Branch main in pySigma-backend-insightidr is not protected.
+2025-03-01 18:25:48 [INFO]: U0001F6AB No branch protection found for pySigma-backend-insightidr/main
+2025-03-01 18:25:48 [WARN]: ⚠️ Branch main in pySigma-backend-khulnasoft is not protected.
+2025-03-01 18:25:48 [INFO]: U0001F6AB No branch protection found for pySigma-backend-khulnasoft/main
+2025-03-01 18:25:48 [WARN]: ⚠️ Branch khulnasoft/main in pytest is not protected.
+2025-03-01 18:25:48 [INFO]: U0001F6AB No branch protection found for pytest/khulnasoft/main
+2025-03-01 18:25:48 [WARN]: ⚠️ Branch main in PyGithub is not protected.
+2025-03-01 18:25:48 [INFO]: U0001F6AB No branch protection found for PyGithub/main
+2025-03-01 18:25:48 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:52 [WARN]: ⚠️ Branch main in python-khulnasoft is not protected.
+2025-03-01 18:25:52 [INFO]: U0001F6AB No branch protection found for python-khulnasoft/main
+2025-03-01 18:25:52 [WARN]: ⚠️ Branch master in python-machine-learning-docker is not protected.
+2025-03-01 18:25:52 [INFO]: U0001F6AB No branch protection found for python-machine-learning-docker/master
+2025-03-01 18:25:52 [WARN]: ⚠️ Branch main in python-repo-template is not protected.
+2025-03-01 18:25:52 [INFO]: U0001F6AB No branch protection found for python-repo-template/main
+2025-03-01 18:25:52 [WARN]: ⚠️ Branch main in python-publish-action is not protected.
+2025-03-01 18:25:52 [INFO]: U0001F6AB No branch protection found for python-publish-action/main
+2025-03-01 18:25:52 [INFO]: U0001F4DD [DRY RUN] [683/931] No checks to remove from: python-opentelemetry/main
+2025-03-01 18:25:52 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:55 [WARN]: ⚠️ Branch main in qwik is not protected.
+2025-03-01 18:25:55 [INFO]: U0001F6AB No branch protection found for qwik/main
+2025-03-01 18:25:55 [WARN]: ⚠️ Branch master in pyzn is not protected.
+2025-03-01 18:25:55 [INFO]: U0001F6AB No branch protection found for pyzn/master
+2025-03-01 18:25:55 [WARN]: ⚠️ Branch master in pythreatmatrix is not protected.
+2025-03-01 18:25:55 [INFO]: U0001F6AB No branch protection found for pythreatmatrix/master
+2025-03-01 18:25:55 [WARN]: ⚠️ Branch master in quick-example-of-testing-in-nodejs is not protected.
+2025-03-01 18:25:55 [INFO]: U0001F6AB No branch protection found for quick-example-of-testing-in-nodejs/master
+2025-03-01 18:25:55 [WARN]: ⚠️ Branch main in pyzn-front is not protected.
+2025-03-01 18:25:55 [INFO]: U0001F6AB No branch protection found for pyzn-front/main
+2025-03-01 18:25:55 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:25:59 [WARN]: ⚠️ Branch main in RAGApp is not protected.
+2025-03-01 18:25:59 [INFO]: U0001F6AB No branch protection found for RAGApp/main
+2025-03-01 18:25:59 [WARN]: ⚠️ Branch main in react-bridging is not protected.
+2025-03-01 18:25:59 [INFO]: U0001F6AB No branch protection found for react-bridging/main
+2025-03-01 18:25:59 [WARN]: ⚠️ Branch main in react-bridging-templates is not protected.
+2025-03-01 18:25:59 [INFO]: U0001F6AB No branch protection found for react-bridging-templates/main
+2025-03-01 18:25:59 [WARN]: ⚠️ Branch main in react-bridging-website is not protected.
+2025-03-01 18:25:59 [INFO]: U0001F6AB No branch protection found for react-bridging-website/main
+2025-03-01 18:25:59 [INFO]: U0001F4DD [DRY RUN] [695/931] No checks to remove from: react-rum/main
+2025-03-01 18:25:59 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:02 [WARN]: ⚠️ Branch main in reactum is not protected.
+2025-03-01 18:26:02 [INFO]: U0001F6AB No branch protection found for reactum/main
+2025-03-01 18:26:02 [WARN]: ⚠️ Branch main in readyapi-sandbox is not protected.
+2025-03-01 18:26:02 [INFO]: U0001F6AB No branch protection found for readyapi-sandbox/main
+2025-03-01 18:26:02 [WARN]: ⚠️ Branch main in readyapi-galaxy is not protected.
+2025-03-01 18:26:02 [INFO]: U0001F6AB No branch protection found for readyapi-galaxy/main
+2025-03-01 18:26:02 [WARN]: ⚠️ Branch master in readyapi is not protected.
+2025-03-01 18:26:02 [INFO]: U0001F6AB No branch protection found for readyapi/master
+2025-03-01 18:26:03 [INFO]: U0001F4DD [DRY RUN] [700/931] No checks to remove from: readyapi-snippetz/main
+2025-03-01 18:26:03 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:06 [WARN]: ⚠️ Branch main in readyapi-ui is not protected.
+2025-03-01 18:26:06 [INFO]: U0001F6AB No branch protection found for readyapi-ui/main
+2025-03-01 18:26:06 [WARN]: ⚠️ Branch main in ReCryptor is not protected.
+2025-03-01 18:26:06 [INFO]: U0001F6AB No branch protection found for ReCryptor/main
+2025-03-01 18:26:06 [WARN]: ⚠️ Branch development in readyapi.js is not protected.
+2025-03-01 18:26:06 [INFO]: U0001F6AB No branch protection found for readyapi.js/development
+2025-03-01 18:26:06 [WARN]: ⚠️ Branch master in reconpoint is not protected.
+2025-03-01 18:26:06 [INFO]: U0001F6AB No branch protection found for reconpoint/master
+2025-03-01 18:26:06 [WARN]: ⚠️ Branch master in realtime-js is not protected.
+2025-03-01 18:26:06 [INFO]: U0001F6AB No branch protection found for realtime-js/master
+2025-03-01 18:26:06 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:10 [WARN]: ⚠️ Branch main in remix is not protected.
+2025-03-01 18:26:10 [INFO]: U0001F6AB No branch protection found for remix/main
+2025-03-01 18:26:10 [WARN]: ⚠️ Branch master in release-drafter is not protected.
+2025-03-01 18:26:10 [INFO]: U0001F6AB No branch protection found for release-drafter/master
+2025-03-01 18:26:10 [WARN]: ⚠️ Branch main in ReFork is not protected.
+2025-03-01 18:26:10 [INFO]: U0001F6AB No branch protection found for ReFork/main
+2025-03-01 18:26:10 [WARN]: ⚠️ Branch main in release is not protected.
+2025-03-01 18:26:10 [INFO]: U0001F6AB No branch protection found for release/main
+2025-03-01 18:26:10 [WARN]: ⚠️ Branch master in release-parser is not protected.
+2025-03-01 18:26:10 [INFO]: U0001F6AB No branch protection found for release-parser/master
+2025-03-01 18:26:10 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:13 [WARN]: ⚠️ Branch main in repodir is not protected.
+2025-03-01 18:26:13 [INFO]: U0001F6AB No branch protection found for repodir/main
+2025-03-01 18:26:13 [WARN]: ⚠️ Branch main in renovate-khulnasoft-bot is not protected.
+2025-03-01 18:26:13 [INFO]: U0001F6AB No branch protection found for renovate-khulnasoft-bot/main
+2025-03-01 18:26:13 [WARN]: ⚠️ Branch master in remix-server is not protected.
+2025-03-01 18:26:13 [INFO]: U0001F6AB No branch protection found for remix-server/master
+2025-03-01 18:26:13 [WARN]: ⚠️ Branch main in repo2docker is not protected.
+2025-03-01 18:26:13 [INFO]: U0001F6AB No branch protection found for repo2docker/main
+2025-03-01 18:26:14 [INFO]: U0001F4DD [DRY RUN] [712/931] No checks to remove from: remote-cache/main
+2025-03-01 18:26:14 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:17 [WARN]: ⚠️ Branch master in resources is not protected.
+2025-03-01 18:26:17 [INFO]: U0001F6AB No branch protection found for resources/master
+2025-03-01 18:26:17 [WARN]: ⚠️ Branch main in rpc is not protected.
+2025-03-01 18:26:17 [INFO]: U0001F6AB No branch protection found for rpc/main
+2025-03-01 18:26:17 [WARN]: ⚠️ Branch main in repository-template is not protected.
+2025-03-01 18:26:17 [INFO]: U0001F6AB No branch protection found for repository-template/main
+2025-03-01 18:26:17 [WARN]: ⚠️ Branch main in repository-statistics is not protected.
+2025-03-01 18:26:17 [INFO]: U0001F6AB No branch protection found for repository-statistics/main
+2025-03-01 18:26:17 [INFO]: U0001F4DD [DRY RUN] [719/931] No checks to remove from: riex/main
+2025-03-01 18:26:17 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:21 [WARN]: ⚠️ Branch main in rule-engine is not protected.
+2025-03-01 18:26:21 [INFO]: U0001F6AB No branch protection found for rule-engine/main
+2025-03-01 18:26:21 [WARN]: ⚠️ Branch master in rtfparse is not protected.
+2025-03-01 18:26:21 [INFO]: U0001F6AB No branch protection found for rtfparse/master
+2025-03-01 18:26:21 [WARN]: ⚠️ Branch main in ruleset-recipes is not protected.
+2025-03-01 18:26:21 [INFO]: U0001F6AB No branch protection found for ruleset-recipes/main
+2025-03-01 18:26:21 [WARN]: ⚠️ Branch main in runner is not protected.
+2025-03-01 18:26:21 [INFO]: U0001F6AB No branch protection found for runner/main
+2025-03-01 18:26:21 [WARN]: ⚠️ Branch master in rules_go is not protected.
+2025-03-01 18:26:21 [INFO]: U0001F6AB No branch protection found for rules_go/master
+2025-03-01 18:26:21 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:24 [WARN]: ⚠️ Branch master in rust-postgres is not protected.
+2025-03-01 18:26:24 [INFO]: U0001F6AB No branch protection found for rust-postgres/master
+2025-03-01 18:26:24 [WARN]: ⚠️ Branch main in rust-toolchain is not protected.
+2025-03-01 18:26:24 [INFO]: U0001F6AB No branch protection found for rust-toolchain/main
+2025-03-01 18:26:24 [WARN]: ⚠️ Branch main in runner-images-temp is not protected.
+2025-03-01 18:26:24 [INFO]: U0001F6AB No branch protection found for runner-images-temp/main
+2025-03-01 18:26:24 [WARN]: ⚠️ Branch main in runner-images is not protected.
+2025-03-01 18:26:24 [INFO]: U0001F6AB No branch protection found for runner-images/main
+2025-03-01 18:26:24 [INFO]: U0001F4DD [DRY RUN] [728/931] No checks to remove from: runtime-edge/main
+2025-03-01 18:26:24 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:28 [WARN]: ⚠️ Branch main in RustBolt is not protected.
+2025-03-01 18:26:28 [INFO]: U0001F6AB No branch protection found for RustBolt/main
+2025-03-01 18:26:28 [WARN]: ⚠️ Branch main in RustFoundry is not protected.
+2025-03-01 18:26:28 [INFO]: U0001F6AB No branch protection found for RustFoundry/main
+2025-03-01 18:26:28 [WARN]: ⚠️ Branch main in rustbolt-sources is not protected.
+2025-03-01 18:26:28 [INFO]: U0001F6AB No branch protection found for rustbolt-sources/main
+2025-03-01 18:26:28 [WARN]: ⚠️ Branch main in rustinit-template is not protected.
+2025-03-01 18:26:28 [INFO]: U0001F6AB No branch protection found for rustinit-template/main
+2025-03-01 18:26:28 [WARN]: ⚠️ Branch main in rustbolt-resolver is not protected.
+2025-03-01 18:26:28 [INFO]: U0001F6AB No branch protection found for rustbolt-resolver/main
+2025-03-01 18:26:28 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:31 [WARN]: ⚠️ Branch main in RWR is not protected.
+2025-03-01 18:26:31 [INFO]: U0001F6AB No branch protection found for RWR/main
+2025-03-01 18:26:31 [WARN]: ⚠️ Branch main in scalabase-boilerplate is not protected.
+2025-03-01 18:26:31 [INFO]: U0001F6AB No branch protection found for scalabase-boilerplate/main
+2025-03-01 18:26:31 [WARN]: ⚠️ Branch main in scalify is not protected.
+2025-03-01 18:26:31 [INFO]: U0001F6AB No branch protection found for scalify/main
+2025-03-01 18:26:31 [WARN]: ⚠️ Branch main in scalabase-samples is not protected.
+2025-03-01 18:26:31 [INFO]: U0001F6AB No branch protection found for scalabase-samples/main
+2025-03-01 18:26:31 [WARN]: ⚠️ Branch main in scalar is not protected.
+2025-03-01 18:26:31 [INFO]: U0001F6AB No branch protection found for scalar/main
+2025-03-01 18:26:31 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:35 [WARN]: ⚠️ Branch main in sdk is not protected.
+2025-03-01 18:26:35 [INFO]: U0001F6AB No branch protection found for sdk/main
+2025-03-01 18:26:35 [WARN]: ⚠️ Branch main in schema is not protected.
+2025-03-01 18:26:35 [INFO]: U0001F6AB No branch protection found for schema/main
+2025-03-01 18:26:35 [WARN]: ⚠️ Branch main in sea-jet is not protected.
+2025-03-01 18:26:35 [INFO]: U0001F6AB No branch protection found for sea-jet/main
+2025-03-01 18:26:35 [WARN]: ⚠️ Branch main in sdk-app-collection is not protected.
+2025-03-01 18:26:35 [INFO]: U0001F6AB No branch protection found for sdk-app-collection/main
+2025-03-01 18:26:35 [WARN]: ⚠️ Branch main in schemas is not protected.
+2025-03-01 18:26:35 [INFO]: U0001F6AB No branch protection found for schemas/main
+2025-03-01 18:26:35 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:38 [WARN]: ⚠️ Branch main in security_content is not protected.
+2025-03-01 18:26:38 [INFO]: U0001F6AB No branch protection found for security_content/main
+2025-03-01 18:26:38 [WARN]: ⚠️ Branch main in SecFlowSDK is not protected.
+2025-03-01 18:26:38 [INFO]: U0001F6AB No branch protection found for SecFlowSDK/main
+2025-03-01 18:26:38 [WARN]: ⚠️ Branch next in securitylab is not protected.
+2025-03-01 18:26:38 [INFO]: U0001F6AB No branch protection found for securitylab/next
+2025-03-01 18:26:38 [WARN]: ⚠️ Branch master in security-vulnogram is not protected.
+2025-03-01 18:26:38 [INFO]: U0001F6AB No branch protection found for security-vulnogram/master
+2025-03-01 18:26:38 [WARN]: ⚠️ Branch main in semantic-release-action is not protected.
+2025-03-01 18:26:38 [INFO]: U0001F6AB No branch protection found for semantic-release-action/main
+2025-03-01 18:26:38 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:41 [WARN]: ⚠️ Branch main in serverless-cfworker-demo is not protected.
+2025-03-01 18:26:41 [INFO]: U0001F6AB No branch protection found for serverless-cfworker-demo/main
+2025-03-01 18:26:41 [WARN]: ⚠️ Branch master in serverless-registry-proxy is not protected.
+2025-03-01 18:26:41 [INFO]: U0001F6AB No branch protection found for serverless-registry-proxy/master
+2025-03-01 18:26:41 [WARN]: ⚠️ Branch v4 in serverless-examples is not protected.
+2025-03-01 18:26:41 [INFO]: U0001F6AB No branch protection found for serverless-examples/v4
+2025-03-01 18:26:41 [WARN]: ⚠️ Branch main in serverless is not protected.
+2025-03-01 18:26:41 [INFO]: U0001F6AB No branch protection found for serverless/main
+2025-03-01 18:26:42 [INFO]: U0001F4DD [DRY RUN] [751/931] No checks to remove from: semantic-router/main
+2025-03-01 18:26:42 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:45 [WARN]: ⚠️ Branch master in shipyard is not protected.
+2025-03-01 18:26:45 [INFO]: U0001F6AB No branch protection found for shipyard/master
+2025-03-01 18:26:45 [WARN]: ⚠️ Branch master in sistent is not protected.
+2025-03-01 18:26:45 [INFO]: U0001F6AB No branch protection found for sistent/master
+2025-03-01 18:26:45 [WARN]: ⚠️ Branch main in shipyard-cli is not protected.
+2025-03-01 18:26:45 [INFO]: U0001F6AB No branch protection found for shipyard-cli/main
+2025-03-01 18:26:45 [WARN]: ⚠️ Branch master in service-mesh-performance is not protected.
+2025-03-01 18:26:45 [INFO]: U0001F6AB No branch protection found for service-mesh-performance/master
+2025-03-01 18:26:45 [WARN]: ⚠️ Branch master in show-kernel-struct-offset is not protected.
+2025-03-01 18:26:45 [INFO]: U0001F6AB No branch protection found for show-kernel-struct-offset/master
+2025-03-01 18:26:45 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:49 [WARN]: ⚠️ Branch master in spark-cassandra-connector is not protected.
+2025-03-01 18:26:49 [INFO]: U0001F6AB No branch protection found for spark-cassandra-connector/master
+2025-03-01 18:26:49 [WARN]: ⚠️ Branch main in smartencoding-benchmark is not protected.
+2025-03-01 18:26:49 [INFO]: U0001F6AB No branch protection found for smartencoding-benchmark/main
+2025-03-01 18:26:49 [WARN]: ⚠️ Branch main in slack-github-action is not protected.
+2025-03-01 18:26:49 [INFO]: U0001F6AB No branch protection found for slack-github-action/main
+2025-03-01 18:26:49 [WARN]: ⚠️ Branch master in slack is not protected.
+2025-03-01 18:26:49 [INFO]: U0001F6AB No branch protection found for slack/master
+2025-03-01 18:26:49 [INFO]: U0001F4DD [DRY RUN] [763/931] No checks to remove from: slaybot/main
+2025-03-01 18:26:49 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:52 [WARN]: ⚠️ Branch main in splunk-integration is not protected.
+2025-03-01 18:26:52 [INFO]: U0001F6AB No branch protection found for splunk-integration/main
+2025-03-01 18:26:52 [WARN]: ⚠️ Branch main in sponsify is not protected.
+2025-03-01 18:26:52 [INFO]: U0001F6AB No branch protection found for sponsify/main
+2025-03-01 18:26:52 [WARN]: ⚠️ Branch main in spidery is not protected.
+2025-03-01 18:26:52 [INFO]: U0001F6AB No branch protection found for spidery/main
+2025-03-01 18:26:52 [WARN]: ⚠️ Branch main in speedate is not protected.
+2025-03-01 18:26:52 [INFO]: U0001F6AB No branch protection found for speedate/main
+2025-03-01 18:26:52 [WARN]: ⚠️ Branch main in sponsify.khulnasoft.com is not protected.
+2025-03-01 18:26:52 [INFO]: U0001F6AB No branch protection found for sponsify.khulnasoft.com/main
+2025-03-01 18:26:52 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:56 [WARN]: ⚠️ Branch main in spring-boot is not protected.
+2025-03-01 18:26:56 [INFO]: U0001F6AB No branch protection found for spring-boot/main
+2025-03-01 18:26:56 [WARN]: ⚠️ Branch main in src-cli is not protected.
+2025-03-01 18:26:56 [INFO]: U0001F6AB No branch protection found for src-cli/main
+2025-03-01 18:26:56 [WARN]: ⚠️ Branch main in sqlint is not protected.
+2025-03-01 18:26:56 [INFO]: U0001F6AB No branch protection found for sqlint/main
+2025-03-01 18:26:56 [WARN]: ⚠️ Branch master in ssh-proxy is not protected.
+2025-03-01 18:26:56 [INFO]: U0001F6AB No branch protection found for ssh-proxy/master
+2025-03-01 18:26:56 [WARN]: ⚠️ Branch master in stackbrew is not protected.
+2025-03-01 18:26:56 [INFO]: U0001F6AB No branch protection found for stackbrew/master
+2025-03-01 18:26:56 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:26:59 [WARN]: ⚠️ Branch main in starboard-octant-plugin is not protected.
+2025-03-01 18:26:59 [INFO]: U0001F6AB No branch protection found for starboard-octant-plugin/main
+2025-03-01 18:26:59 [WARN]: ⚠️ Branch main in starboard-lens-extension is not protected.
+2025-03-01 18:26:59 [INFO]: U0001F6AB No branch protection found for starboard-lens-extension/main
+2025-03-01 18:26:59 [WARN]: ⚠️ Branch main in stackgen is not protected.
+2025-03-01 18:26:59 [INFO]: U0001F6AB No branch protection found for stackgen/main
+2025-03-01 18:26:59 [WARN]: ⚠️ Branch main in starboard is not protected.
+2025-03-01 18:26:59 [INFO]: U0001F6AB No branch protection found for starboard/main
+2025-03-01 18:26:59 [WARN]: ⚠️ Branch master in starboard-khulnasoft-csp-webhook is not protected.
+2025-03-01 18:26:59 [INFO]: U0001F6AB No branch protection found for starboard-khulnasoft-csp-webhook/master
+2025-03-01 18:26:59 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:03 [WARN]: ⚠️ Branch master in starboard-operator is not protected.
+2025-03-01 18:27:03 [INFO]: U0001F6AB No branch protection found for starboard-operator/master
+2025-03-01 18:27:03 [WARN]: ⚠️ Branch master in Start-GPT-Forge is not protected.
+2025-03-01 18:27:03 [INFO]: U0001F6AB No branch protection found for Start-GPT-Forge/master
+2025-03-01 18:27:03 [WARN]: ⚠️ Branch master in Start-GPT-Plugins is not protected.
+2025-03-01 18:27:03 [INFO]: U0001F6AB No branch protection found for Start-GPT-Plugins/master
+2025-03-01 18:27:03 [WARN]: ⚠️ Branch master in Start-GPT-Benchmarks is not protected.
+2025-03-01 18:27:03 [INFO]: U0001F6AB No branch protection found for Start-GPT-Benchmarks/master
+2025-03-01 18:27:03 [WARN]: ⚠️ Branch master in Start-GPT-Plugin-Template is not protected.
+2025-03-01 18:27:03 [INFO]: U0001F6AB No branch protection found for Start-GPT-Plugin-Template/master
+2025-03-01 18:27:03 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:06 [WARN]: ⚠️ Branch main in starter-workflows is not protected.
+2025-03-01 18:27:06 [INFO]: U0001F6AB No branch protection found for starter-workflows/main
+2025-03-01 18:27:06 [WARN]: ⚠️ Branch main in StartE2E is not protected.
+2025-03-01 18:27:06 [INFO]: U0001F6AB No branch protection found for StartE2E/main
+2025-03-01 18:27:06 [WARN]: ⚠️ Branch master in StartGPTx is not protected.
+2025-03-01 18:27:06 [INFO]: U0001F6AB No branch protection found for StartGPTx/master
+2025-03-01 18:27:06 [WARN]: ⚠️ Branch master in storage is not protected.
+2025-03-01 18:27:06 [INFO]: U0001F6AB No branch protection found for storage/master
+2025-03-01 18:27:06 [WARN]: ⚠️ Branch master in startgpt is not protected.
+2025-03-01 18:27:06 [INFO]: U0001F6AB No branch protection found for startgpt/master
+2025-03-01 18:27:06 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:09 [WARN]: ⚠️ Branch main in streaming-learning-docs is not protected.
+2025-03-01 18:27:09 [INFO]: U0001F6AB No branch protection found for streaming-learning-docs/main
+2025-03-01 18:27:09 [WARN]: ⚠️ Branch gh-pages in styleguide is not protected.
+2025-03-01 18:27:09 [INFO]: U0001F6AB No branch protection found for styleguide/gh-pages
+2025-03-01 18:27:09 [WARN]: ⚠️ Branch main in stripe-sync-engine is not protected.
+2025-03-01 18:27:09 [INFO]: U0001F6AB No branch protection found for stripe-sync-engine/main
+2025-03-01 18:27:09 [WARN]: ⚠️ Branch main in storage-js is not protected.
+2025-03-01 18:27:09 [INFO]: U0001F6AB No branch protection found for storage-js/main
+2025-03-01 18:27:09 [WARN]: ⚠️ Branch canary in style-guide is not protected.
+2025-03-01 18:27:09 [INFO]: U0001F6AB No branch protection found for style-guide/canary
+2025-03-01 18:27:09 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:13 [WARN]: ⚠️ Branch master in superkit is not protected.
+2025-03-01 18:27:13 [INFO]: U0001F6AB No branch protection found for superkit/master
+2025-03-01 18:27:13 [WARN]: ⚠️ Branch main in SWE-bench is not protected.
+2025-03-01 18:27:13 [INFO]: U0001F6AB No branch protection found for SWE-bench/main
+2025-03-01 18:27:13 [WARN]: ⚠️ Branch main in supavisor is not protected.
+2025-03-01 18:27:13 [INFO]: U0001F6AB No branch protection found for supavisor/main
+2025-03-01 18:27:13 [WARN]: ⚠️ Branch sec/improve-github-workflow-security in superverse is not protected.
+2025-03-01 18:27:13 [INFO]: U0001F6AB No branch protection found for superverse/sec/improve-github-workflow-security
+2025-03-01 18:27:13 [WARN]: ⚠️ Branch main in superagent is not protected.
+2025-03-01 18:27:13 [INFO]: U0001F6AB No branch protection found for superagent/main
+2025-03-01 18:27:13 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:16 [WARN]: ⚠️ Branch main in swift is not protected.
+2025-03-01 18:27:16 [INFO]: U0001F6AB No branch protection found for swift/main
+2025-03-01 18:27:16 [WARN]: ⚠️ Branch main in swift-evolution is not protected.
+2025-03-01 18:27:16 [INFO]: U0001F6AB No branch protection found for swift-evolution/main
+2025-03-01 18:27:16 [WARN]: ⚠️ Branch main in SynoDB is not protected.
+2025-03-01 18:27:16 [INFO]: U0001F6AB No branch protection found for SynoDB/main
+2025-03-01 18:27:16 [WARN]: ⚠️ Branch master in sync is not protected.
+2025-03-01 18:27:16 [INFO]: U0001F6AB No branch protection found for sync/master
+2025-03-01 18:27:16 [WARN]: ⚠️ Branch master in synopkg is not protected.
+2025-03-01 18:27:16 [INFO]: U0001F6AB No branch protection found for synopkg/master
+2025-03-01 18:27:16 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:20 [WARN]: ⚠️ Branch main in synopkg-recipes is not protected.
+2025-03-01 18:27:20 [INFO]: U0001F6AB No branch protection found for synopkg-recipes/main
+2025-03-01 18:27:20 [WARN]: ⚠️ Branch main in techinfra is not protected.
+2025-03-01 18:27:20 [INFO]: U0001F6AB No branch protection found for techinfra/main
+2025-03-01 18:27:20 [WARN]: ⚠️ Branch main in teleflow is not protected.
+2025-03-01 18:27:20 [INFO]: U0001F6AB No branch protection found for teleflow/main
+2025-03-01 18:27:20 [WARN]: ⚠️ Branch main in syscalls-bumper is not protected.
+2025-03-01 18:27:20 [INFO]: U0001F6AB No branch protection found for syscalls-bumper/main
+2025-03-01 18:27:20 [WARN]: ⚠️ Branch main in teleflow-java is not protected.
+2025-03-01 18:27:20 [INFO]: U0001F6AB No branch protection found for teleflow-java/main
+2025-03-01 18:27:20 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:23 [WARN]: ⚠️ Branch master in template-docker is not protected.
+2025-03-01 18:27:23 [INFO]: U0001F6AB No branch protection found for template-docker/master
+2025-03-01 18:27:23 [WARN]: ⚠️ Branch main in tempopb is not protected.
+2025-03-01 18:27:23 [INFO]: U0001F6AB No branch protection found for tempopb/main
+2025-03-01 18:27:23 [WARN]: ⚠️ Branch master in template-template is not protected.
+2025-03-01 18:27:23 [INFO]: U0001F6AB No branch protection found for template-template/master
+2025-03-01 18:27:23 [WARN]: ⚠️ Branch master in telegram is not protected.
+2025-03-01 18:27:23 [INFO]: U0001F6AB No branch protection found for telegram/master
+2025-03-01 18:27:24 [INFO]: U0001F4DD [DRY RUN] [811/931] No checks to remove from: teleflow-website/master
+2025-03-01 18:27:24 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:27 [WARN]: ⚠️ Branch main in terraform-provider-kengine is not protected.
+2025-03-01 18:27:27 [INFO]: U0001F6AB No branch protection found for terraform-provider-kengine/main
+2025-03-01 18:27:27 [WARN]: ⚠️ Branch main in terraform-provider-khulnasoft is not protected.
+2025-03-01 18:27:27 [INFO]: U0001F6AB No branch protection found for terraform-provider-khulnasoft/main
+2025-03-01 18:27:27 [WARN]: ⚠️ Branch master in tensorflow is not protected.
+2025-03-01 18:27:27 [INFO]: U0001F6AB No branch protection found for tensorflow/master
+2025-03-01 18:27:27 [WARN]: ⚠️ Branch main in terraform-gcp-onboarding is not protected.
+2025-03-01 18:27:27 [INFO]: U0001F6AB No branch protection found for terraform-gcp-onboarding/main
+2025-03-01 18:27:27 [WARN]: ⚠️ Branch main in terraform-azure-onboarding is not protected.
+2025-03-01 18:27:27 [INFO]: U0001F6AB No branch protection found for terraform-azure-onboarding/main
+2025-03-01 18:27:27 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:31 [WARN]: ⚠️ Branch master in test-infra is not protected.
+2025-03-01 18:27:31 [INFO]: U0001F6AB No branch protection found for test-infra/master
+2025-03-01 18:27:31 [WARN]: ⚠️ Branch master in tfsec is not protected.
+2025-03-01 18:27:31 [INFO]: U0001F6AB No branch protection found for tfsec/master
+2025-03-01 18:27:31 [WARN]: ⚠️ Branch main in terrasec-action is not protected.
+2025-03-01 18:27:31 [INFO]: U0001F6AB No branch protection found for terrasec-action/main
+2025-03-01 18:27:31 [WARN]: ⚠️ Branch main in terraform-provider-postgresql is not protected.
+2025-03-01 18:27:31 [INFO]: U0001F6AB No branch protection found for terraform-provider-postgresql/main
+2025-03-01 18:27:31 [INFO]: U0001F4DD [DRY RUN] [822/931] No checks to remove from: terrascan/master
+2025-03-01 18:27:31 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:34 [WARN]: ⚠️ Branch master in ThreatMatrix-k8s is not protected.
+2025-03-01 18:27:34 [INFO]: U0001F6AB No branch protection found for ThreatMatrix-k8s/master
+2025-03-01 18:27:34 [WARN]: ⚠️ Branch master in tfsecx is not protected.
+2025-03-01 18:27:34 [INFO]: U0001F6AB No branch protection found for tfsecx/master
+2025-03-01 18:27:34 [WARN]: ⚠️ Branch master in ThreatMatrix is not protected.
+2025-03-01 18:27:34 [INFO]: U0001F6AB No branch protection found for ThreatMatrix/master
+2025-03-01 18:27:34 [WARN]: ⚠️ Branch master in tfsecurity is not protected.
+2025-03-01 18:27:34 [INFO]: U0001F6AB No branch protection found for tfsecurity/master
+2025-03-01 18:27:34 [WARN]: ⚠️ Branch main in ThreatPot is not protected.
+2025-03-01 18:27:34 [INFO]: U0001F6AB No branch protection found for ThreatPot/main
+2025-03-01 18:27:34 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:38 [WARN]: ⚠️ Branch main in titanrepo is not protected.
+2025-03-01 18:27:38 [INFO]: U0001F6AB No branch protection found for titanrepo/main
+2025-03-01 18:27:38 [WARN]: ⚠️ Branch main in titan-recipes is not protected.
+2025-03-01 18:27:38 [INFO]: U0001F6AB No branch protection found for titan-recipes/main
+2025-03-01 18:27:38 [WARN]: ⚠️ Branch main in token-inspect is not protected.
+2025-03-01 18:27:38 [INFO]: U0001F6AB No branch protection found for token-inspect/main
+2025-03-01 18:27:38 [WARN]: ⚠️ Branch master in Tiger is not protected.
+2025-03-01 18:27:38 [INFO]: U0001F6AB No branch protection found for Tiger/master
+2025-03-01 18:27:38 [WARN]: ⚠️ Branch master in titan-examples is not protected.
+2025-03-01 18:27:38 [INFO]: U0001F6AB No branch protection found for titan-examples/master
+2025-03-01 18:27:38 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:41 [WARN]: ⚠️ Branch main in tracker is not protected.
+2025-03-01 18:27:41 [INFO]: U0001F6AB No branch protection found for tracker/main
+2025-03-01 18:27:41 [WARN]: ⚠️ Branch main in trackershark is not protected.
+2025-03-01 18:27:41 [INFO]: U0001F6AB No branch protection found for trackershark/main
+2025-03-01 18:27:41 [WARN]: ⚠️ Branch readme-and-settings in trafficserver is not protected.
+2025-03-01 18:27:41 [INFO]: U0001F6AB No branch protection found for trafficserver/readme-and-settings
+2025-03-01 18:27:41 [WARN]: ⚠️ Branch main in transformers is not protected.
+2025-03-01 18:27:41 [INFO]: U0001F6AB No branch protection found for transformers/main
+2025-03-01 18:27:42 [INFO]: U0001F4DD [DRY RUN] [838/931] No checks to remove from: tradeui/main
+2025-03-01 18:27:42 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:45 [WARN]: ⚠️ Branch main in translate-shell is not protected.
+2025-03-01 18:27:45 [INFO]: U0001F6AB No branch protection found for translate-shell/main
+2025-03-01 18:27:45 [WARN]: ⚠️ Branch master in tree-sitter-python is not protected.
+2025-03-01 18:27:45 [INFO]: U0001F6AB No branch protection found for tree-sitter-python/master
+2025-03-01 18:27:45 [WARN]: ⚠️ Branch main in triangle is not protected.
+2025-03-01 18:27:45 [INFO]: U0001F6AB No branch protection found for triangle/main
+2025-03-01 18:27:45 [WARN]: ⚠️ Branch master in triangle-ci-pipeline is not protected.
+2025-03-01 18:27:45 [INFO]: U0001F6AB No branch protection found for triangle-ci-pipeline/master
+2025-03-01 18:27:45 [WARN]: ⚠️ Branch main in triangle-doc is not protected.
+2025-03-01 18:27:45 [INFO]: U0001F6AB No branch protection found for triangle-doc/main
+2025-03-01 18:27:45 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:48 [WARN]: ⚠️ Branch master in tug is not protected.
+2025-03-01 18:27:48 [INFO]: U0001F6AB No branch protection found for tug/master
+2025-03-01 18:27:48 [WARN]: ⚠️ Branch main in tug.vim is not protected.
+2025-03-01 18:27:48 [INFO]: U0001F6AB No branch protection found for tug.vim/main
+2025-03-01 18:27:48 [WARN]: ⚠️ Branch main in tunnel is not protected.
+2025-03-01 18:27:48 [INFO]: U0001F6AB No branch protection found for tunnel/main
+2025-03-01 18:27:48 [WARN]: ⚠️ Branch master in trigger-remote-provider-action is not protected.
+2025-03-01 18:27:48 [INFO]: U0001F6AB No branch protection found for trigger-remote-provider-action/master
+2025-03-01 18:27:48 [WARN]: ⚠️ Branch main in triangle-packaging is not protected.
+2025-03-01 18:27:48 [INFO]: U0001F6AB No branch protection found for triangle-packaging/main
+2025-03-01 18:27:48 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:52 [WARN]: ⚠️ Branch master in tunnel-audit is not protected.
+2025-03-01 18:27:52 [INFO]: U0001F6AB No branch protection found for tunnel-audit/master
+2025-03-01 18:27:52 [WARN]: ⚠️ Branch master in tunnel-action is not protected.
+2025-03-01 18:27:52 [INFO]: U0001F6AB No branch protection found for tunnel-action/master
+2025-03-01 18:27:52 [WARN]: ⚠️ Branch main in tunnel-azure-pipelines-task is not protected.
+2025-03-01 18:27:52 [INFO]: U0001F6AB No branch protection found for tunnel-azure-pipelines-task/main
+2025-03-01 18:27:52 [WARN]: ⚠️ Branch main in tunnel-checks is not protected.
+2025-03-01 18:27:52 [INFO]: U0001F6AB No branch protection found for tunnel-checks/main
+2025-03-01 18:27:52 [INFO]: U0001F4DD [DRY RUN] [853/931] No checks to remove from: tunnel-aws/main
+2025-03-01 18:27:52 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:56 [WARN]: ⚠️ Branch main in tunnel-docs is not protected.
+2025-03-01 18:27:56 [INFO]: U0001F6AB No branch protection found for tunnel-docs/main
+2025-03-01 18:27:56 [WARN]: ⚠️ Branch main in tunnel-db-data is not protected.
+2025-03-01 18:27:56 [INFO]: U0001F6AB No branch protection found for tunnel-db-data/main
+2025-03-01 18:27:56 [WARN]: ⚠️ Branch main in tunnel-ci-test is not protected.
+2025-03-01 18:27:56 [INFO]: U0001F6AB No branch protection found for tunnel-ci-test/main
+2025-03-01 18:27:56 [WARN]: ⚠️ Branch main in tunnel-docker-extension is not protected.
+2025-03-01 18:27:56 [INFO]: U0001F6AB No branch protection found for tunnel-docker-extension/main
+2025-03-01 18:27:56 [INFO]: U0001F4DD [DRY RUN] [860/931] No checks to remove from: tunnel-iac/main
+2025-03-01 18:27:56 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:27:59 [WARN]: ⚠️ Branch main in tunnel-k8s-wrapper is not protected.
+2025-03-01 18:27:59 [INFO]: U0001F6AB No branch protection found for tunnel-k8s-wrapper/main
+2025-03-01 18:27:59 [WARN]: ⚠️ Branch main in tunnel-issue-action is not protected.
+2025-03-01 18:27:59 [INFO]: U0001F6AB No branch protection found for tunnel-issue-action/main
+2025-03-01 18:27:59 [WARN]: ⚠️ Branch main in tunnel-java-db is not protected.
+2025-03-01 18:27:59 [INFO]: U0001F6AB No branch protection found for tunnel-java-db/main
+2025-03-01 18:28:00 [INFO]: U0001F4DD [DRY RUN] [865/931] No checks to remove from: tunnel-operator/main
+2025-03-01 18:28:00 [INFO]: U0001F4DD [DRY RUN] [864/931] No checks to remove from: tunnel-kubernetes/main
+2025-03-01 18:28:00 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:28:03 [WARN]: ⚠️ Branch main in tunnel-pipe is not protected.
+2025-03-01 18:28:03 [INFO]: U0001F6AB No branch protection found for tunnel-pipe/main
+2025-03-01 18:28:03 [WARN]: ⚠️ Branch main in tunnel-plugin-index is not protected.
+2025-03-01 18:28:03 [INFO]: U0001F6AB No branch protection found for tunnel-plugin-index/main
+2025-03-01 18:28:03 [WARN]: ⚠️ Branch master in tunnel-plugin-khulnasoft is not protected.
+2025-03-01 18:28:03 [INFO]: U0001F6AB No branch protection found for tunnel-plugin-khulnasoft/master
+2025-03-01 18:28:03 [INFO]: U0001F4DD [DRY RUN] [870/931] No checks to remove from: tunnel-plugin-khulnasoftx/master
+2025-03-01 18:28:03 [INFO]: U0001F4DD [DRY RUN] [867/931] No checks to remove from: tunnel-plugin-attest/main
+2025-03-01 18:28:03 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:28:07 [WARN]: ⚠️ Branch master in tunnel-sarif-demo is not protected.
+2025-03-01 18:28:07 [INFO]: U0001F6AB No branch protection found for tunnel-sarif-demo/master
+2025-03-01 18:28:07 [WARN]: ⚠️ Branch main in tunnel-repo is not protected.
+2025-03-01 18:28:07 [INFO]: U0001F6AB No branch protection found for tunnel-repo/main
+2025-03-01 18:28:07 [WARN]: ⚠️ Branch main in tunnel-plugin-kubectl is not protected.
+2025-03-01 18:28:07 [INFO]: U0001F6AB No branch protection found for tunnel-plugin-kubectl/main
+2025-03-01 18:28:07 [INFO]: U0001F4DD [DRY RUN] [873/931] No checks to remove from: tunnel-policies/main
+2025-03-01 18:28:07 [INFO]: U0001F4DD [DRY RUN] [872/931] No checks to remove from: tunnel-plugin-referrer/main
+2025-03-01 18:28:07 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:28:11 [WARN]: ⚠️ Branch main in tunnel-test-vm-images is not protected.
+2025-03-01 18:28:11 [INFO]: U0001F6AB No branch protection found for tunnel-test-vm-images/main
+2025-03-01 18:28:11 [WARN]: ⚠️ Branch main in TurboCache is not protected.
+2025-03-01 18:28:11 [INFO]: U0001F6AB No branch protection found for TurboCache/main
+2025-03-01 18:28:11 [WARN]: ⚠️ Branch master in TunnelLink is not protected.
+2025-03-01 18:28:11 [INFO]: U0001F6AB No branch protection found for TunnelLink/master
+2025-03-01 18:28:11 [WARN]: ⚠️ Branch main in turborepo is not protected.
+2025-03-01 18:28:11 [INFO]: U0001F6AB No branch protection found for turborepo/main
+2025-03-01 18:28:11 [INFO]: U0001F4DD [DRY RUN] [876/931] No checks to remove from: tunnel-test-images/master
+2025-03-01 18:28:11 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:28:14 [WARN]: ⚠️ Branch master in typosearch-go is not protected.
+2025-03-01 18:28:14 [INFO]: U0001F6AB No branch protection found for typosearch-go/master
+2025-03-01 18:28:14 [WARN]: ⚠️ Branch v28 in typosearch is not protected.
+2025-03-01 18:28:14 [INFO]: U0001F6AB No branch protection found for typosearch/v28
+2025-03-01 18:28:14 [WARN]: ⚠️ Branch main in UniSynth is not protected.
+2025-03-01 18:28:14 [INFO]: U0001F6AB No branch protection found for UniSynth/main
+2025-03-01 18:28:14 [WARN]: ⚠️ Branch master in upptime is not protected.
+2025-03-01 18:28:14 [INFO]: U0001F6AB No branch protection found for upptime/master
+2025-03-01 18:28:15 [INFO]: U0001F4DD [DRY RUN] [885/931] No checks to remove from: uv/master
+2025-03-01 18:28:15 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:28:18 [WARN]: ⚠️ Branch master in uvicorn-gunicorn-docker is not protected.
+2025-03-01 18:28:18 [INFO]: U0001F6AB No branch protection found for uvicorn-gunicorn-docker/master
+2025-03-01 18:28:18 [WARN]: ⚠️ Branch master in uvicorn is not protected.
+2025-03-01 18:28:18 [INFO]: U0001F6AB No branch protection found for uvicorn/master
+2025-03-01 18:28:19 [INFO]: U0001F4DD [DRY RUN] [889/931] No checks to remove from: uvicorn-gunicorn-starlette-docker/master
+2025-03-01 18:28:19 [INFO]: U0001F4DD [DRY RUN] [888/931] No checks to remove from: uvicorn-gunicorn-readyapi-docker/master
+2025-03-01 18:28:19 [INFO]: U0001F4DD [DRY RUN] [890/931] No checks to remove from: uwsgi-nginx-docker/master
+2025-03-01 18:28:19 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:28:22 [WARN]: ⚠️ Branch main in vault is not protected.
+2025-03-01 18:28:22 [INFO]: U0001F6AB No branch protection found for vault/main
+2025-03-01 18:28:22 [WARN]: ⚠️ Branch master in vector is not protected.
+2025-03-01 18:28:22 [INFO]: U0001F6AB No branch protection found for vector/master
+2025-03-01 18:28:22 [WARN]: ⚠️ Branch master in Velocity is not protected.
+2025-03-01 18:28:22 [INFO]: U0001F6AB No branch protection found for Velocity/master
+2025-03-01 18:28:22 [WARN]: ⚠️ Branch main in VcsOps is not protected.
+2025-03-01 18:28:22 [INFO]: U0001F6AB No branch protection found for VcsOps/main
+2025-03-01 18:28:23 [INFO]: U0001F4DD [DRY RUN] [891/931] No checks to remove from: uwsgi-nginx-flask-docker/master
+2025-03-01 18:28:23 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:28:26 [WARN]: ⚠️ Branch master in vim-be-good is not protected.
+2025-03-01 18:28:26 [INFO]: U0001F6AB No branch protection found for vim-be-good/master
+2025-03-01 18:28:26 [WARN]: ⚠️ Branch master in vim-tunnel is not protected.
+2025-03-01 18:28:26 [INFO]: U0001F6AB No branch protection found for vim-tunnel/master
+2025-03-01 18:28:26 [WARN]: ⚠️ Branch main in vercel is not protected.
+2025-03-01 18:28:26 [INFO]: U0001F6AB No branch protection found for vercel/main
+2025-03-01 18:28:26 [WARN]: ⚠️ Branch main in vercel_ai is not protected.
+2025-03-01 18:28:26 [INFO]: U0001F6AB No branch protection found for vercel_ai/main
+2025-03-01 18:28:26 [WARN]: ⚠️ Branch main in viper-fork is not protected.
+2025-03-01 18:28:26 [INFO]: U0001F6AB No branch protection found for viper-fork/main
+2025-03-01 18:28:26 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:28:29 [WARN]: ⚠️ Branch main in vscode-khulnasoft is not protected.
+2025-03-01 18:28:29 [INFO]: U0001F6AB No branch protection found for vscode-khulnasoft/main
+2025-03-01 18:28:29 [WARN]: ⚠️ Branch main in vite is not protected.
+2025-03-01 18:28:29 [INFO]: U0001F6AB No branch protection found for vite/main
+2025-03-01 18:28:29 [WARN]: ⚠️ Branch main in vscode-linux-build-agent is not protected.
+2025-03-01 18:28:29 [INFO]: U0001F6AB No branch protection found for vscode-linux-build-agent/main
+2025-03-01 18:28:29 [WARN]: ⚠️ Branch main in vscode-server is not protected.
+2025-03-01 18:28:29 [INFO]: U0001F6AB No branch protection found for vscode-server/main
+2025-03-01 18:28:29 [WARN]: ⚠️ Branch main in vscode-remote-try-go is not protected.
+2025-03-01 18:28:29 [INFO]: U0001F6AB No branch protection found for vscode-remote-try-go/main
+2025-03-01 18:28:29 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:28:33 [WARN]: ⚠️ Branch typosearch in web-components is not protected.
+2025-03-01 18:28:33 [INFO]: U0001F6AB No branch protection found for web-components/typosearch
+2025-03-01 18:28:33 [WARN]: ⚠️ Branch main in WasmCraftr is not protected.
+2025-03-01 18:28:33 [INFO]: U0001F6AB No branch protection found for WasmCraftr/main
+2025-03-01 18:28:33 [WARN]: ⚠️ Branch master in vscode-tfsecurity is not protected.
+2025-03-01 18:28:33 [INFO]: U0001F6AB No branch protection found for vscode-tfsecurity/master
+2025-03-01 18:28:33 [INFO]: U0001F4DD [DRY RUN] [908/931] No checks to remove from: wasm-filters/master
+2025-03-01 18:28:33 [INFO]: U0001F4DD [DRY RUN] [907/931] No checks to remove from: wandb/main
+2025-03-01 18:28:33 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:28:37 [WARN]: ⚠️ Branch main in webforge is not protected.
+2025-03-01 18:28:37 [INFO]: U0001F6AB No branch protection found for webforge/main
+2025-03-01 18:28:37 [WARN]: ⚠️ Branch master in web-packages is not protected.
+2025-03-01 18:28:37 [INFO]: U0001F6AB No branch protection found for web-packages/master
+2025-03-01 18:28:37 [WARN]: ⚠️ Branch main in webcontainer-core is not protected.
+2025-03-01 18:28:37 [INFO]: U0001F6AB No branch protection found for webcontainer-core/main
+2025-03-01 18:28:37 [INFO]: U0001F4DD [DRY RUN] [912/931] No checks to remove from: web-scan/master
+2025-03-01 18:28:37 [INFO]: U0001F4DD [DRY RUN] [914/931] No checks to remove from: WebFetch-Pro/main
+2025-03-01 18:28:37 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:28:40 [WARN]: ⚠️ Branch main in workspace-images is not protected.
+2025-03-01 18:28:40 [INFO]: U0001F6AB No branch protection found for workspace-images/main
+2025-03-01 18:28:40 [WARN]: ⚠️ Branch master in webpacker is not protected.
+2025-03-01 18:28:40 [INFO]: U0001F6AB No branch protection found for webpacker/master
+2025-03-01 18:28:40 [WARN]: ⚠️ Branch main in wezterm is not protected.
+2025-03-01 18:28:40 [INFO]: U0001F6AB No branch protection found for wezterm/main
+2025-03-01 18:28:40 [WARN]: ⚠️ Branch main in webhooks is not protected.
+2025-03-01 18:28:40 [INFO]: U0001F6AB No branch protection found for webhooks/main
+2025-03-01 18:28:41 [INFO]: U0001F4DD [DRY RUN] [919/931] No checks to remove from: workers/master
+2025-03-01 18:28:41 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:28:44 [WARN]: ⚠️ Branch main in wrangler2 is not protected.
+2025-03-01 18:28:44 [INFO]: U0001F6AB No branch protection found for wrangler2/main
+2025-03-01 18:28:44 [WARN]: ⚠️ Branch main in wrappers is not protected.
+2025-03-01 18:28:44 [INFO]: U0001F6AB No branch protection found for wrappers/main
+2025-03-01 18:28:44 [WARN]: ⚠️ Branch main in wrangler-action is not protected.
+2025-03-01 18:28:44 [INFO]: U0001F6AB No branch protection found for wrangler-action/main
+2025-03-01 18:28:44 [WARN]: ⚠️ Branch master in wsproxy is not protected.
+2025-03-01 18:28:44 [INFO]: U0001F6AB No branch protection found for wsproxy/master
+2025-03-01 18:28:44 [WARN]: ⚠️ Branch master in wrk2 is not protected.
+2025-03-01 18:28:44 [INFO]: U0001F6AB No branch protection found for wrk2/master
+2025-03-01 18:28:44 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:28:48 [WARN]: ⚠️ Branch main in xvn is not protected.
+2025-03-01 18:28:48 [INFO]: U0001F6AB No branch protection found for xvn/main
+2025-03-01 18:28:48 [WARN]: ⚠️ Branch master in yara is not protected.
+2025-03-01 18:28:48 [INFO]: U0001F6AB No branch protection found for yara/master
+2025-03-01 18:28:48 [WARN]: ⚠️ Branch main in xstarboard-octant-plugin is not protected.
+2025-03-01 18:28:48 [INFO]: U0001F6AB No branch protection found for xstarboard-octant-plugin/main
+2025-03-01 18:28:48 [WARN]: ⚠️ Branch master in xkengine is not protected.
+2025-03-01 18:28:48 [INFO]: U0001F6AB No branch protection found for xkengine/master
+2025-03-01 18:28:48 [WARN]: ⚠️ Branch khulnasoft in zero-to-mlrecipes-k8s is not protected.
+2025-03-01 18:28:48 [INFO]: U0001F6AB No branch protection found for zero-to-mlrecipes-k8s/khulnasoft
+2025-03-01 18:28:48 [INFO]: U0001F552 Waiting before processing next batch...
+2025-03-01 18:28:51 [WARN]: ⚠️ Branch master in Ziply is not protected.
+2025-03-01 18:28:51 [INFO]: U0001F6AB No branch protection found for Ziply/master
+2025-03-01 18:28:51 [INFO]: U0001F389 Process completed. Updated 931 out of 931 repositories.
+2025-03-01 18:28:51 [INFO]: U0001F4BE Report saved to protection-report.json
