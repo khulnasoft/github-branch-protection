@@ -1,0 +1,62 @@
+{
+  "name": "Org-pushrule-example",
+  "target": "push",
+  "source_type": "Organization",
+  "enforcement": "active",
+  "conditions": {
+    "repository_property": {
+      "exclude": [],
+      "include": [
+        {
+          "name": "sensitivity",
+          "source": "custom",
+          "property_values": [
+            "high"
+          ]
+        }
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "file_path_restriction",
+      "parameters": {
+        "restricted_file_paths": [
+          ".github/**/*"
+        ]
+      }
+    },
+    {
+      "type": "max_file_path_length",
+      "parameters": {
+        "max_file_path_length": 25
+      }
+    },
+    {
+      "type": "file_extension_restriction",
+      "parameters": {
+        "restricted_file_extensions": [
+          "*.bin"
+        ]
+      }
+    },
+    {
+      "type": "max_file_size",
+      "parameters": {
+        "max_file_size": 4
+      }
+    }
+  ],
+  "bypass_actors": [
+    {
+      "actor_id": null,
+      "actor_type": "OrganizationAdmin",
+      "bypass_mode": "always"
+    },
+    {
+      "actor_id": 29110,
+      "actor_type": "Integration",
+      "bypass_mode": "always"
+    }
+  ]
+}
