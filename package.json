@@ -1,0 +1,15 @@
+{
+  "name": "orgsecure",
+  "version": "1.0.0",
+  "description": "a script to update branch protection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@octokit/rest": "16.25.1",
+    "lodash.get": "^4.4.2"
+  },
+  "author": "Md Sulaiman",
+  "license": "ISC"
+}
