@@ -46,8 +46,7 @@ const sanitizeFormat = winston.format((info) => {
       sanitizedError.message = sanitizedError.message
         .replace(/ghp_[a-zA-Z0-9]{36}/g, '[REDACTED_TOKEN]')
         .replace(/github_pat_[a-zA-Z0-9]{22}_[a-zA-Z0-9]{59}/g, '[REDACTED_TOKEN]')
-        .replace(/Bearer [a-zA-Z0-9._-]+/g, 'Bearer [REDACTED]')
-        .replace(/Authorization: [a-zA-Z0-9._-]+/g, 'Authorization: [REDACTED]');
+        .replace(/Bearer [a-zA-Z0-9._-]+/g, 'Bearer [REDACTED]');
     }
     info.error = sanitizedError;
   }
